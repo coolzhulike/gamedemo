@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "archived_on": "2026-10-16",
+  "scope": "Mounted-world additive scripts and original usage notes only. Not a standalone game or a complete project backup.",
+  "files": [
+    {
+      "path": "archives/2026-10-16/world_mounted_r01/private_mounted/mounted_actor.gd",
+      "source_relative_path": "wuxia_world_prototype_r01/world_mounted_r01/private_mounted/mounted_actor.gd",
+      "size": 5039,
+      "sha256": "32fb0d50099995fa4f48c8faf67a864249ec75fa7df78282c0eb6f308d6b8896",
+      "git_blob_sha": "15acb0973ccb0417084c9a0dfd74d3b380059e14"
+    },
+    {
+      "path": "archives/2026-10-16/world_mounted_r01/private_mounted/mounted_world.gd",
+      "source_relative_path": "wuxia_world_prototype_r01/world_mounted_r01/private_mounted/mounted_world.gd",
+      "size": 4202,
+      "sha256": "7a1a09da30186406ecf6bf0424de0b2b739c17d00e20919231aad3a85248313b",
+      "git_blob_sha": "75f84491a8d0e85c17a89ebed9b119edef0236dd"
+    },
+    {
+      "path": "archives/2026-10-16/world_mounted_r01/private_mounted/main.tscn",
+      "source_relative_path": "wuxia_world_prototype_r01/world_mounted_r01/private_mounted/main.tscn",
+      "size": 200,
+      "sha256": "70982d0c6f67cdaaa2d322fa21b3ddf05541be66b0df81b51ddb3a024ebfebaa",
+      "git_blob_sha": "82e4c8f153369e00a9201bea4729d64000cd6fc3"
+    },
+    {
+      "path": "archives/2026-10-16/world_mounted_r01/private_mounted/README_白马骑乘接入.txt",
+      "source_relative_path": "wuxia_world_prototype_r01/world_mounted_r01/private_mounted/README_白马骑乘接入.txt",
+      "size": 4530,
+      "sha256": "714b275fc470662ec8d0a00f45cf619cf0f8850d42d2f837df1b1a18b336a0cb",
+      "git_blob_sha": "855686e5586622ba995ad22f5a032cdbaf0c2f69"
+    }
+  ]
+}
