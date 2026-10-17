@@ -1,0 +1,29 @@
+[
+  {
+    "archive": "refined_assets.zip",
+    "parts": 61,
+    "files": 130,
+    "bytes": 252365649,
+    "archive_sha256": "9ef9c515ba854134640745a7a0f22e8bab47971110ac88068a6133c2774e0ad1",
+    "zip_crc": "passed",
+    "restored_file_sha256": "all_passed"
+  },
+  {
+    "archive": "batch03.zip",
+    "parts": 77,
+    "files": 51,
+    "bytes": 319611921,
+    "archive_sha256": "5dd359c95c29753e86ef60a1d5af9ad68ee0af866d69a0f89f5a432227ff6530",
+    "zip_crc": "passed",
+    "restored_file_sha256": "all_passed"
+  },
+  {
+    "archive": "world_preview.zip",
+    "parts": 54,
+    "files": 297,
+    "bytes": 225570131,
+    "archive_sha256": "09b64e85c9fadc1044ce495ae893d544e781c0913d1ffa45cb836114b933a543",
+    "zip_crc": "passed",
+    "restored_file_sha256": "all_passed"
+  }
+]

@@ -1,0 +1,12 @@
+{
+  "version": "2026-10-17-world-lux3d-r02",
+  "manifests": [
+    "refined_assets_manifest.json",
+    "batch03_manifest.json",
+    "world_preview_manifest.json"
+  ],
+  "total_files": 478,
+  "total_parts": 192,
+  "total_archive_bytes": 797547701,
+  "scope": "20 current world asset types, authored refinements and independent static-world previews; not a complete character game build"
+}
