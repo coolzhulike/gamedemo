@@ -1,0 +1,503 @@
+{
+  "archive": "highpoly_assets_work_in_progress_20261017.zip",
+  "archive_size": 358848075,
+  "archive_sha256": "56f1fbb56377dffd7809d4ef6871df3848b8f499695a7825e71ac27eb6ecdde8",
+  "parts": [
+    {
+      "filename": "highpoly_assets_work_in_progress_20261017.zip.001",
+      "size": 4194304,
+      "sha256": "ae5b1d3a1a1fd4e7709db4d6366dc974de2c50e4d43aa2851a8b806713d1c0ad"
+    },
+    {
+      "filename": "highpoly_assets_work_in_progress_20261017.zip.002",
+      "size": 4194304,
+      "sha256": "1d13c6f0fea0c4707a64148adb635642e2e7118260cf1778d42e98ad43b1e4ed"
+    },
+    {
+      "filename": "highpoly_assets_work_in_progress_20261017.zip.003",
+      "size": 4194304,
+      "sha256": "221fc7f36e0c2732631f8787095c9fb8077784cb57fbafd62800db250518c306"
+    },
+    {
+      "filename": "highpoly_assets_work_in_progress_20261017.zip.004",
+      "size": 4194304,
+      "sha256": "d0427c3540886e85d671d211c2c77de9be0eceb9d93cf362ea9f06554a382f51"
+    },
+    {
+      "filename": "highpoly_assets_work_in_progress_20261017.zip.005",
+      "size": 4194304,
+      "sha256": "52aade7c2cc398072154e390f6c0f174266f3fa5a5942bc1d51f4d469646967b"
+    },
+    {
+      "filename": "highpoly_assets_work_in_progress_20261017.zip.006",
+      "size": 4194304,
+      "sha256": "34390dfbe18b02f20d400666e8620fb7e78c2916e626d1474220628dc0502850"
+    },
+    {
+      "filename": "highpoly_assets_work_in_progress_20261017.zip.007",
+      "size": 4194304,
+      "sha256": "10ff104bf094146e992a9b43236905126967b05c24a461e5ab3dd1ad29b0238c"
+    },
+    {
+      "filename": "highpoly_assets_work_in_progress_20261017.zip.008",
+      "size": 4194304,
+      "sha256": "549a8a1ca5deb16da6fe75732b6484caa7d0e68a7653f5411c65c3b67ccfc25e"
+    },
+    {
+      "filename": "highpoly_assets_work_in_progress_20261017.zip.009",
+      "size": 4194304,
+      "sha256": "ade483b6454f138a739f8dc8e2d150ea960a241295a05e972fa41026dc0c5983"
+    },
+    {
+      "filename": "highpoly_assets_work_in_progress_20261017.zip.010",
+      "size": 4194304,
+      "sha256": "c5467d1188c774199a7e450c8c3d8b720fda6b16ffc423fbfc2cda35a6cedca8"
+    },
+    {
+      "filename": "highpoly_assets_work_in_progress_20261017.zip.011",
+      "size": 4194304,
+      "sha256": "12febdcefa6166cf809fd5e556235c7093d69b11b81d565e123af4e567869412"
+    },
+    {
+      "filename": "highpoly_assets_work_in_progress_20261017.zip.012",
+      "size": 4194304,
+      "sha256": "4ca21cf13c62c6636a7f37f43bbf68828034b80226bd8295db6e14f01c3dd92b"
+    },
+    {
+      "filename": "highpoly_assets_work_in_progress_20261017.zip.013",
+      "size": 4194304,
+      "sha256": "33e28cac524bcd37ab38c938e7ba3a851085592faf01d5da4200054cbf8ada55"
+    },
+    {
+      "filename": "highpoly_assets_work_in_progress_20261017.zip.014",
+      "size": 4194304,
+      "sha256": "781b0e1fa72306df4b9f5652f45da5ee16c40c5550452d5ff0a899fa80948d3c"
+    },
+    {
+      "filename": "highpoly_assets_work_in_progress_20261017.zip.015",
+      "size": 4194304,
+      "sha256": "e21253e391e2047e4a8f555bc401fb346ae20d0e40164a9a4fee8398ebe5f815"
+    },
+    {
+      "filename": "highpoly_assets_work_in_progress_20261017.zip.016",
+      "size": 4194304,
+      "sha256": "c21de864ab522f978c7df238027b606ee4dd8d11cb6a4dfe303a8dbe009a5d29"
+    },
+    {
+      "filename": "highpoly_assets_work_in_progress_20261017.zip.017",
+      "size": 4194304,
+      "sha256": "bf46aa2dbffdef65450329a3af9149961b0c7550b4cd126bfcbaa97fb9982ae9"
+    },
+    {
+      "filename": "highpoly_assets_work_in_progress_20261017.zip.018",
+      "size": 4194304,
+      "sha256": "38a0c5a2346bf642c2f045ca47a3837bb703c45d6280131deb4f6234c612046c"
+    },
+    {
+      "filename": "highpoly_assets_work_in_progress_20261017.zip.019",
+      "size": 4194304,
+      "sha256": "b2ccb263497d6868ab0c74fde13b1bf2eabef95d70b85ed5decc75a579de81b3"
+    },
+    {
+      "filename": "highpoly_assets_work_in_progress_20261017.zip.020",
+      "size": 4194304,
+      "sha256": "3dbdaa60c5b770764e50cc1a7973312c66b9c9becf7cf5210786b320b8613469"
+    },
+    {
+      "filename": "highpoly_assets_work_in_progress_20261017.zip.021",
+      "size": 4194304,
+      "sha256": "d8f9a9d8893bb4a282bfb23c053584e9066c18bcea20d7dc59e4fe639682be6f"
+    },
+    {
+      "filename": "highpoly_assets_work_in_progress_20261017.zip.022",
+      "size": 4194304,
+      "sha256": "3fc23b95282cbde1f703014d9d5f0a27808015947e1c88a641e4aebbac12ab00"
+    },
+    {
+      "filename": "highpoly_assets_work_in_progress_20261017.zip.023",
+      "size": 4194304,
+      "sha256": "4d5fc96b202f9f379ef7cd0b3e700aaf36dcb162c1953d75fb7bbbe867f5cb9b"
+    },
+    {
+      "filename": "highpoly_assets_work_in_progress_20261017.zip.024",
+      "size": 4194304,
+      "sha256": "6f1dc20493ae8a5a541707e0d0f8ab90cd7c734ad03b7549b35d64067e4dd7cb"
+    },
+    {
+      "filename": "highpoly_assets_work_in_progress_20261017.zip.025",
+      "size": 4194304,
+      "sha256": "ceff8250c7699b89b67913546cc73e037d58c94db260e55fc3960b0180940aed"
+    },
+    {
+      "filename": "highpoly_assets_work_in_progress_20261017.zip.026",
+      "size": 4194304,
+      "sha256": "68e324ec33f38e2da0f9a0b69079e83965c11eebf8c4ed3e0892dd86441ac355"
+    },
+    {
+      "filename": "highpoly_assets_work_in_progress_20261017.zip.027",
+      "size": 4194304,
+      "sha256": "4b6b2b5b57d7b4080a63cb8e979d3f1cb583fd062abae5a8dd67ffbae369825f"
+    },
+    {
+      "filename": "highpoly_assets_work_in_progress_20261017.zip.028",
+      "size": 4194304,
+      "sha256": "520ff5eead9d3fce7ae8b1e6d2f49aaa289cb34e3148bd9ce33b9f48c97477d2"
+    },
+    {
+      "filename": "highpoly_assets_work_in_progress_20261017.zip.029",
+      "size": 4194304,
+      "sha256": "afe534b3526c0a2b586f7a499fbfd9ed66eaae5f1dd4ff6d1f144448f7bf7b92"
+    },
+    {
+      "filename": "highpoly_assets_work_in_progress_20261017.zip.030",
+      "size": 4194304,
+      "sha256": "9eee8f7b51b5e8e1856bcd09ccffff046519da74f1c19cd8f7301bae546156a3"
+    },
+    {
+      "filename": "highpoly_assets_work_in_progress_20261017.zip.031",
+      "size": 4194304,
+      "sha256": "151580b0a016f2a8ed12c76ec5c50ac037e53b4ee55aa0569b0707bba7cfe978"
+    },
+    {
+      "filename": "highpoly_assets_work_in_progress_20261017.zip.032",
+      "size": 4194304,
+      "sha256": "8e67a3b6f6a31bbadae6e42ca883ad3ad36a1db76ea86d3807e9d8e6ea99b633"
+    },
+    {
+      "filename": "highpoly_assets_work_in_progress_20261017.zip.033",
+      "size": 4194304,
+      "sha256": "ad1c4a1f1f20dceed21d11dc9c080adbca297cf11b7c0c2b8da317e98c7336c5"
+    },
+    {
+      "filename": "highpoly_assets_work_in_progress_20261017.zip.034",
+      "size": 4194304,
+      "sha256": "cac3a2fea232c70fb49a7c571ba875bd9abe4cac67216cffae2060e200e47795"
+    },
+    {
+      "filename": "highpoly_assets_work_in_progress_20261017.zip.035",
+      "size": 4194304,
+      "sha256": "6c1fbae79c2259acac8cd304f08e8a604bdba89438b4395a13e32c1d68c09deb"
+    },
+    {
+      "filename": "highpoly_assets_work_in_progress_20261017.zip.036",
+      "size": 4194304,
+      "sha256": "8919eb8e07d1a34f71c9796fba2488eeda9d068171f65b32885bf245910f2d38"
+    },
+    {
+      "filename": "highpoly_assets_work_in_progress_20261017.zip.037",
+      "size": 4194304,
+      "sha256": "232c608d32b2dacef4206be6e8704a549d07fe1145102bb8d97697a2c99dde33"
+    },
+    {
+      "filename": "highpoly_assets_work_in_progress_20261017.zip.038",
+      "size": 4194304,
+      "sha256": "808c407725bcd81fa5be8d2c6964285d2d29ee70fcc9e3affe0b8fe064cdd417"
+    },
+    {
+      "filename": "highpoly_assets_work_in_progress_20261017.zip.039",
+      "size": 4194304,
+      "sha256": "7936f3358a1ed804c55fc86bba6065daa5d5d426c160e0e2e754f645b75edf41"
+    },
+    {
+      "filename": "highpoly_assets_work_in_progress_20261017.zip.040",
+      "size": 4194304,
+      "sha256": "c6f5eb3692cdf9066a7bdc4980d19afd2438e93b674c3497227a4884146ee829"
+    },
+    {
+      "filename": "highpoly_assets_work_in_progress_20261017.zip.041",
+      "size": 4194304,
+      "sha256": "460d2d208ba8b0b20b8de16f7df8a63c6043d258cfae3b14ecd8d5f294952fb5"
+    },
+    {
+      "filename": "highpoly_assets_work_in_progress_20261017.zip.042",
+      "size": 4194304,
+      "sha256": "f8d6600982d39f14152c1aef8c466b36c29898e0ef575f907deddee525d36043"
+    },
+    {
+      "filename": "highpoly_assets_work_in_progress_20261017.zip.043",
+      "size": 4194304,
+      "sha256": "718d1baa40bc6534ad5c5e27be85ee2e71cc5a6db14b2342e9816f1665b1cd40"
+    },
+    {
+      "filename": "highpoly_assets_work_in_progress_20261017.zip.044",
+      "size": 4194304,
+      "sha256": "7ac47082d00158a65ea9a047a1770136de3d1152bfd8a79fed209eaac82bb464"
+    },
+    {
+      "filename": "highpoly_assets_work_in_progress_20261017.zip.045",
+      "size": 4194304,
+      "sha256": "6f1cdaba038b8b58ed58fa00933634ed883ffd9b09feb40e261a2b93f0ec957f"
+    },
+    {
+      "filename": "highpoly_assets_work_in_progress_20261017.zip.046",
+      "size": 4194304,
+      "sha256": "c5ba2119595a928a5825a1fcda01be6c43c3319b8cf841ff29ca285e939a336e"
+    },
+    {
+      "filename": "highpoly_assets_work_in_progress_20261017.zip.047",
+      "size": 4194304,
+      "sha256": "efcde96bc0174f1e31dea0b86e87c802bd80bea417799048553965da6838f247"
+    },
+    {
+      "filename": "highpoly_assets_work_in_progress_20261017.zip.048",
+      "size": 4194304,
+      "sha256": "c1a54798bf9d70452ad2bfe1dfdb86538498e80a5fc58bdc52ca828c4201a03f"
+    },
+    {
+      "filename": "highpoly_assets_work_in_progress_20261017.zip.049",
+      "size": 4194304,
+      "sha256": "d5cac5db849fc5609f07a3ef181f5403612f7f765e8c5241cd4dd87623473af0"
+    },
+    {
+      "filename": "highpoly_assets_work_in_progress_20261017.zip.050",
+      "size": 4194304,
+      "sha256": "a133bc9850c479366b3babe03cded5cb214930c2b20a51f0a4a5136e64c69310"
+    },
+    {
+      "filename": "highpoly_assets_work_in_progress_20261017.zip.051",
+      "size": 4194304,
+      "sha256": "05b341e9f7b6c048aaadd8d14c67d3a486d01e4516c35fa4dd9d8c5a8f941e85"
+    },
+    {
+      "filename": "highpoly_assets_work_in_progress_20261017.zip.052",
+      "size": 4194304,
+      "sha256": "23e0cecb704051bb89266c701ddeb4b161ca8d9468016722c0c1e82f7b7927ac"
+    },
+    {
+      "filename": "highpoly_assets_work_in_progress_20261017.zip.053",
+      "size": 4194304,
+      "sha256": "dd211fb24c7c7d3616812785d0ba27437a60edf7cf1cd64388da37d199e6feb9"
+    },
+    {
+      "filename": "highpoly_assets_work_in_progress_20261017.zip.054",
+      "size": 4194304,
+      "sha256": "9e6d0c4e18a95650895956ddbe5359e746a7c47498dace245e730c281f70e531"
+    },
+    {
+      "filename": "highpoly_assets_work_in_progress_20261017.zip.055",
+      "size": 4194304,
+      "sha256": "8daef6513dabe887ca10ac3454f79a15d5181752006f0f245b625d82c094ac97"
+    },
+    {
+      "filename": "highpoly_assets_work_in_progress_20261017.zip.056",
+      "size": 4194304,
+      "sha256": "2e4999988befe225b70bba76cb0420ec9ed530d8de5a143489ac915d8e89eae4"
+    },
+    {
+      "filename": "highpoly_assets_work_in_progress_20261017.zip.057",
+      "size": 4194304,
+      "sha256": "0ad11c9c1ddafc7b87484bc6f0dfe2422ebe008d27b859e8bbc93b4cd051e1b7"
+    },
+    {
+      "filename": "highpoly_assets_work_in_progress_20261017.zip.058",
+      "size": 4194304,
+      "sha256": "5101accd259926265900500160f9970091e8221a4fb075b9b606c07e83f96092"
+    },
+    {
+      "filename": "highpoly_assets_work_in_progress_20261017.zip.059",
+      "size": 4194304,
+      "sha256": "87df861d80cd502969abaa5aebb82bf46c5a6239ee1e1b87060cc672e2b98520"
+    },
+    {
+      "filename": "highpoly_assets_work_in_progress_20261017.zip.060",
+      "size": 4194304,
+      "sha256": "46eb5f492141bf831a1abfb13cbae44a6ef30c766782e82f600d8685477655cd"
+    },
+    {
+      "filename": "highpoly_assets_work_in_progress_20261017.zip.061",
+      "size": 4194304,
+      "sha256": "ddb754d0067a0c8bfa357b8ba3014dd51eacaf453e7445b9407acb9dc1a690fe"
+    },
+    {
+      "filename": "highpoly_assets_work_in_progress_20261017.zip.062",
+      "size": 4194304,
+      "sha256": "7144773154d221c1155f2cee774d2da2492e4170b8dcc420637c71112cee4921"
+    },
+    {
+      "filename": "highpoly_assets_work_in_progress_20261017.zip.063",
+      "size": 4194304,
+      "sha256": "62e8ae9b7153259db0f3d90938298839bb36aa2ad0080824a749868f6be2a0d6"
+    },
+    {
+      "filename": "highpoly_assets_work_in_progress_20261017.zip.064",
+      "size": 4194304,
+      "sha256": "ce261701129bfb12c177cc6701cda0e870d0254d23d02666d67fa7a5dab7bcca"
+    },
+    {
+      "filename": "highpoly_assets_work_in_progress_20261017.zip.065",
+      "size": 4194304,
+      "sha256": "7fe42847cc4af97275349a4f8c90e5c6ac8a240830dd309d56b3c3b90dd48f2a"
+    },
+    {
+      "filename": "highpoly_assets_work_in_progress_20261017.zip.066",
+      "size": 4194304,
+      "sha256": "07ba43322be4bc3d939af51c104566c275cfe5cfa83401c3715e682deec7f4b8"
+    },
+    {
+      "filename": "highpoly_assets_work_in_progress_20261017.zip.067",
+      "size": 4194304,
+      "sha256": "f404f84aaaabc14d3ac0d9e572fe9f8ac4e95c7b9858d0a10a701b286fb28099"
+    },
+    {
+      "filename": "highpoly_assets_work_in_progress_20261017.zip.068",
+      "size": 4194304,
+      "sha256": "9a366aee869b50078ac33fb8443f9d8f5df3554dd8367075cbaf1b7af2cdf63a"
+    },
+    {
+      "filename": "highpoly_assets_work_in_progress_20261017.zip.069",
+      "size": 4194304,
+      "sha256": "3ed10165433abb293e112950483fbf110fc2c53ea06a74b6ff4eacff37ef80b8"
+    },
+    {
+      "filename": "highpoly_assets_work_in_progress_20261017.zip.070",
+      "size": 4194304,
+      "sha256": "1141daba837e236fa4d6918eaa4c2c06ca18e50936faee3a2bc465a6c9c5c6c1"
+    },
+    {
+      "filename": "highpoly_assets_work_in_progress_20261017.zip.071",
+      "size": 4194304,
+      "sha256": "36397dec8293e79b0a56c3483d25a09e297ae57940b183d4009261662fd083d1"
+    },
+    {
+      "filename": "highpoly_assets_work_in_progress_20261017.zip.072",
+      "size": 4194304,
+      "sha256": "5cf60892057703a020ed8ddff7d1299cfc4c4b6206a2308008e7f9d4e4a50b06"
+    },
+    {
+      "filename": "highpoly_assets_work_in_progress_20261017.zip.073",
+      "size": 4194304,
+      "sha256": "8c2e3802fea9ff1bcdcd76c4ac9216606d8557d2322f59bca8c6090ec3b11080"
+    },
+    {
+      "filename": "highpoly_assets_work_in_progress_20261017.zip.074",
+      "size": 4194304,
+      "sha256": "319be93f7ac224be725f370eac260250a9fa276ac5255224d8b4c796df904275"
+    },
+    {
+      "filename": "highpoly_assets_work_in_progress_20261017.zip.075",
+      "size": 4194304,
+      "sha256": "7b005987cd5bd43968ab6deeac2e19bbf7f35048d90eb4bd53572b34c8d47d0c"
+    },
+    {
+      "filename": "highpoly_assets_work_in_progress_20261017.zip.076",
+      "size": 4194304,
+      "sha256": "9228968856ce024406fbb64430f7073489500f9afcdc0cbecc0f3281f754b02b"
+    },
+    {
+      "filename": "highpoly_assets_work_in_progress_20261017.zip.077",
+      "size": 4194304,
+      "sha256": "bfbb212784fa1a19572261bd074f782e4a666601b121ab41a441be145dbbb3ea"
+    },
+    {
+      "filename": "highpoly_assets_work_in_progress_20261017.zip.078",
+      "size": 4194304,
+      "sha256": "5e7e832f06ce6f418e61d2152ecf18b67dd24d240d0cc58a91b82a2a351dd795"
+    },
+    {
+      "filename": "highpoly_assets_work_in_progress_20261017.zip.079",
+      "size": 4194304,
+      "sha256": "0b3eb29279a527c95629d699afeb9e3697a7612c526f7ae888d55d74ee899ed7"
+    },
+    {
+      "filename": "highpoly_assets_work_in_progress_20261017.zip.080",
+      "size": 4194304,
+      "sha256": "2d110930c2b43317f9fbc2b717c3005200113231d953c3d6ad3c47ebe25f0ce1"
+    },
+    {
+      "filename": "highpoly_assets_work_in_progress_20261017.zip.081",
+      "size": 4194304,
+      "sha256": "691f10e053a9305b364efa328c06181fb2b3c3c7f4c42ecf9f5870782af9a911"
+    },
+    {
+      "filename": "highpoly_assets_work_in_progress_20261017.zip.082",
+      "size": 4194304,
+      "sha256": "d7e5b2bf0d7a32363e1caa53a57be224b686e8294f84dfcd8824dc8f41984bf1"
+    },
+    {
+      "filename": "highpoly_assets_work_in_progress_20261017.zip.083",
+      "size": 4194304,
+      "sha256": "e7437d7e12c3f9cbb6aea1ef1cab0a96d02835ce3c172fe2c47b9991227ac5cc"
+    },
+    {
+      "filename": "highpoly_assets_work_in_progress_20261017.zip.084",
+      "size": 4194304,
+      "sha256": "91e72253c047dd2e2a2b042f4953530bb942800ec0c2a7038b658d523c8588bc"
+    },
+    {
+      "filename": "highpoly_assets_work_in_progress_20261017.zip.085",
+      "size": 4194304,
+      "sha256": "a580c0e949fd238320f1bc70f3c287298b315db7a30e32a37796d05ddad62c1d"
+    },
+    {
+      "filename": "highpoly_assets_work_in_progress_20261017.zip.086",
+      "size": 2332235,
+      "sha256": "1ac70d7864e07523faca6fd023bcc2cea51ae91fd8a830ce154ac5a20a032677"
+    }
+  ],
+  "assets": [
+    {
+      "id": "male_source",
+      "filename": "wuxia robe 3d model.glb",
+      "size": 63153404,
+      "sha256": "804b03465b0b223e5aeb33e762f69181b3f134c28b24a0f1cb1be665177b084a",
+      "status": "Original high-poly male; unrigged source",
+      "archive_path": "assets/male_source/wuxia robe 3d model.glb"
+    },
+    {
+      "id": "female_new_source",
+      "filename": "black hanfu dress 3d model.glb",
+      "size": 62502900,
+      "sha256": "a8ac4d8ac18af00c782a14c9417712159a7b6fab06be78397ddb9550dc7001f8",
+      "status": "New female source replacing previous female; unrigged",
+      "archive_path": "assets/female_new_source/black hanfu dress 3d model.glb"
+    },
+    {
+      "id": "male_motion_v5",
+      "filename": "Wuxia_Male_HighPoly_Motions_v5.glb",
+      "size": 84262048,
+      "sha256": "6956f0c4eb1a8fbac669e136ae758a29bbf07769b4b839ad7350e14dc7376577",
+      "status": "Six clips. Run clothing NOT accepted. Old Idle pending replacement with hands-on-hips",
+      "archive_path": "assets/male_motion_v5/Wuxia_Male_HighPoly_Motions_v5.glb"
+    },
+    {
+      "id": "male_horse_v5",
+      "filename": "Tripo_HighPoly_Horse_Riding_v5.blend",
+      "size": 100282085,
+      "sha256": "938a6f1839f51101834d07715eba861baf4fef0cd12803a16ef1d809870c833e",
+      "status": "Horse and male rider preview project; not integrated into game",
+      "archive_path": "assets/male_horse_v5/Tripo_HighPoly_Horse_Riding_v5.blend"
+    },
+    {
+      "id": "male_structure_v8d_candidate",
+      "filename": "Wuxia_Male_HighPoly_v8d_FullFront_RunKeyPoseCandidate.glb",
+      "size": 101415300,
+      "sha256": "340ec443703ae8d702862328bfa509ff4476330e5241f462157bcebc28362beb",
+      "status": "UNACCEPTED Run structural candidate; intermediate intersections remain",
+      "archive_path": "assets/male_structure_v8d_candidate/Wuxia_Male_HighPoly_v8d_FullFront_RunKeyPoseCandidate.glb"
+    },
+    {
+      "id": "chair",
+      "filename": "wuxia_wood_chair_package.zip",
+      "size": 2042920,
+      "sha256": "8029b407dc427bfce309bd6b1798c399d519fb6725a07aa5fe4971149caa6d30",
+      "status": "Wooden chair with Blender, GLB, Godot scene/collisions and preview",
+      "archive_path": "assets/chair/wuxia_wood_chair_package.zip"
+    },
+    {
+      "id": "female_motion_candidate",
+      "filename": "female_fingers_candidate.glb",
+      "size": 88483292,
+      "sha256": "e702d632d03aac343ad3a700e57d88abeed6e3dabbe767a23ba5ae2503bef184",
+      "status": "WORK IN PROGRESS: newest finger-rig/akimbo/seated candidate. Hand and cloth contact review incomplete. Not accepted final.",
+      "archive_path": "assets/female_motion_candidate/female_fingers_candidate.glb"
+    },
+    {
+      "id": "male_akimbo_seated_candidate",
+      "filename": "Wuxia_Male_HighPoly_v15_AkimboSeatedCandidate.glb",
+      "status": "WORK IN PROGRESS: latest hands-on-hips, chair-sitting, meditation candidate. Front robe still rigid in seated views; final video review incomplete.",
+      "sha256": "af99d3794d47818699eae5e2b32ac430c270f7da2a5a47ec427f0d4a01186490",
+      "size": 94328576,
+      "archive_path": "assets/male_akimbo_seated_candidate/Wuxia_Male_HighPoly_v15_AkimboSeatedCandidate.glb"
+    }
+  ]
+}
