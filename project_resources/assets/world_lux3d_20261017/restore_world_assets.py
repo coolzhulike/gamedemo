@@ -2,7 +2,7 @@
 """Download, verify and restore the archived world assets using Python 3 only."""
 import argparse,hashlib,json,shutil,tempfile,urllib.request,zipfile
 from pathlib import Path
-REPO='coolzhulike/gamedemo'; BRANCH='assets/world-lux3d-20261017'; PREFIX='project_resources/assets/world_lux3d_20261017'
+REPO='coolzhulike/gamedemo'; BRANCH='9d6822816004d6af8edd3e19765f49e03cb0efb9'; PREFIX='project_resources/assets/world_lux3d_20261017'
 def digest(p):
  h=hashlib.sha256()
  with p.open('rb') as f:
