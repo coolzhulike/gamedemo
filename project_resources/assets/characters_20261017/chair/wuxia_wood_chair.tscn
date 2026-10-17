@@ -1,0 +1,96 @@
+[gd_scene load_steps=9 format=3]
+
+[ext_resource type="PackedScene" path="wuxia_wood_chair.glb" id="1_visual"]
+
+[sub_resource type="BoxShape3D" id="SeatBox"]
+size = Vector3(0.48, 0.042, 0.48)
+
+[sub_resource type="BoxShape3D" id="LegBox"]
+size = Vector3(0.046, 0.408, 0.046)
+
+[sub_resource type="BoxShape3D" id="BackPostBox"]
+size = Vector3(0.038, 0.462, 0.038)
+
+[sub_resource type="BoxShape3D" id="BackSplatBox"]
+size = Vector3(0.136, 0.425, 0.029)
+
+[sub_resource type="BoxShape3D" id="CrestBox"]
+size = Vector3(0.532, 0.055, 0.04)
+
+[sub_resource type="BoxShape3D" id="SideRailBox"]
+size = Vector3(0.024, 0.027, 0.367)
+
+[sub_resource type="BoxShape3D" id="CrossRailBox"]
+size = Vector3(0.367, 0.027, 0.024)
+
+[node name="WuxiaWoodChair" type="Node3D"]
+metadata/seat_height_m = 0.45
+metadata/forward = "-Z"
+metadata/purpose = "Armless seat for seated pose testing; SeatSocket is the seat surface, not a hip-bone target"
+
+[node name="Visual" parent="." instance=ExtResource("1_visual")]
+
+[node name="SeatSocket" type="Marker3D" parent="."]
+position = Vector3(0, 0.45, 0.025)
+
+[node name="GroundOrigin" type="Marker3D" parent="."]
+
+[node name="FootTarget_L" type="Marker3D" parent="."]
+position = Vector3(-0.105, 0, -0.36)
+
+[node name="FootTarget_R" type="Marker3D" parent="."]
+position = Vector3(0.105, 0, -0.36)
+
+[node name="Collision" type="StaticBody3D" parent="."]
+
+[node name="Seat" type="CollisionShape3D" parent="Collision"]
+position = Vector3(0, 0.429, 0)
+shape = SubResource("SeatBox")
+
+[node name="FrontLeftLeg" type="CollisionShape3D" parent="Collision"]
+position = Vector3(-0.204, 0.204, -0.204)
+shape = SubResource("LegBox")
+
+[node name="FrontRightLeg" type="CollisionShape3D" parent="Collision"]
+position = Vector3(0.204, 0.204, -0.204)
+shape = SubResource("LegBox")
+
+[node name="RearLeftLeg" type="CollisionShape3D" parent="Collision"]
+position = Vector3(-0.204, 0.204, 0.204)
+shape = SubResource("LegBox")
+
+[node name="RearRightLeg" type="CollisionShape3D" parent="Collision"]
+position = Vector3(0.204, 0.204, 0.204)
+shape = SubResource("LegBox")
+
+[node name="BackLeftPost" type="CollisionShape3D" parent="Collision"]
+position = Vector3(-0.204, 0.669, 0.211)
+shape = SubResource("BackPostBox")
+
+[node name="BackRightPost" type="CollisionShape3D" parent="Collision"]
+position = Vector3(0.204, 0.669, 0.211)
+shape = SubResource("BackPostBox")
+
+[node name="BackSplat" type="CollisionShape3D" parent="Collision"]
+position = Vector3(0, 0.676, 0.214)
+shape = SubResource("BackSplatBox")
+
+[node name="CrestRail" type="CollisionShape3D" parent="Collision"]
+position = Vector3(0, 0.919, 0.220)
+shape = SubResource("CrestBox")
+
+[node name="LeftStretcher" type="CollisionShape3D" parent="Collision"]
+position = Vector3(-0.204, 0.17, 0)
+shape = SubResource("SideRailBox")
+
+[node name="RightStretcher" type="CollisionShape3D" parent="Collision"]
+position = Vector3(0.204, 0.17, 0)
+shape = SubResource("SideRailBox")
+
+[node name="RearStretcher" type="CollisionShape3D" parent="Collision"]
+position = Vector3(0, 0.17, 0.204)
+shape = SubResource("CrossRailBox")
+
+[node name="FrontStretcher" type="CollisionShape3D" parent="Collision"]
+position = Vector3(0, 0.12, -0.204)
+shape = SubResource("CrossRailBox")

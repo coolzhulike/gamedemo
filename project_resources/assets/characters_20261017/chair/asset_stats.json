@@ -1,0 +1,16 @@
+{
+  "triangles": 6556,
+  "editable_parts": 33,
+  "seat_height_m": 0.45,
+  "seat_width_m": 0.48,
+  "seat_depth_m": 0.48,
+  "overall_width_m": 0.532,
+  "overall_height_m": 0.946,
+  "blender_forward": "+Y",
+  "godot_forward": "-Z",
+  "godot_seat_socket": [
+    0,
+    0.45,
+    0.025
+  ]
+}
