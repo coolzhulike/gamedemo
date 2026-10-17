@@ -1,0 +1,1097 @@
+{
+  "status": "PUBLIC_IMMUTABLE_COMMIT_DOWNLOAD_AND_FULL_RESTORE_VERIFIED",
+  "started_utc": "2026-10-17T05:33:54.516777+00:00",
+  "verified_utc": "2026-10-17T05:34:06.823815+00:00",
+  "repository": "coolzhulike/gamedemo",
+  "repository_public": true,
+  "remote_url": "https://github.com/coolzhulike/gamedemo.git",
+  "branch": "assets/characters-20261017-review-01",
+  "bundle_commit": "d322c35c916e5b6d4ba75a66ecad414f2dae105e",
+  "branch_commit_from_public_metadata": "d322c35c916e5b6d4ba75a66ecad414f2dae105e",
+  "bundle_tree_oid": "7d09822de52b39cef41a1ca3936651bb3e131269",
+  "path": "project_resources/assets/characters_20261017/review_01",
+  "original_source_assets_commit": "99ec654e1325fde055089a6bf556b44a75e52417",
+  "matching_pull_requests_from_public_metadata": [],
+  "github_commit_url": "https://github.com/coolzhulike/gamedemo/commit/d322c35c916e5b6d4ba75a66ecad414f2dae105e",
+  "github_bundle_url": "https://github.com/coolzhulike/gamedemo/tree/d322c35c916e5b6d4ba75a66ecad414f2dae105e/project_resources/assets/characters_20261017/review_01",
+  "transport": "GitHub_official_REST_blobs_and_raw_HTTP_ranges_with_fresh_public_Git_tree_metadata",
+  "fresh_download": true,
+  "local_upload_parts_used": false,
+  "local_upload_source_parts_reused": false,
+  "public_download_cache_resumed": true,
+  "cached_public_parts_reverified": 39,
+  "downloaded_blob_count_verified": 94,
+  "parts_sha256_verified": 92,
+  "parts_git_blob_identity_verified": 92,
+  "canonical_metadata_git_blob_identity_verified": 2,
+  "downloaded_restore_script_sha256": "99361d7985f6c3c71a0b5a99e0fc4dcb3138642e59a84780d429bc90bbcbc5ad",
+  "restore_script_git_blob_oid": "ef5d827a1a937f959c00c0eca4305a40c2d54eac",
+  "manifest_sha256": "95adb06ff10b2e5f93dbcb2d8bc7939b1da349d9076c15305849e31098b0e4ae",
+  "manifest_git_blob_oid": "78c991e7a19275a686c5cc93e9c823ef282e7bc5",
+  "canonical_git_bytes_verified_without_EOL_or_JSON_rewriting": true,
+  "archive_bytes": 769899271,
+  "archive_sha256": "fd6dd6772b4ebbae2aacca536868399ac94cff884620fc935df445bd05f955a0",
+  "public_restore_exit_code": 0,
+  "public_restore_source_script_sha256": "99361d7985f6c3c71a0b5a99e0fc4dcb3138642e59a84780d429bc90bbcbc5ad",
+  "zip_crc_verified_by_pinned_public_restore": true,
+  "zip_crc_and_exact_manifest_file_set_verified": true,
+  "zip_crc_repeated_by_finalizer": false,
+  "zip_crc_evidence": "Pinned public restore exit0 and exact 1040-file completion stdout; every restored file independently rehashed.",
+  "restored_file_set_exact": true,
+  "restored_files_sha256_verified": 1040,
+  "restored_bytes": 926170371,
+  "key_files_verified": 10,
+  "key_files": [
+    {
+      "path": "actors/male/Male_HighPoly_Review.glb",
+      "bytes": 129564356,
+      "sha256": "9a7fb91caa11045735c51f69118653326cd9545db02b4a01fbcc930250b6e7eb",
+      "matches_current_delivery": true,
+      "matches_public_manifest": true
+    },
+    {
+      "path": "actors/male/Male_HighPoly_Review.blend",
+      "bytes": 143109302,
+      "sha256": "331b21ff3cbd3e51d21801e4b3df8b90b84e832495154ad4be7e6cf52a399ba8",
+      "matches_current_delivery": true,
+      "matches_public_manifest": true
+    },
+    {
+      "path": "actors/female/Female_HighPoly_Review.glb",
+      "bytes": 125276616,
+      "sha256": "51fbcd9a139a278152360b9130e2c4b865fbfe13ed77f9275ace3c8a6db59c04",
+      "matches_current_delivery": true,
+      "matches_public_manifest": true
+    },
+    {
+      "path": "actors/female/Female_HighPoly_Review.blend",
+      "bytes": 123727101,
+      "sha256": "488b6541a6111819563dffe80ac2195ab3317bf776e4e08b8a84e7f5e4212d02",
+      "matches_current_delivery": true,
+      "matches_public_manifest": true
+    },
+    {
+      "path": "riding/male/male_horse_review.blend",
+      "bytes": 150700300,
+      "sha256": "0bc3246ba103d015dd82805fcec519c95a11204734547d3a292e6bb58d4563b1",
+      "matches_current_delivery": true,
+      "matches_public_manifest": true
+    },
+    {
+      "path": "riding/female/female_horse_review.blend",
+      "bytes": 131558318,
+      "sha256": "84f7dc9330b1ae66f79ed71d09b01221a05633ad171976bc80723deca082cf91",
+      "matches_current_delivery": true,
+      "matches_public_manifest": true
+    },
+    {
+      "path": "chair/wuxia_wood_chair.glb",
+      "bytes": 342712,
+      "sha256": "a3ac8aac72d978836feb1c00e3cde5aa856f9df661a4defa99d8bb3c933ee0c0",
+      "matches_current_delivery": true,
+      "matches_public_manifest": true
+    },
+    {
+      "path": "review/index.html",
+      "bytes": 14393,
+      "sha256": "766f04244c31c926f1e3a8008fc32a423519b3150d9f2a59101c701d2ff9f3e3",
+      "matches_current_delivery": true,
+      "matches_public_manifest": true
+    },
+    {
+      "path": "FINAL_VIDEO_VALIDATION.json",
+      "bytes": 22294,
+      "sha256": "391e0e6affb36da3d022ccb0003a36d81c0e2fdcfaf23e7e8efe846c8269c19f",
+      "matches_current_delivery": true,
+      "matches_public_manifest": true
+    },
+    {
+      "path": "REVIEW_COMPLETION.json",
+      "bytes": 3583,
+      "sha256": "a44af17ccfdcca0c249fd775d962f2c7af2d2c0c661f89d15d13b3ae4824753b",
+      "matches_current_delivery": true,
+      "matches_public_manifest": true
+    }
+  ],
+  "selected_videos_sha256_verified": 32,
+  "selected_videos": [
+    {
+      "path": "review/videos/male/Idle_front.mp4",
+      "bytes": 494384,
+      "sha256": "953e174caa25e8994f66e3d2694c7159a3e1dce0dffbd7ad16d3754e87e27e7a",
+      "matches_current_delivery": true,
+      "visual_acceptance": false
+    },
+    {
+      "path": "review/videos/male/Idle_side.mp4",
+      "bytes": 416187,
+      "sha256": "a0ba84bfbe387053f384daefbae43ccd134f0972e815d905f927adf883dce0b0",
+      "matches_current_delivery": true,
+      "visual_acceptance": false
+    },
+    {
+      "path": "review/videos/male/Walk_front.mp4",
+      "bytes": 379474,
+      "sha256": "9da705e25f0eb252d2733f6c1be4da607288a6dd899f58f4def58ccd452c63e3",
+      "matches_current_delivery": true,
+      "visual_acceptance": false
+    },
+    {
+      "path": "review/videos/male/Walk_side.mp4",
+      "bytes": 323100,
+      "sha256": "99c77496ded42d7912ffee611eefa60057d2b7180130fd8543b21b7e5e1a6dcf",
+      "matches_current_delivery": true,
+      "visual_acceptance": false
+    },
+    {
+      "path": "review/videos/male/Run_front.mp4",
+      "bytes": 581978,
+      "sha256": "61fa45a3cefa4a4ec19dd751fc2a94dcd702ef5f02f0b83eab12adaf58806165",
+      "matches_current_delivery": true,
+      "visual_acceptance": false
+    },
+    {
+      "path": "review/videos/male/Run_side.mp4",
+      "bytes": 670030,
+      "sha256": "ab9e86c61c9a70977ce7b6138131861bae0d2de3b1eda7aa63fa75910724e563",
+      "matches_current_delivery": true,
+      "visual_acceptance": false
+    },
+    {
+      "path": "review/videos/male/Jump_front.mp4",
+      "bytes": 383148,
+      "sha256": "7a03c087cc4d713bfc396b14e351f8532963576889463702f1871bb2973a1e5b",
+      "matches_current_delivery": true,
+      "visual_acceptance": false
+    },
+    {
+      "path": "review/videos/male/Jump_side.mp4",
+      "bytes": 316404,
+      "sha256": "c5be8afc0c73a9e977ffea53f0362b3c7aebf898e373d1ded3c6f0cc193e9a74",
+      "matches_current_delivery": true,
+      "visual_acceptance": false
+    },
+    {
+      "path": "review/videos/male/SitChair_front.mp4",
+      "bytes": 309268,
+      "sha256": "cce000d2b981d0676887225159997d76c04e32bbc273886b4aa905273d6c35e6",
+      "matches_current_delivery": true,
+      "visual_acceptance": false
+    },
+    {
+      "path": "review/videos/male/SitChair_side.mp4",
+      "bytes": 135577,
+      "sha256": "713ccbbddbef3a0c2e0821fcffcce6a5fb7df021288d98aad9aefa74a0256bfb",
+      "matches_current_delivery": true,
+      "visual_acceptance": false
+    },
+    {
+      "path": "review/videos/male/Meditate_front.mp4",
+      "bytes": 175229,
+      "sha256": "c99e6322da570796ca6388b59a470a7ef5a3e322c6da9c8e8fa6a88a265412fa",
+      "matches_current_delivery": true,
+      "visual_acceptance": false
+    },
+    {
+      "path": "review/videos/male/Meditate_side.mp4",
+      "bytes": 146413,
+      "sha256": "39bdc164eab9da797ec64204f47b0602acccc14f3fd6884d16335b147450e20e",
+      "matches_current_delivery": true,
+      "visual_acceptance": false
+    },
+    {
+      "path": "review/videos/male/RideWalk_front.mp4",
+      "bytes": 261494,
+      "sha256": "7607adbdd28220daf5bfbe628a5364e8fae3286dced6b9112bf8fd7f84d18c4d",
+      "matches_current_delivery": true,
+      "visual_acceptance": false
+    },
+    {
+      "path": "review/videos/male/RideWalk_side.mp4",
+      "bytes": 401280,
+      "sha256": "f447b2823ddd097948320fd19b2c42cba3ffa96c7183b588f0559f593e119a2f",
+      "matches_current_delivery": true,
+      "visual_acceptance": false
+    },
+    {
+      "path": "review/videos/male/RideGallop_front.mp4",
+      "bytes": 320845,
+      "sha256": "55767951d18ffa7a15e5e26100f9bfc3debfb90e912daf333f31ba6966660626",
+      "matches_current_delivery": true,
+      "visual_acceptance": false
+    },
+    {
+      "path": "review/videos/male/RideGallop_side.mp4",
+      "bytes": 471408,
+      "sha256": "6a2dcb84f721540e28049c4e5a5c1ec7277bcf07b1b3f57cc8bdcf57a9674593",
+      "matches_current_delivery": true,
+      "visual_acceptance": false
+    },
+    {
+      "path": "review/videos/female/Idle_front.mp4",
+      "bytes": 363797,
+      "sha256": "cc73cbec3f9d5cf9269b88a13f0b5fa16e88980edf54b4ce27a326d919266365",
+      "matches_current_delivery": true,
+      "visual_acceptance": false
+    },
+    {
+      "path": "review/videos/female/Idle_side.mp4",
+      "bytes": 324241,
+      "sha256": "88ebd5c24261e555c0ee45b193790678e46eb738585e72b6b886e1abe85c8b65",
+      "matches_current_delivery": true,
+      "visual_acceptance": false
+    },
+    {
+      "path": "review/videos/female/Walk_front.mp4",
+      "bytes": 374043,
+      "sha256": "46278ffda2da06994762972920e485962f8fbd72bdcb720dffac3ef7a5c4d38a",
+      "matches_current_delivery": true,
+      "visual_acceptance": false
+    },
+    {
+      "path": "review/videos/female/Walk_side.mp4",
+      "bytes": 297222,
+      "sha256": "6ecdf73eda029c83b817415ed869c74b022bd950a297d2d7ec94ebcfc4409777",
+      "matches_current_delivery": true,
+      "visual_acceptance": false
+    },
+    {
+      "path": "review/videos/female/Run_front.mp4",
+      "bytes": 504093,
+      "sha256": "cc449df8ff48aa52ff406e3d60f198eec4dcb7b9b3f95b703366b3ec73ef2c83",
+      "matches_current_delivery": true,
+      "visual_acceptance": false
+    },
+    {
+      "path": "review/videos/female/Run_side.mp4",
+      "bytes": 689201,
+      "sha256": "671bd95d5d60579157397cc8efc4754f705f3d4cf29c3f5aadd6651c51eb1df6",
+      "matches_current_delivery": true,
+      "visual_acceptance": false
+    },
+    {
+      "path": "review/videos/female/Jump_front.mp4",
+      "bytes": 324953,
+      "sha256": "a13c78ee9048fbfc8cc039e2b9c7e006fa72339ad9128dfc17719b45ee90950b",
+      "matches_current_delivery": true,
+      "visual_acceptance": false
+    },
+    {
+      "path": "review/videos/female/Jump_side.mp4",
+      "bytes": 310834,
+      "sha256": "244d84e6913a931142075983ecd57a0f9a989c3e752acf14499130ca274198c3",
+      "matches_current_delivery": true,
+      "visual_acceptance": false
+    },
+    {
+      "path": "review/videos/female/SitChair_front.mp4",
+      "bytes": 131586,
+      "sha256": "c3810b8634672d4d407601b0648cccc270a4e6aea89b84f415a910b83b2fd11f",
+      "matches_current_delivery": true,
+      "visual_acceptance": false
+    },
+    {
+      "path": "review/videos/female/SitChair_side.mp4",
+      "bytes": 147148,
+      "sha256": "6dd74d6a81e65835e8c00709aca6b5f084d940eb2570156ca29b7347e4b4e3d4",
+      "matches_current_delivery": true,
+      "visual_acceptance": false
+    },
+    {
+      "path": "review/videos/female/Meditate_front.mp4",
+      "bytes": 121560,
+      "sha256": "3f94900434798470486fc1fc5f9f1588fff2270a4085277a5e9f634071b7008f",
+      "matches_current_delivery": true,
+      "visual_acceptance": false
+    },
+    {
+      "path": "review/videos/female/Meditate_side.mp4",
+      "bytes": 141294,
+      "sha256": "5945196bd3f5eea63a57b02ba2fdb1b30a0058e9901fc8ecef913c8e5da5cad6",
+      "matches_current_delivery": true,
+      "visual_acceptance": false
+    },
+    {
+      "path": "review/videos/female/RideWalk_front.mp4",
+      "bytes": 218906,
+      "sha256": "50a191baec656f58eb5aa937d9c9e5b37ef16af6c07c55a8948005390a559a5f",
+      "matches_current_delivery": true,
+      "visual_acceptance": false
+    },
+    {
+      "path": "review/videos/female/RideWalk_side.mp4",
+      "bytes": 446298,
+      "sha256": "802a95f28e6fbdb430e814f89014bb959c59aca61d1b3850d5f49d180b88909a",
+      "matches_current_delivery": true,
+      "visual_acceptance": false
+    },
+    {
+      "path": "review/videos/female/RideGallop_front.mp4",
+      "bytes": 268540,
+      "sha256": "cabf2a2122c7891fc2b3e3b4c33d20f0f1aa86dc64000ef8fb4b47c7ad317ed5",
+      "matches_current_delivery": true,
+      "visual_acceptance": false
+    },
+    {
+      "path": "review/videos/female/RideGallop_side.mp4",
+      "bytes": 513117,
+      "sha256": "b0bd99c145ca8aef6083e62f63b576cc1b8d24da6cb6903215045487d7730494",
+      "matches_current_delivery": true,
+      "visual_acceptance": false
+    }
+  ],
+  "visual_acceptance": false,
+  "visual_status": "Integrity only. Prior unaccepted hand, cloth, grip and motion findings remain; no new visual/native acceptance is claimed.",
+  "network_requests_by_finalizer": 0,
+  "main_branch_modified_by_finalizer": false,
+  "assets_repacked_by_finalizer": false,
+  "assets_uploaded_by_finalizer": false,
+  "evidence_directory": "public_roundtrip/api_fresh_d322c35c916e5b6d4ba75a66ecad414f2dae105e",
+  "evidence_sha256": {
+    "PUBLIC_REPOSITORY_METADATA.json": "6e51fc7e97ca25226f0106846c9cc57ef9712a31867b67e67798a9a665e9dfb3",
+    "DOWNLOAD_RECEIPT.json": "826f0eea9b0485b5276552730d7fca3abef38c83373b6509753d43f7e844bfc8",
+    "RESTORE_RECEIPT.json": "ed4bc45a3d1c4dfd37637f625434d860cf35b3bce883f7486cc3c523e6f3abf8",
+    "restore.stdout.log": "1cd11a3951d593f59fb979cb0ae36171ae515403ca74585b53c7ce1054f307ca",
+    "finalize_public_api_proof.py": "01a9b17228538a6678cd9f1bf211f917289505bd808141085e1028c7dd5519fa"
+  },
+  "download_started_utc": "2026-10-17T05:16:01.230910+00:00",
+  "download_finished_utc": "2026-10-17T05:32:44.128489+00:00",
+  "parts": [
+    {
+      "filename": "delivery.zip.part001",
+      "bytes": 8388608,
+      "sha256": "63d90f77a9594570add9d8b214c6747281e374777f5d801eb29a4d9f982658b1",
+      "git_blob_oid": "b580b534f640cbeaeefbcfcc3593b217c9abaca5",
+      "verified": true,
+      "source_url": "https://api.github.com/repos/coolzhulike/gamedemo/git/blobs/b580b534f640cbeaeefbcfcc3593b217c9abaca5"
+    },
+    {
+      "filename": "delivery.zip.part002",
+      "bytes": 8388608,
+      "sha256": "49189269967aaf5b3ab6a75e603e7fb5692824a32edac3c949f3e6772c902ce1",
+      "git_blob_oid": "970e51ed7fc806f765234fc2f44c1104e35487e3",
+      "verified": true,
+      "source_url": "https://api.github.com/repos/coolzhulike/gamedemo/git/blobs/970e51ed7fc806f765234fc2f44c1104e35487e3"
+    },
+    {
+      "filename": "delivery.zip.part003",
+      "bytes": 8388608,
+      "sha256": "21275ca02445acfdc3c87fec32e4f796f41ebb09b29158cee08314edbfdfe1fb",
+      "git_blob_oid": "b306254de1545094d8c3ea75a0e33039e621e5e0",
+      "verified": true,
+      "source_url": "https://api.github.com/repos/coolzhulike/gamedemo/git/blobs/b306254de1545094d8c3ea75a0e33039e621e5e0"
+    },
+    {
+      "filename": "delivery.zip.part004",
+      "bytes": 8388608,
+      "sha256": "8b3c0845ec8bf0055e8c5b1ac98c574f6eb3c2c601039449852457d8e92807bc",
+      "git_blob_oid": "93b16be4f7c7fe52f165d50f30d120b57c84d55c",
+      "verified": true,
+      "source_url": "https://api.github.com/repos/coolzhulike/gamedemo/git/blobs/93b16be4f7c7fe52f165d50f30d120b57c84d55c"
+    },
+    {
+      "filename": "delivery.zip.part005",
+      "bytes": 8388608,
+      "sha256": "fd617360d799ccb98cce265c80de518d0642f24b5957feb9e89a41c3baa6684f",
+      "git_blob_oid": "dd0333be6db510eeeae11ffcd04ec0acb5a3cc6b",
+      "verified": true,
+      "source_url": "https://api.github.com/repos/coolzhulike/gamedemo/git/blobs/dd0333be6db510eeeae11ffcd04ec0acb5a3cc6b"
+    },
+    {
+      "filename": "delivery.zip.part006",
+      "bytes": 8388608,
+      "sha256": "8418a40bf3217049a48ee311815987e7259aab25e2023b0951c15b96c366cec5",
+      "git_blob_oid": "9f06ff2763b8f3405fcab624963ac101a5fadb25",
+      "verified": true,
+      "source_url": "https://api.github.com/repos/coolzhulike/gamedemo/git/blobs/9f06ff2763b8f3405fcab624963ac101a5fadb25"
+    },
+    {
+      "filename": "delivery.zip.part007",
+      "bytes": 8388608,
+      "sha256": "cad219b8455a21f335fc20f2fe63adaad7ff4a9b1b533fa120b011c2678741d2",
+      "git_blob_oid": "d5e0f9c81af6d118097db04c241b5ebfc740dd6c",
+      "verified": true,
+      "source_url": "https://api.github.com/repos/coolzhulike/gamedemo/git/blobs/d5e0f9c81af6d118097db04c241b5ebfc740dd6c"
+    },
+    {
+      "filename": "delivery.zip.part008",
+      "bytes": 8388608,
+      "sha256": "1490a966363431e98d9e0ec77e88c8dfef80016fc2c3b432b7453e61e6523ae2",
+      "git_blob_oid": "94e386bdd70ee7725d01c98eab666fd6bf7ba23e",
+      "verified": true,
+      "source_url": "https://api.github.com/repos/coolzhulike/gamedemo/git/blobs/94e386bdd70ee7725d01c98eab666fd6bf7ba23e"
+    },
+    {
+      "filename": "delivery.zip.part009",
+      "bytes": 8388608,
+      "sha256": "f13e2a51bce3a7829aa92a67681fad75d6e86015249c742cac738c5d0c115fa9",
+      "git_blob_oid": "4e021d8892d8fd06323cf9aed80c157e518c5f9e",
+      "verified": true,
+      "source_url": "https://api.github.com/repos/coolzhulike/gamedemo/git/blobs/4e021d8892d8fd06323cf9aed80c157e518c5f9e"
+    },
+    {
+      "filename": "delivery.zip.part010",
+      "bytes": 8388608,
+      "sha256": "8ee95158a05179ff9a69ffaf05f8e92d633813b77351b8ad0d5c90667671f134",
+      "git_blob_oid": "9426ef03b2bf58a4b00a143e5c90f8eadaa0856e",
+      "verified": true,
+      "source_url": "https://api.github.com/repos/coolzhulike/gamedemo/git/blobs/9426ef03b2bf58a4b00a143e5c90f8eadaa0856e"
+    },
+    {
+      "filename": "delivery.zip.part011",
+      "bytes": 8388608,
+      "sha256": "a917b68fc651680b74f6d0254740551939d2e63d70b590cfefdabfdffec6a739",
+      "git_blob_oid": "c82cfedc5d0bb455561e7fbdd28dead637e45aea",
+      "verified": true,
+      "source_url": "https://api.github.com/repos/coolzhulike/gamedemo/git/blobs/c82cfedc5d0bb455561e7fbdd28dead637e45aea"
+    },
+    {
+      "filename": "delivery.zip.part012",
+      "bytes": 8388608,
+      "sha256": "9d42c1a9bb06b8b6389f4b98ca378193a3469b5693ef5d0588ba97f126501aa4",
+      "git_blob_oid": "2e1bd1a2159d78a6927e85d1e942f8f866baf61d",
+      "verified": true,
+      "source_url": "https://api.github.com/repos/coolzhulike/gamedemo/git/blobs/2e1bd1a2159d78a6927e85d1e942f8f866baf61d"
+    },
+    {
+      "filename": "delivery.zip.part013",
+      "bytes": 8388608,
+      "sha256": "7f86348fbac1ab5486e86484ff0feb53e64b88cb75f9774bd649e5a7d12fa6b6",
+      "git_blob_oid": "343076ba9d2965986df5fbdde941257567dcff89",
+      "verified": true,
+      "source_url": "https://api.github.com/repos/coolzhulike/gamedemo/git/blobs/343076ba9d2965986df5fbdde941257567dcff89"
+    },
+    {
+      "filename": "delivery.zip.part014",
+      "bytes": 8388608,
+      "sha256": "e26b59083006e9b82406ca38bdf1b30f62f586d22f0670ff7c82bc0eff8aee68",
+      "git_blob_oid": "465b97f9468e4f3ea0d834196353773680d68b1b",
+      "verified": true,
+      "source_url": "https://api.github.com/repos/coolzhulike/gamedemo/git/blobs/465b97f9468e4f3ea0d834196353773680d68b1b"
+    },
+    {
+      "filename": "delivery.zip.part015",
+      "bytes": 8388608,
+      "sha256": "43057937da522f64ef1a2692b545e664e09e218e396a39ff34e96da0f7591146",
+      "git_blob_oid": "4a52cea6211fe69c735565b191f50be29b4712a2",
+      "verified": true,
+      "source_url": "https://api.github.com/repos/coolzhulike/gamedemo/git/blobs/4a52cea6211fe69c735565b191f50be29b4712a2"
+    },
+    {
+      "filename": "delivery.zip.part016",
+      "bytes": 8388608,
+      "sha256": "c1cabd13dd8d298b5a48b726e52be8762d5dadafc86e77b40e20c4d7fb86f91d",
+      "git_blob_oid": "02550906d961d8ca5fb0c86122d83565ad30a691",
+      "verified": true,
+      "source_url": "https://api.github.com/repos/coolzhulike/gamedemo/git/blobs/02550906d961d8ca5fb0c86122d83565ad30a691"
+    },
+    {
+      "filename": "delivery.zip.part017",
+      "bytes": 8388608,
+      "sha256": "3d30946763b8a78fe77bce9f457324b6806a7ad16f9e76dd2c1f0f6d0ed6a11e",
+      "git_blob_oid": "a7dd7f57b337628cc98d87bf148c1002a7dd729c",
+      "verified": true,
+      "source_url": "https://api.github.com/repos/coolzhulike/gamedemo/git/blobs/a7dd7f57b337628cc98d87bf148c1002a7dd729c"
+    },
+    {
+      "filename": "delivery.zip.part018",
+      "bytes": 8388608,
+      "sha256": "94a9c41b8ad6f05c5202a53be1188ca47a747dadff250fab88ee8dd221c50ca6",
+      "git_blob_oid": "74148df44aad14b3429eb2ea1820c512b9753996",
+      "verified": true,
+      "source_url": "https://api.github.com/repos/coolzhulike/gamedemo/git/blobs/74148df44aad14b3429eb2ea1820c512b9753996"
+    },
+    {
+      "filename": "delivery.zip.part019",
+      "bytes": 8388608,
+      "sha256": "d09ad03ef0861ac9be6c813850318729974ff5d0805167d2bc85599df01c1d27",
+      "git_blob_oid": "e740095e5159c105837d6e5ca93398363a507981",
+      "verified": true,
+      "source_url": "https://api.github.com/repos/coolzhulike/gamedemo/git/blobs/e740095e5159c105837d6e5ca93398363a507981"
+    },
+    {
+      "filename": "delivery.zip.part020",
+      "bytes": 8388608,
+      "sha256": "b31a19b162c2a7be8e2c192118dbf3b04a16efa9d7a0f0006081e26e0c3d1e7a",
+      "git_blob_oid": "fbbcc71aa99c67d56b275d2f6c5ec6a11cfc9981",
+      "verified": true,
+      "source_url": "https://api.github.com/repos/coolzhulike/gamedemo/git/blobs/fbbcc71aa99c67d56b275d2f6c5ec6a11cfc9981"
+    },
+    {
+      "filename": "delivery.zip.part021",
+      "bytes": 8388608,
+      "sha256": "88b40397098aa07bbbd65a3a153341f59cc51b0df001ba6a313d1ba618246736",
+      "git_blob_oid": "cfe0a3223e4e88eec0ca356eb697a4d47fb674d4",
+      "verified": true,
+      "source_url": "https://api.github.com/repos/coolzhulike/gamedemo/git/blobs/cfe0a3223e4e88eec0ca356eb697a4d47fb674d4"
+    },
+    {
+      "filename": "delivery.zip.part022",
+      "bytes": 8388608,
+      "sha256": "ff13de2070c6d23005afaa889ead63cd51fc599b2d5045e949391c82e64a755a",
+      "git_blob_oid": "8c957deb195917a3576f38235f9b41554926a3da",
+      "verified": true,
+      "source_url": "https://api.github.com/repos/coolzhulike/gamedemo/git/blobs/8c957deb195917a3576f38235f9b41554926a3da"
+    },
+    {
+      "filename": "delivery.zip.part023",
+      "bytes": 8388608,
+      "sha256": "0c1eaacb56c610ab34820d18fd1c69b273bd2298af08dd3f9bc41be0d6dededa",
+      "git_blob_oid": "3758fbd0bd68b0a2879cce715e577c63bfc90403",
+      "verified": true,
+      "source_url": "https://api.github.com/repos/coolzhulike/gamedemo/git/blobs/3758fbd0bd68b0a2879cce715e577c63bfc90403"
+    },
+    {
+      "filename": "delivery.zip.part024",
+      "bytes": 8388608,
+      "sha256": "dabe173aea4a13564df11455300aec250a558d621b4ee5c675da2b2f270bfdd8",
+      "git_blob_oid": "505f1a5e77d8513ef5c17856e0b86c81ef0829a8",
+      "verified": true,
+      "source_url": "https://api.github.com/repos/coolzhulike/gamedemo/git/blobs/505f1a5e77d8513ef5c17856e0b86c81ef0829a8"
+    },
+    {
+      "filename": "delivery.zip.part025",
+      "bytes": 8388608,
+      "sha256": "fbeb3a68ed54cbc4df4abee1cb4075b07e7362c9ba212574ea009b36d1063e81",
+      "git_blob_oid": "d338c3736c81a400ab9f31593ba2b86c79e98ef8",
+      "verified": true,
+      "source_url": "https://api.github.com/repos/coolzhulike/gamedemo/git/blobs/d338c3736c81a400ab9f31593ba2b86c79e98ef8"
+    },
+    {
+      "filename": "delivery.zip.part026",
+      "bytes": 8388608,
+      "sha256": "2d34920779f08706bbec381f56d85e6aff006337b89b83e76243eb19caff21f2",
+      "git_blob_oid": "3596a963eb143971cd1df86330626221f7162538",
+      "verified": true,
+      "source_url": "https://raw.githubusercontent.com/coolzhulike/gamedemo/d322c35c916e5b6d4ba75a66ecad414f2dae105e/project_resources/assets/characters_20261017/review_01/delivery.zip.part026"
+    },
+    {
+      "filename": "delivery.zip.part027",
+      "bytes": 8388608,
+      "sha256": "8ef54568a5f6f3d2b9b9ac85525a567ba07e3b7ecca43845ff994e3b9bd5f18b",
+      "git_blob_oid": "2718a214a4d6752f981510d7b9a0dea71e3ea9eb",
+      "verified": true,
+      "source_url": "https://raw.githubusercontent.com/coolzhulike/gamedemo/d322c35c916e5b6d4ba75a66ecad414f2dae105e/project_resources/assets/characters_20261017/review_01/delivery.zip.part027"
+    },
+    {
+      "filename": "delivery.zip.part028",
+      "bytes": 8388608,
+      "sha256": "62e90df32a37a2e47bff71f1500790a56aba95f4290ae7efe73816241931b16a",
+      "git_blob_oid": "783000df84ec135a3617b36e1740a71b81cbdd42",
+      "verified": true,
+      "source_url": "https://api.github.com/repos/coolzhulike/gamedemo/git/blobs/783000df84ec135a3617b36e1740a71b81cbdd42"
+    },
+    {
+      "filename": "delivery.zip.part029",
+      "bytes": 8388608,
+      "sha256": "3613a605252081cb3620b30fdfd1abc4e218382807c15b6a9573f9a24b639a85",
+      "git_blob_oid": "c55c1d3c2d3e5f7f0b4a40b5bddc3c6d57408784",
+      "verified": true,
+      "source_url": "https://api.github.com/repos/coolzhulike/gamedemo/git/blobs/c55c1d3c2d3e5f7f0b4a40b5bddc3c6d57408784"
+    },
+    {
+      "filename": "delivery.zip.part030",
+      "bytes": 8388608,
+      "sha256": "e074d0ccad94ddd248d11f26a6d92e1637cf28310e8d8f895040e06e01034143",
+      "git_blob_oid": "c9cf080c0546e28aff66cd09342624e170e45eb1",
+      "verified": true,
+      "source_url": "https://api.github.com/repos/coolzhulike/gamedemo/git/blobs/c9cf080c0546e28aff66cd09342624e170e45eb1"
+    },
+    {
+      "filename": "delivery.zip.part031",
+      "bytes": 8388608,
+      "sha256": "4fda20e47176adc51263afea223a6e3145ac4b564b6a36d7e07ff5dde0e7620a",
+      "git_blob_oid": "572613f05822d1fff92a870b72b634157e796be6",
+      "verified": true,
+      "source_url": "https://api.github.com/repos/coolzhulike/gamedemo/git/blobs/572613f05822d1fff92a870b72b634157e796be6"
+    },
+    {
+      "filename": "delivery.zip.part032",
+      "bytes": 8388608,
+      "sha256": "42bf130899963b01edfaa03a625537dcbaf5a1b6b27f4075ad0d4058b3c49897",
+      "git_blob_oid": "5065de5e30967b764704c342ab7728cc96eb7da1",
+      "verified": true,
+      "source_url": "https://api.github.com/repos/coolzhulike/gamedemo/git/blobs/5065de5e30967b764704c342ab7728cc96eb7da1"
+    },
+    {
+      "filename": "delivery.zip.part033",
+      "bytes": 8388608,
+      "sha256": "43d30e45aaadec6db785d7a3405e75df1bf4f289cd299f9646e376314f833b89",
+      "git_blob_oid": "92ac49438a1c28c7610f56ef323e68e6ebd64652",
+      "verified": true,
+      "source_url": "https://api.github.com/repos/coolzhulike/gamedemo/git/blobs/92ac49438a1c28c7610f56ef323e68e6ebd64652"
+    },
+    {
+      "filename": "delivery.zip.part034",
+      "bytes": 8388608,
+      "sha256": "bb410d1faf8cf2d7e84ffa3f15eb9cff9b4882e8048ed542e86de40db8a619d4",
+      "git_blob_oid": "0a65e7f2532d87751eb7f0b104be7c5f92782df9",
+      "verified": true,
+      "source_url": "https://api.github.com/repos/coolzhulike/gamedemo/git/blobs/0a65e7f2532d87751eb7f0b104be7c5f92782df9"
+    },
+    {
+      "filename": "delivery.zip.part035",
+      "bytes": 8388608,
+      "sha256": "573e17024b3d2315dffb4b9c4eb63f2c3dfad486ede069615e734051543f68ef",
+      "git_blob_oid": "3ec9e1d94146c44be4bf58b72d718562f409994b",
+      "verified": true,
+      "source_url": "https://api.github.com/repos/coolzhulike/gamedemo/git/blobs/3ec9e1d94146c44be4bf58b72d718562f409994b"
+    },
+    {
+      "filename": "delivery.zip.part036",
+      "bytes": 8388608,
+      "sha256": "e33528b809c36fbf633e22f45680ac1f172794242b7afe4b30b351ed7c9bb629",
+      "git_blob_oid": "d618420868f99cabbb27ab34eb05d7d7e734a92c",
+      "verified": true,
+      "source_url": "https://api.github.com/repos/coolzhulike/gamedemo/git/blobs/d618420868f99cabbb27ab34eb05d7d7e734a92c"
+    },
+    {
+      "filename": "delivery.zip.part037",
+      "bytes": 8388608,
+      "sha256": "9f552e829523c7cf335120c942f756df3231c82e87f1dd0feca9fedce3928ce5",
+      "git_blob_oid": "d6c2788306581ebd74737f226fb6cf587231437e",
+      "verified": true,
+      "source_url": "https://raw.githubusercontent.com/coolzhulike/gamedemo/d322c35c916e5b6d4ba75a66ecad414f2dae105e/project_resources/assets/characters_20261017/review_01/delivery.zip.part037"
+    },
+    {
+      "filename": "delivery.zip.part038",
+      "bytes": 8388608,
+      "sha256": "08530b442b5057ea61ac1c3d11ca4bec23014e4d60c04da914b1ff16fd09682d",
+      "git_blob_oid": "60e18492784d2ba9e1d999f5012eb43f60d90611",
+      "verified": true,
+      "source_url": "https://raw.githubusercontent.com/coolzhulike/gamedemo/d322c35c916e5b6d4ba75a66ecad414f2dae105e/project_resources/assets/characters_20261017/review_01/delivery.zip.part038"
+    },
+    {
+      "filename": "delivery.zip.part039",
+      "bytes": 8388608,
+      "sha256": "6919983bcddb96b0831c874d1718e33782122e901460c78752b8323f0087f39f",
+      "git_blob_oid": "a0783af9e5ded71375d8b4e4fd37f5a2ffc5dfd5",
+      "verified": true,
+      "source_url": "https://api.github.com/repos/coolzhulike/gamedemo/git/blobs/a0783af9e5ded71375d8b4e4fd37f5a2ffc5dfd5"
+    },
+    {
+      "filename": "delivery.zip.part040",
+      "bytes": 8388608,
+      "sha256": "21c420067d944b17d0ec30a13d083797b9f62c5ecd4023b5b553d35600bd1f68",
+      "git_blob_oid": "a9762fc57dd3aac0256cee3ba0f4ba2c29746b2c",
+      "verified": true,
+      "source_url": "https://raw.githubusercontent.com/coolzhulike/gamedemo/d322c35c916e5b6d4ba75a66ecad414f2dae105e/project_resources/assets/characters_20261017/review_01/delivery.zip.part040"
+    },
+    {
+      "filename": "delivery.zip.part041",
+      "bytes": 8388608,
+      "sha256": "f6a9c949b5cc945e845d265dc7cafc44a7660572eccd5a31f1dcb2f2efa46eb1",
+      "git_blob_oid": "a2921648cb35fff77d07cb7f20f08c1078778c58",
+      "verified": true,
+      "source_url": "https://api.github.com/repos/coolzhulike/gamedemo/git/blobs/a2921648cb35fff77d07cb7f20f08c1078778c58"
+    },
+    {
+      "filename": "delivery.zip.part042",
+      "bytes": 8388608,
+      "sha256": "db4c00c623fd20bb0730ab9a0baf9d728d5af0d6fdcba082f31d6d67fba2d42c",
+      "git_blob_oid": "7f5dcb52bbe440cf660e0cb715348d435c45f7c6",
+      "verified": true,
+      "source_url": "https://api.github.com/repos/coolzhulike/gamedemo/git/blobs/7f5dcb52bbe440cf660e0cb715348d435c45f7c6"
+    },
+    {
+      "filename": "delivery.zip.part043",
+      "bytes": 8388608,
+      "sha256": "255fd7cd3b45c5c941af18cd5659b6607f4b0dabea2c680dca729e7e032efcbb",
+      "git_blob_oid": "cbaebf1bbd6871132167cab772fb724aa4b583a5",
+      "verified": true,
+      "source_url": "https://raw.githubusercontent.com/coolzhulike/gamedemo/d322c35c916e5b6d4ba75a66ecad414f2dae105e/project_resources/assets/characters_20261017/review_01/delivery.zip.part043"
+    },
+    {
+      "filename": "delivery.zip.part044",
+      "bytes": 8388608,
+      "sha256": "60bb6c9f27ee3b8a67efde3ca1125d17d81dcfc3e160b4c64242f0e564bda7aa",
+      "git_blob_oid": "7388f10c1821d13404e5fe71b1acf72e5475a64c",
+      "verified": true,
+      "source_url": "https://api.github.com/repos/coolzhulike/gamedemo/git/blobs/7388f10c1821d13404e5fe71b1acf72e5475a64c"
+    },
+    {
+      "filename": "delivery.zip.part045",
+      "bytes": 8388608,
+      "sha256": "6009514014570b941c13e417e1cafef2d68dd9987b48ca00bac487df98498460",
+      "git_blob_oid": "284d1c9dfa841a769009ff99a95e7c8698992ea2",
+      "verified": true,
+      "source_url": "https://api.github.com/repos/coolzhulike/gamedemo/git/blobs/284d1c9dfa841a769009ff99a95e7c8698992ea2"
+    },
+    {
+      "filename": "delivery.zip.part046",
+      "bytes": 8388608,
+      "sha256": "6fda2922be5c56b2276c6db48ee0a58ebac6aaf796ee1b00d4c51b2e0ba37ea6",
+      "git_blob_oid": "19be53054d91d1d5e1773a1a870677f2ef0c5287",
+      "verified": true,
+      "source_url": "https://raw.githubusercontent.com/coolzhulike/gamedemo/d322c35c916e5b6d4ba75a66ecad414f2dae105e/project_resources/assets/characters_20261017/review_01/delivery.zip.part046"
+    },
+    {
+      "filename": "delivery.zip.part047",
+      "bytes": 8388608,
+      "sha256": "f45d8d0d65f4b4108a4e6c6a452da922c5550fad240e6960937f8f6bda744bab",
+      "git_blob_oid": "5306bec972e814a482eb07f364d6c85fb5f2a488",
+      "verified": true,
+      "source_url": "https://raw.githubusercontent.com/coolzhulike/gamedemo/d322c35c916e5b6d4ba75a66ecad414f2dae105e/project_resources/assets/characters_20261017/review_01/delivery.zip.part047"
+    },
+    {
+      "filename": "delivery.zip.part048",
+      "bytes": 8388608,
+      "sha256": "6be5eb2e99587b2bba9adbe70a4903b0facdd219d0aafc2db96ca025a0abe540",
+      "git_blob_oid": "668b090f8a789707d73b61faac563272e48c51c7",
+      "verified": true,
+      "source_url": "https://raw.githubusercontent.com/coolzhulike/gamedemo/d322c35c916e5b6d4ba75a66ecad414f2dae105e/project_resources/assets/characters_20261017/review_01/delivery.zip.part048"
+    },
+    {
+      "filename": "delivery.zip.part049",
+      "bytes": 8388608,
+      "sha256": "2ae2e489e8511a1dfb52f1d9e376dabbbcf18d1f932cbcaae9069e482f9cf6c0",
+      "git_blob_oid": "8fcfaacfbddff38afacba4d9f1bb95ce8d646fa2",
+      "verified": true,
+      "source_url": "https://raw.githubusercontent.com/coolzhulike/gamedemo/d322c35c916e5b6d4ba75a66ecad414f2dae105e/project_resources/assets/characters_20261017/review_01/delivery.zip.part049"
+    },
+    {
+      "filename": "delivery.zip.part050",
+      "bytes": 8388608,
+      "sha256": "2ebfeff7d2094d8e6ea475d7c12dab73b712bc41564fb79da2bca51bce216e8d",
+      "git_blob_oid": "b5aecc5d91e4091e2c9cf120da4bd60f20b68dd5",
+      "verified": true,
+      "source_url": "https://raw.githubusercontent.com/coolzhulike/gamedemo/d322c35c916e5b6d4ba75a66ecad414f2dae105e/project_resources/assets/characters_20261017/review_01/delivery.zip.part050"
+    },
+    {
+      "filename": "delivery.zip.part051",
+      "bytes": 8388608,
+      "sha256": "27e25247ab90899dd300e2a990b046405cac9a8b69aa1c69b979ee42e64759e5",
+      "git_blob_oid": "41a293e4767e9ec21eb3b1b44c424d00a35a8e6f",
+      "verified": true,
+      "source_url": "https://raw.githubusercontent.com/coolzhulike/gamedemo/d322c35c916e5b6d4ba75a66ecad414f2dae105e/project_resources/assets/characters_20261017/review_01/delivery.zip.part051"
+    },
+    {
+      "filename": "delivery.zip.part052",
+      "bytes": 8388608,
+      "sha256": "4aa1ec5831867ce72bb80381c6404d15bda7ecd20e0b7f749da30ad7241bcd73",
+      "git_blob_oid": "461f1f46c9bf9458ee8b4b682b286d4b53d22811",
+      "verified": true,
+      "source_url": "https://raw.githubusercontent.com/coolzhulike/gamedemo/d322c35c916e5b6d4ba75a66ecad414f2dae105e/project_resources/assets/characters_20261017/review_01/delivery.zip.part052"
+    },
+    {
+      "filename": "delivery.zip.part053",
+      "bytes": 8388608,
+      "sha256": "2ca834bccac0beac0180739543d86c1caaa2955c4570df074a9e28ad9b55401b",
+      "git_blob_oid": "54417072ce0b673f8b2f4426c8d6a4c2882869b9",
+      "verified": true,
+      "source_url": "https://raw.githubusercontent.com/coolzhulike/gamedemo/d322c35c916e5b6d4ba75a66ecad414f2dae105e/project_resources/assets/characters_20261017/review_01/delivery.zip.part053"
+    },
+    {
+      "filename": "delivery.zip.part054",
+      "bytes": 8388608,
+      "sha256": "6373275a9e6d4b840b4cda019dad1388a7460b045c6161e4e93417b6bee0050f",
+      "git_blob_oid": "b89e3fd6034daa28fa947c870a3d408c607c7da4",
+      "verified": true,
+      "source_url": "https://raw.githubusercontent.com/coolzhulike/gamedemo/d322c35c916e5b6d4ba75a66ecad414f2dae105e/project_resources/assets/characters_20261017/review_01/delivery.zip.part054"
+    },
+    {
+      "filename": "delivery.zip.part055",
+      "bytes": 8388608,
+      "sha256": "b51bfbcbe184acdc250b96430a82580b44b1bb3fe56587ace77b443e6f6ca7be",
+      "git_blob_oid": "75ac59ac565237d3571f0e131ecae263c0ba74d2",
+      "verified": true,
+      "source_url": "https://raw.githubusercontent.com/coolzhulike/gamedemo/d322c35c916e5b6d4ba75a66ecad414f2dae105e/project_resources/assets/characters_20261017/review_01/delivery.zip.part055"
+    },
+    {
+      "filename": "delivery.zip.part056",
+      "bytes": 8388608,
+      "sha256": "3f53307726263fa6151af27bacc2b589600d5bca9a61505cf3da049880719f57",
+      "git_blob_oid": "f747249ad6c8be603aee3805876889b6e8a05247",
+      "verified": true,
+      "source_url": "https://raw.githubusercontent.com/coolzhulike/gamedemo/d322c35c916e5b6d4ba75a66ecad414f2dae105e/project_resources/assets/characters_20261017/review_01/delivery.zip.part056"
+    },
+    {
+      "filename": "delivery.zip.part057",
+      "bytes": 8388608,
+      "sha256": "f1498faa2ee17b940ee6486734af0ef9edbf99587f2fe420521953935e0db251",
+      "git_blob_oid": "e4aeb630449718a45b6b7a985382aa8fff528f99",
+      "verified": true,
+      "source_url": "https://raw.githubusercontent.com/coolzhulike/gamedemo/d322c35c916e5b6d4ba75a66ecad414f2dae105e/project_resources/assets/characters_20261017/review_01/delivery.zip.part057"
+    },
+    {
+      "filename": "delivery.zip.part058",
+      "bytes": 8388608,
+      "sha256": "fc9cfaf816104e586e7ae4e4a9048d6d3f23079ad02e24c9218d11c40a56e44c",
+      "git_blob_oid": "893f1aa5cffe78d5b0166d833a9860ba23e47409",
+      "verified": true,
+      "source_url": "https://raw.githubusercontent.com/coolzhulike/gamedemo/d322c35c916e5b6d4ba75a66ecad414f2dae105e/project_resources/assets/characters_20261017/review_01/delivery.zip.part058"
+    },
+    {
+      "filename": "delivery.zip.part059",
+      "bytes": 8388608,
+      "sha256": "1b025d0d3bb821e4f9aea4992c518feae2c1e52252ba2ca5c24c5528b3c665f6",
+      "git_blob_oid": "c5f09330e342db10f64691586c107265a9bcd1d6",
+      "verified": true,
+      "source_url": "https://raw.githubusercontent.com/coolzhulike/gamedemo/d322c35c916e5b6d4ba75a66ecad414f2dae105e/project_resources/assets/characters_20261017/review_01/delivery.zip.part059"
+    },
+    {
+      "filename": "delivery.zip.part060",
+      "bytes": 8388608,
+      "sha256": "79f17b5f75923645c8342b80a852b5d3ce70929323fcab5683c660027271378c",
+      "git_blob_oid": "fd07dd58334552583f4a9470b662c3ab60ec2332",
+      "verified": true,
+      "source_url": "https://raw.githubusercontent.com/coolzhulike/gamedemo/d322c35c916e5b6d4ba75a66ecad414f2dae105e/project_resources/assets/characters_20261017/review_01/delivery.zip.part060"
+    },
+    {
+      "filename": "delivery.zip.part061",
+      "bytes": 8388608,
+      "sha256": "ed4095cf199294a67790688b3c17298a869c940055fc2cdab39cd28180211e14",
+      "git_blob_oid": "fa8974915f49a1eb4a895980155b5eeb600dc8d7",
+      "verified": true,
+      "source_url": "https://raw.githubusercontent.com/coolzhulike/gamedemo/d322c35c916e5b6d4ba75a66ecad414f2dae105e/project_resources/assets/characters_20261017/review_01/delivery.zip.part061"
+    },
+    {
+      "filename": "delivery.zip.part062",
+      "bytes": 8388608,
+      "sha256": "c985e18cd97b4f3894b51a7dc47732faebaccfb40d6baad5c7d41845bf1e9287",
+      "git_blob_oid": "3f79d802ad62ff384021b7662fc443c5714a915c",
+      "verified": true,
+      "source_url": "https://raw.githubusercontent.com/coolzhulike/gamedemo/d322c35c916e5b6d4ba75a66ecad414f2dae105e/project_resources/assets/characters_20261017/review_01/delivery.zip.part062"
+    },
+    {
+      "filename": "delivery.zip.part063",
+      "bytes": 8388608,
+      "sha256": "ebe32c7a4df91ee1e78742a9bff2d56cbfb32e9bac88326093666f16104fda39",
+      "git_blob_oid": "6f4c30b721ef82f2cd5bd4cb23d02605a52a7137",
+      "verified": true,
+      "source_url": "https://raw.githubusercontent.com/coolzhulike/gamedemo/d322c35c916e5b6d4ba75a66ecad414f2dae105e/project_resources/assets/characters_20261017/review_01/delivery.zip.part063"
+    },
+    {
+      "filename": "delivery.zip.part064",
+      "bytes": 8388608,
+      "sha256": "d8c418d449701d6ec3cc0ccd599e11905455c9a7955f636a8f0b431fa5036f26",
+      "git_blob_oid": "56b9048989bfab8cd3c0fac7a59fc36074972165",
+      "verified": true,
+      "source_url": "https://raw.githubusercontent.com/coolzhulike/gamedemo/d322c35c916e5b6d4ba75a66ecad414f2dae105e/project_resources/assets/characters_20261017/review_01/delivery.zip.part064"
+    },
+    {
+      "filename": "delivery.zip.part065",
+      "bytes": 8388608,
+      "sha256": "0645b102f9ba03ed6c4dd95445028cd6fd854371cc3417ac948f1eaf3b5f7cc8",
+      "git_blob_oid": "4e44746a3153334d66cab521557a4c95b0cf2e73",
+      "verified": true,
+      "source_url": "https://raw.githubusercontent.com/coolzhulike/gamedemo/d322c35c916e5b6d4ba75a66ecad414f2dae105e/project_resources/assets/characters_20261017/review_01/delivery.zip.part065"
+    },
+    {
+      "filename": "delivery.zip.part066",
+      "bytes": 8388608,
+      "sha256": "9b9351c29234ae9a99205928aaf51feadc9f839fec4599eeb3e7e756d1f101cf",
+      "git_blob_oid": "363f2842a1b0e291e60af02e829fb555895744d7",
+      "verified": true,
+      "source_url": "https://raw.githubusercontent.com/coolzhulike/gamedemo/d322c35c916e5b6d4ba75a66ecad414f2dae105e/project_resources/assets/characters_20261017/review_01/delivery.zip.part066"
+    },
+    {
+      "filename": "delivery.zip.part067",
+      "bytes": 8388608,
+      "sha256": "3e40015cf14a8f6724bc841aeba9d45cac7172021eb85b5ca35d3d1c27998f23",
+      "git_blob_oid": "67fa7d49f81c5f9ff3c7adad020498899b4c6c9b",
+      "verified": true,
+      "source_url": "https://raw.githubusercontent.com/coolzhulike/gamedemo/d322c35c916e5b6d4ba75a66ecad414f2dae105e/project_resources/assets/characters_20261017/review_01/delivery.zip.part067"
+    },
+    {
+      "filename": "delivery.zip.part068",
+      "bytes": 8388608,
+      "sha256": "146080d24f1b189beb5496262e0f7169e58b18dcfe35a048f35e2078f2b3ac50",
+      "git_blob_oid": "969e0ec4dec27d471408684d0f6365a23605a259",
+      "verified": true,
+      "source_url": "https://raw.githubusercontent.com/coolzhulike/gamedemo/d322c35c916e5b6d4ba75a66ecad414f2dae105e/project_resources/assets/characters_20261017/review_01/delivery.zip.part068"
+    },
+    {
+      "filename": "delivery.zip.part069",
+      "bytes": 8388608,
+      "sha256": "308dcc9321bfb3431c0c2fe171d454691462e737a796e31f1eb597f8fbed4c08",
+      "git_blob_oid": "b61f54f1d294a8359aab20cfc9f9d7210abcbce7",
+      "verified": true,
+      "source_url": "https://raw.githubusercontent.com/coolzhulike/gamedemo/d322c35c916e5b6d4ba75a66ecad414f2dae105e/project_resources/assets/characters_20261017/review_01/delivery.zip.part069"
+    },
+    {
+      "filename": "delivery.zip.part070",
+      "bytes": 8388608,
+      "sha256": "85c975fe56ce737a4ba5bf45c6c68fa0fb8fbd635d195f64ebaaae87f7b620bf",
+      "git_blob_oid": "01764637a85dfa1683a61312bc1db00760279939",
+      "verified": true,
+      "source_url": "https://raw.githubusercontent.com/coolzhulike/gamedemo/d322c35c916e5b6d4ba75a66ecad414f2dae105e/project_resources/assets/characters_20261017/review_01/delivery.zip.part070"
+    },
+    {
+      "filename": "delivery.zip.part071",
+      "bytes": 8388608,
+      "sha256": "584358b524b1221d4b47425e8a054b0e354c8985832a0c42c61188e2d7f1430a",
+      "git_blob_oid": "f32d0693ab088dfa7fe6b0fa2bae456134c54ba5",
+      "verified": true,
+      "source_url": "https://raw.githubusercontent.com/coolzhulike/gamedemo/d322c35c916e5b6d4ba75a66ecad414f2dae105e/project_resources/assets/characters_20261017/review_01/delivery.zip.part071"
+    },
+    {
+      "filename": "delivery.zip.part072",
+      "bytes": 8388608,
+      "sha256": "39b6750048027b340a4a55c3e310935f6b0c02b729007ea3973fc67df12cf9b1",
+      "git_blob_oid": "7aebc1327f3fb1edf184e4e151d5abeb0431c602",
+      "verified": true,
+      "source_url": "https://raw.githubusercontent.com/coolzhulike/gamedemo/d322c35c916e5b6d4ba75a66ecad414f2dae105e/project_resources/assets/characters_20261017/review_01/delivery.zip.part072"
+    },
+    {
+      "filename": "delivery.zip.part073",
+      "bytes": 8388608,
+      "sha256": "e57d841370581a3ca36656a39125a99996f20ba415aabd1bea0f8756fbefb012",
+      "git_blob_oid": "dd246958aa2d21d2cd0d3c97958d86199a541000",
+      "verified": true,
+      "source_url": "https://raw.githubusercontent.com/coolzhulike/gamedemo/d322c35c916e5b6d4ba75a66ecad414f2dae105e/project_resources/assets/characters_20261017/review_01/delivery.zip.part073"
+    },
+    {
+      "filename": "delivery.zip.part074",
+      "bytes": 8388608,
+      "sha256": "f1797d92d26d757a8a15ee1b94457b7ded799bb22c10b2afa4545e8d3c5ef5f5",
+      "git_blob_oid": "49328194fc1add970715862b4cdcc7c919eda028",
+      "verified": true,
+      "source_url": "https://raw.githubusercontent.com/coolzhulike/gamedemo/d322c35c916e5b6d4ba75a66ecad414f2dae105e/project_resources/assets/characters_20261017/review_01/delivery.zip.part074"
+    },
+    {
+      "filename": "delivery.zip.part075",
+      "bytes": 8388608,
+      "sha256": "9b2e833b5232d11e3f3c7a78c2d2c8858f72b016b0dfa325be8e67a8503894b3",
+      "git_blob_oid": "5183aa0233f2b694d32a22d8cb570b9db020f2eb",
+      "verified": true,
+      "source_url": "https://raw.githubusercontent.com/coolzhulike/gamedemo/d322c35c916e5b6d4ba75a66ecad414f2dae105e/project_resources/assets/characters_20261017/review_01/delivery.zip.part075"
+    },
+    {
+      "filename": "delivery.zip.part076",
+      "bytes": 8388608,
+      "sha256": "650bd0ce33f5ef4eb19fa9a90566325c9dd25f28de3af526ca7dea138609459d",
+      "git_blob_oid": "c5126b0f920dd7ff38048ebc4d324471e4cb904a",
+      "verified": true,
+      "source_url": "https://raw.githubusercontent.com/coolzhulike/gamedemo/d322c35c916e5b6d4ba75a66ecad414f2dae105e/project_resources/assets/characters_20261017/review_01/delivery.zip.part076"
+    },
+    {
+      "filename": "delivery.zip.part077",
+      "bytes": 8388608,
+      "sha256": "8cbbed4b08a7102fd7b7dc4fc56d64335fc05624e0c486364279a5861a9a7560",
+      "git_blob_oid": "e9e153b7542417071eb9e60be79e1b9aaf618eda",
+      "verified": true,
+      "source_url": "https://raw.githubusercontent.com/coolzhulike/gamedemo/d322c35c916e5b6d4ba75a66ecad414f2dae105e/project_resources/assets/characters_20261017/review_01/delivery.zip.part077"
+    },
+    {
+      "filename": "delivery.zip.part078",
+      "bytes": 8388608,
+      "sha256": "d218030ac135b9a60d49e25d67e035f5cdacaea30b30bf72840c4f9c9c635dc2",
+      "git_blob_oid": "2d81848b1fc8874e8ae4282086067d2dfbfb4c11",
+      "verified": true,
+      "source_url": "https://raw.githubusercontent.com/coolzhulike/gamedemo/d322c35c916e5b6d4ba75a66ecad414f2dae105e/project_resources/assets/characters_20261017/review_01/delivery.zip.part078"
+    },
+    {
+      "filename": "delivery.zip.part079",
+      "bytes": 8388608,
+      "sha256": "d81907a5749a7379a77b0d9b1bede0ca7085205f0cba58e880271583d40e866c",
+      "git_blob_oid": "44d30587fe437d1826a2ed5d3991dbabb2282f1f",
+      "verified": true,
+      "source_url": "https://raw.githubusercontent.com/coolzhulike/gamedemo/d322c35c916e5b6d4ba75a66ecad414f2dae105e/project_resources/assets/characters_20261017/review_01/delivery.zip.part079"
+    },
+    {
+      "filename": "delivery.zip.part080",
+      "bytes": 8388608,
+      "sha256": "6f1e671e62bf3fd25db55c309ca000f3f4c905489f95014df16cf6a9cd97dc4f",
+      "git_blob_oid": "077ea77e84277cfed114a64dd613af8f52a80f98",
+      "verified": true,
+      "source_url": "https://raw.githubusercontent.com/coolzhulike/gamedemo/d322c35c916e5b6d4ba75a66ecad414f2dae105e/project_resources/assets/characters_20261017/review_01/delivery.zip.part080"
+    },
+    {
+      "filename": "delivery.zip.part081",
+      "bytes": 8388608,
+      "sha256": "ad37350e743607bb46cc03b823564a75d196d15cd159fb8971acae7d8d293933",
+      "git_blob_oid": "a928da742efee2d38abebb614fe0c28493b9f00e",
+      "verified": true,
+      "source_url": "https://raw.githubusercontent.com/coolzhulike/gamedemo/d322c35c916e5b6d4ba75a66ecad414f2dae105e/project_resources/assets/characters_20261017/review_01/delivery.zip.part081"
+    },
+    {
+      "filename": "delivery.zip.part082",
+      "bytes": 8388608,
+      "sha256": "539dc21b0dfd74807eaba68137b77e8d2472124d2693654be6482a4a6242808a",
+      "git_blob_oid": "d5eae35a65ad5add636d3f381326490ff4c07d38",
+      "verified": true,
+      "source_url": "https://raw.githubusercontent.com/coolzhulike/gamedemo/d322c35c916e5b6d4ba75a66ecad414f2dae105e/project_resources/assets/characters_20261017/review_01/delivery.zip.part082"
+    },
+    {
+      "filename": "delivery.zip.part083",
+      "bytes": 8388608,
+      "sha256": "92ad0295a34a1ab795b5e77348a1b0f242b36f88580e908c45214352baa86e79",
+      "git_blob_oid": "d2288e1a7f385808709500f552e889b365702d10",
+      "verified": true,
+      "source_url": "https://raw.githubusercontent.com/coolzhulike/gamedemo/d322c35c916e5b6d4ba75a66ecad414f2dae105e/project_resources/assets/characters_20261017/review_01/delivery.zip.part083"
+    },
+    {
+      "filename": "delivery.zip.part084",
+      "bytes": 8388608,
+      "sha256": "a96294709ee7109c68b679df0f765df38c4e7944c947c25be02be3bc55e892d9",
+      "git_blob_oid": "6745d64c4975031a5500bba87b4326d3861e0f1b",
+      "verified": true,
+      "source_url": "https://raw.githubusercontent.com/coolzhulike/gamedemo/d322c35c916e5b6d4ba75a66ecad414f2dae105e/project_resources/assets/characters_20261017/review_01/delivery.zip.part084"
+    },
+    {
+      "filename": "delivery.zip.part085",
+      "bytes": 8388608,
+      "sha256": "0de3ab48853d9350af76d00e64afd594a32413f071d9ee690170636ad1724cf9",
+      "git_blob_oid": "a7c8393120622fa51d5ccbe3729ededa715606a3",
+      "verified": true,
+      "source_url": "https://raw.githubusercontent.com/coolzhulike/gamedemo/d322c35c916e5b6d4ba75a66ecad414f2dae105e/project_resources/assets/characters_20261017/review_01/delivery.zip.part085"
+    },
+    {
+      "filename": "delivery.zip.part086",
+      "bytes": 8388608,
+      "sha256": "627ecf652c18902875215133149a16f63c60cf0ad799bd282b37f3d4c803db80",
+      "git_blob_oid": "141987dd0d23da0d8d0656b8fd01ef06a8248d62",
+      "verified": true,
+      "source_url": "https://raw.githubusercontent.com/coolzhulike/gamedemo/d322c35c916e5b6d4ba75a66ecad414f2dae105e/project_resources/assets/characters_20261017/review_01/delivery.zip.part086"
+    },
+    {
+      "filename": "delivery.zip.part087",
+      "bytes": 8388608,
+      "sha256": "e2b6a8e6e6edf8a6c6127bea602c92114217ce8ca4f5d14f08f2b38b22c4d7f6",
+      "git_blob_oid": "3705b53796428313fe69b2440533172364f0b010",
+      "verified": true,
+      "source_url": "https://raw.githubusercontent.com/coolzhulike/gamedemo/d322c35c916e5b6d4ba75a66ecad414f2dae105e/project_resources/assets/characters_20261017/review_01/delivery.zip.part087"
+    },
+    {
+      "filename": "delivery.zip.part088",
+      "bytes": 8388608,
+      "sha256": "0ed01c7a08292dad478013c016c425dbe864193abe89577445bb6c1e1cb5318c",
+      "git_blob_oid": "76c98f8a16a3799ab16a5a0b49f02f07c8cb37cb",
+      "verified": true,
+      "source_url": "https://raw.githubusercontent.com/coolzhulike/gamedemo/d322c35c916e5b6d4ba75a66ecad414f2dae105e/project_resources/assets/characters_20261017/review_01/delivery.zip.part088"
+    },
+    {
+      "filename": "delivery.zip.part089",
+      "bytes": 8388608,
+      "sha256": "3ac1c33f66968f56457f000c1f4afe9a5759d56919a8185ed5f0456d0dfc9cdd",
+      "git_blob_oid": "dc163a2f01fb6fadd1d9aabbf7af176bc87ae2ac",
+      "verified": true,
+      "source_url": "https://raw.githubusercontent.com/coolzhulike/gamedemo/d322c35c916e5b6d4ba75a66ecad414f2dae105e/project_resources/assets/characters_20261017/review_01/delivery.zip.part089"
+    },
+    {
+      "filename": "delivery.zip.part090",
+      "bytes": 8388608,
+      "sha256": "30c9df78a2a99511b29696155597ee64b7f5bd7eef567f796e9d0d698b71a3b4",
+      "git_blob_oid": "f52f3f4051b8d2282b4eba6a49f584808216d635",
+      "verified": true,
+      "source_url": "https://raw.githubusercontent.com/coolzhulike/gamedemo/d322c35c916e5b6d4ba75a66ecad414f2dae105e/project_resources/assets/characters_20261017/review_01/delivery.zip.part090"
+    },
+    {
+      "filename": "delivery.zip.part091",
+      "bytes": 8388608,
+      "sha256": "a1b10f2d9bb4f5f5aabedd38e76ce862313d13f4f63de56d3dc9acf1004aec46",
+      "git_blob_oid": "ef846a4c40aef826e45d7b8ae5068a43867d4a19",
+      "verified": true,
+      "source_url": "https://raw.githubusercontent.com/coolzhulike/gamedemo/d322c35c916e5b6d4ba75a66ecad414f2dae105e/project_resources/assets/characters_20261017/review_01/delivery.zip.part091"
+    },
+    {
+      "filename": "delivery.zip.part092",
+      "bytes": 6535943,
+      "sha256": "edd219ba4cd6a5628b36209e8a267035ea80d7aac4f0590cb9051a6a7dbf9ed7",
+      "git_blob_oid": "699270bd75df1e598b56a51eedcb2394e36451c3",
+      "verified": true,
+      "source_url": "https://raw.githubusercontent.com/coolzhulike/gamedemo/d322c35c916e5b6d4ba75a66ecad414f2dae105e/project_resources/assets/characters_20261017/review_01/delivery.zip.part092"
+    }
+  ]
+}
