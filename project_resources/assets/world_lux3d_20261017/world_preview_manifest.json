@@ -1,0 +1,1818 @@
+{
+  "archive": "world_preview.zip",
+  "archive_size": 225570131,
+  "archive_sha256": "09b64e85c9fadc1044ce495ae893d544e781c0913d1ffa45cb836114b933a543",
+  "parts": [
+    {
+      "name": "world_preview.zip.part0001",
+      "size": 4194304,
+      "sha256": "c1740550cec258715a5cf32d58c8cd177ece1c3d9f3614604bc14416e47705a7",
+      "git_blob_sha1": "86fa32e436020c8973f9e2f812213b18cacd6215"
+    },
+    {
+      "name": "world_preview.zip.part0002",
+      "size": 4194304,
+      "sha256": "021bb012faa52f0be3ff9668f42c8c4348e3dd97d3cf74c4cab5c2df55f52394",
+      "git_blob_sha1": "f526701875265cb00d068bf85f3013a4b8b73343"
+    },
+    {
+      "name": "world_preview.zip.part0003",
+      "size": 4194304,
+      "sha256": "7fa72465ff7c8f9b9319a6a5eea86354f6598e8128ab7c400f9176096332c2ab",
+      "git_blob_sha1": "91f31ec989b2ad214b60d3c442058b70919f4d58"
+    },
+    {
+      "name": "world_preview.zip.part0004",
+      "size": 4194304,
+      "sha256": "b10ec7952f328cf79784861f5b1513e908b01a32c86e9324bb69b527f12cf296",
+      "git_blob_sha1": "bcabc4b8ebe1f51b22556389e2ed4507212f2965"
+    },
+    {
+      "name": "world_preview.zip.part0005",
+      "size": 4194304,
+      "sha256": "e7904a7044c83c5b9fb4b46e71634215e5582e8fc38ec49dbf363731d8898464",
+      "git_blob_sha1": "6c059bb5a471f8d2fe8c072cbb83c864f9e04a3f"
+    },
+    {
+      "name": "world_preview.zip.part0006",
+      "size": 4194304,
+      "sha256": "c3225deaf13020bdb1c3d7156048c23dca45718d1de959ed1e36536313c71044",
+      "git_blob_sha1": "f99a1c26a9c29b15ead4b1c430bdcabeab9c41dd"
+    },
+    {
+      "name": "world_preview.zip.part0007",
+      "size": 4194304,
+      "sha256": "e46e31be385814944c9eead1aa188b43cd64b7b9167a24c52d7143f49d72eed8",
+      "git_blob_sha1": "5cb7dacbaaf2f5f3b89098d8084de54b31c9c4d6"
+    },
+    {
+      "name": "world_preview.zip.part0008",
+      "size": 4194304,
+      "sha256": "6f185395fcb316278c8a8e351ba940c64bc7767d69fed8ee3971b33b92d3d385",
+      "git_blob_sha1": "588c6f9a79c4f6b2cade94f7cf3bc54cbad15528"
+    },
+    {
+      "name": "world_preview.zip.part0009",
+      "size": 4194304,
+      "sha256": "7fe4cf0636d94c9732072d2744ff1dc284d4530c693ace81f1407be3d3276f7f",
+      "git_blob_sha1": "f3145541b80e33f7437f1571ddd14d214e83b54a"
+    },
+    {
+      "name": "world_preview.zip.part0010",
+      "size": 4194304,
+      "sha256": "b13d7566417f3719ab17943cfdc30f8ebf0d7567e936dc8dfdb80808ea1f7d45",
+      "git_blob_sha1": "c00d8fb7e80e889143afae6c3b043c62a383fcac"
+    },
+    {
+      "name": "world_preview.zip.part0011",
+      "size": 4194304,
+      "sha256": "1e80fd67e17a28fcc60b4fc6671e00e182c40a7c7f62e27321a22954ad0bd733",
+      "git_blob_sha1": "387f67fb3997b143c624310c4be3108c1e25b92d"
+    },
+    {
+      "name": "world_preview.zip.part0012",
+      "size": 4194304,
+      "sha256": "73bd27bf51fd6b4283e38dbc0cf6eb902b31d3ef813c8fabd1146877cd0f17d8",
+      "git_blob_sha1": "35875018769524443b70edc0248303175e31acf8"
+    },
+    {
+      "name": "world_preview.zip.part0013",
+      "size": 4194304,
+      "sha256": "359f2ac40b7f8507993abbc1939c31bfa804668a677490a032486cd9512e45f3",
+      "git_blob_sha1": "f79698f535d8a247c78e0cba51a202fa296081f0"
+    },
+    {
+      "name": "world_preview.zip.part0014",
+      "size": 4194304,
+      "sha256": "e5aca0260b270fbf1a01d50bb963d41ffbbecff85fee706b76a9ab5fff7a703f",
+      "git_blob_sha1": "cb703e6a6a0311daa8925f18b7e85f03f0630fda"
+    },
+    {
+      "name": "world_preview.zip.part0015",
+      "size": 4194304,
+      "sha256": "5e8d677221474eb33dfa9700099f49d4a27f14db988ce586111a055d47c60a93",
+      "git_blob_sha1": "e7f18a3923bb51c417cf0047d1cf75852d4c68b0"
+    },
+    {
+      "name": "world_preview.zip.part0016",
+      "size": 4194304,
+      "sha256": "800e01cf818ca569960f8aff9f55eff55dc320ca1028c7a8f1d0ba627a24d17d",
+      "git_blob_sha1": "a9f7add4236771dda4a4ad110842664331a734a8"
+    },
+    {
+      "name": "world_preview.zip.part0017",
+      "size": 4194304,
+      "sha256": "ab8a175bba10b39f8e9308311ef565a0c3dd1a0f39cd832a98b37180271174b8",
+      "git_blob_sha1": "5bd6c765fa9460021c722e2f2f3dce672cd1fd3f"
+    },
+    {
+      "name": "world_preview.zip.part0018",
+      "size": 4194304,
+      "sha256": "486e8a004b38e4759cd74600523c050f327412a699876679a14566153870d9be",
+      "git_blob_sha1": "120ef9455072bea661dde7055fd76363ed2898e4"
+    },
+    {
+      "name": "world_preview.zip.part0019",
+      "size": 4194304,
+      "sha256": "59055a1c5a4d4e119adb9915aac979ab5a10f5508e4ccdc7ec63b9e06f031389",
+      "git_blob_sha1": "fdc9e76184bf49827fd21b996880d4caba5a781c"
+    },
+    {
+      "name": "world_preview.zip.part0020",
+      "size": 4194304,
+      "sha256": "6a6fc696ba9bae709f2eb9b285e3470a7c8771b3cb5186602d37c822d1fb4356",
+      "git_blob_sha1": "7875cea051fa790741905b9d69faeb5dd9e58275"
+    },
+    {
+      "name": "world_preview.zip.part0021",
+      "size": 4194304,
+      "sha256": "25b92bb50229e6a6fe32532c9e0eeb963629c1f8a8ab8f1138f11897245a9499",
+      "git_blob_sha1": "559c175a434a9d5b5f50e86f05296d6766f0d891"
+    },
+    {
+      "name": "world_preview.zip.part0022",
+      "size": 4194304,
+      "sha256": "751278ecc1a10e0022861a35c139037fa7e2e90c72c4113168e17d8364877de0",
+      "git_blob_sha1": "a44412125dca366e771c1d329d0a1dee6bf6ed77"
+    },
+    {
+      "name": "world_preview.zip.part0023",
+      "size": 4194304,
+      "sha256": "e1f5ec9cd17b9965c482ab2036eb0087923c1aff4b913ea2abd82852f5208e61",
+      "git_blob_sha1": "550e807cd274ce60cdcb8562b6cb85eddead8695"
+    },
+    {
+      "name": "world_preview.zip.part0024",
+      "size": 4194304,
+      "sha256": "809b016ecef2627bc9206a2a4e3372259a992506ae44eaafafbe4fb7bab90a1f",
+      "git_blob_sha1": "0016448a8780bc1a8a6d05e3cd4035ce0881f700"
+    },
+    {
+      "name": "world_preview.zip.part0025",
+      "size": 4194304,
+      "sha256": "165cc70dbb86177efcc7732546c7076e05db67fdace2836d2ca9c02819aadf20",
+      "git_blob_sha1": "b2b2b6792dd01848dcce9cb08c70325c23aedf61"
+    },
+    {
+      "name": "world_preview.zip.part0026",
+      "size": 4194304,
+      "sha256": "69080174d74611f1c1bdac49914df085798671550fac27fb9f7b5ef1c7120ef2",
+      "git_blob_sha1": "a873674baffd1ea263411fd3e1e96df966d13f89"
+    },
+    {
+      "name": "world_preview.zip.part0027",
+      "size": 4194304,
+      "sha256": "f3df4c76ff01b014a0d9114c6fad5f823e1e1aaec03297f94df23a8564bfcb23",
+      "git_blob_sha1": "4ee731c50c81f0ee26539e531ba7efaeea04e997"
+    },
+    {
+      "name": "world_preview.zip.part0028",
+      "size": 4194304,
+      "sha256": "064ba7e1d56899c06de6657a50fec4e5e5861f653270c97063d6c68c6c44f2f0",
+      "git_blob_sha1": "3086ba14328b41e4dab62f1207c3df971dcb39f6"
+    },
+    {
+      "name": "world_preview.zip.part0029",
+      "size": 4194304,
+      "sha256": "78e8e542b6dc21d874595b5ea572a6f95b4cd9bd8973020ad38d02e0b5eb9e84",
+      "git_blob_sha1": "45f5bba0ac5c8d2f31868ddd02e943e83ada4f84"
+    },
+    {
+      "name": "world_preview.zip.part0030",
+      "size": 4194304,
+      "sha256": "8ff56380b887ddc09b66520bb7964547c89d682858be5cb6b3a9be7df7fe7c3c",
+      "git_blob_sha1": "54715a2b220cb2ed2d62f49b10e93a45521aaf5b"
+    },
+    {
+      "name": "world_preview.zip.part0031",
+      "size": 4194304,
+      "sha256": "9bcc6091b2e4852d9e1bab616a702e5f35df46c52f1cfe87d9cb207afcebfed6",
+      "git_blob_sha1": "a194b1b1eae8dc1cc63c0a54936db68ede3565bf"
+    },
+    {
+      "name": "world_preview.zip.part0032",
+      "size": 4194304,
+      "sha256": "41d9b21d32d6ae8b6635d586564b9553cffee0d5cd7ecd38d1762bd7bf30976f",
+      "git_blob_sha1": "fe71dbd1534a58a1177fa5aa6574fbf5e3a336e7"
+    },
+    {
+      "name": "world_preview.zip.part0033",
+      "size": 4194304,
+      "sha256": "97b588acfb447f5ffaa48c89c24f68e719fa51ce02c69d574879885688f8d956",
+      "git_blob_sha1": "f3ae15cf47267fd4f930c66663b5d9b2fd4296d4"
+    },
+    {
+      "name": "world_preview.zip.part0034",
+      "size": 4194304,
+      "sha256": "d2fd1915ecf7c6eddb99dd3b8bc87b23c66cce40f1c1a1bc9a8c5e1d9904f96b",
+      "git_blob_sha1": "55c7a0616eae639352c56322fb263c91dff664a2"
+    },
+    {
+      "name": "world_preview.zip.part0035",
+      "size": 4194304,
+      "sha256": "d8d649fb7f00637b41cde805d8882b61abc1ff2fd28a29b855cbdab96e4768d0",
+      "git_blob_sha1": "0bab5afe1e661711d19b771e22b6a6ba841aa3bf"
+    },
+    {
+      "name": "world_preview.zip.part0036",
+      "size": 4194304,
+      "sha256": "8d12045dbba3803ab2e0bb3d69da02e8df10b094169d1e62fc0087da5db72815",
+      "git_blob_sha1": "fe96aa0662e1da3e9a512b0335694fa6d88a2d82"
+    },
+    {
+      "name": "world_preview.zip.part0037",
+      "size": 4194304,
+      "sha256": "57e3e9707859eca8d644e81f164af2628cc44519641d3ba1112093325a6f4543",
+      "git_blob_sha1": "62f0f410abd0a7d269d5d5aee851342338cd4035"
+    },
+    {
+      "name": "world_preview.zip.part0038",
+      "size": 4194304,
+      "sha256": "9cc0229bf4f47691be016b4d58d4b0a919330387043c18b149d82ce71decc623",
+      "git_blob_sha1": "465d4cc5be2841c9600cdde4ccfeb22beb9baffc"
+    },
+    {
+      "name": "world_preview.zip.part0039",
+      "size": 4194304,
+      "sha256": "205a89c43a19346a59620ec9e2641e34d8fbd8e34bfc8eb3d07ebaf88bc9b24a",
+      "git_blob_sha1": "e07208eb18e21c481b945f00c31b7d439082e94f"
+    },
+    {
+      "name": "world_preview.zip.part0040",
+      "size": 4194304,
+      "sha256": "fd4a119a5fb465126fcfcd81f9373bb8fc090a8a1c65b87bb49c9b84099aadd7",
+      "git_blob_sha1": "13bb30f7319b4995a29e821e96512d115ef9f017"
+    },
+    {
+      "name": "world_preview.zip.part0041",
+      "size": 4194304,
+      "sha256": "6acc5ae034e024dcbb608940fc20c1436ef8bcc497184b5e57fb7d186d36e1c0",
+      "git_blob_sha1": "c2c8626dd1bd3f6c7852e1a97c553235d84e4184"
+    },
+    {
+      "name": "world_preview.zip.part0042",
+      "size": 4194304,
+      "sha256": "49a24f9d75ec3a9a547ca0529a3df8de7a92c44db3d242150f36b6a5485165c0",
+      "git_blob_sha1": "114a1298fb03163789ddcc3aec1714a6e5f5f1d9"
+    },
+    {
+      "name": "world_preview.zip.part0043",
+      "size": 4194304,
+      "sha256": "75f0f0a213e5090e1e5f1cb7faa0f27284028e08108dd32b208882471b474001",
+      "git_blob_sha1": "c6eb1676f3d4543c68a541ddd377adc319498aee"
+    },
+    {
+      "name": "world_preview.zip.part0044",
+      "size": 4194304,
+      "sha256": "79a5453b7955b554bf49cbd46f674aa1bf520618430454a9bf39a0eb43449b1e",
+      "git_blob_sha1": "70d347fbdad707bbd443744b0b84767cd0931d24"
+    },
+    {
+      "name": "world_preview.zip.part0045",
+      "size": 4194304,
+      "sha256": "d4bf45b1bf0fad1d0a9af925cde038da58da3b36c8555bf023c6aa4e8131c7bc",
+      "git_blob_sha1": "491620684ca52f7bf2f793dc5ee2d2716bbb0647"
+    },
+    {
+      "name": "world_preview.zip.part0046",
+      "size": 4194304,
+      "sha256": "dac1566f25440fac818a69bd73b6a6a3e99d7b6206d985b3426e92e5ee17ced3",
+      "git_blob_sha1": "eb9d97cb27d1c4aff49e5354572e32f11a753b78"
+    },
+    {
+      "name": "world_preview.zip.part0047",
+      "size": 4194304,
+      "sha256": "44cb104bfba3a1c4d39477b420c9075a858339a7afede8e62547a0c1c2369f02",
+      "git_blob_sha1": "e4e85f75baa3a2f62072fcede3671b067868d1f9"
+    },
+    {
+      "name": "world_preview.zip.part0048",
+      "size": 4194304,
+      "sha256": "ea38bcc2e8123edaa3e0cd45dee0a735281110e11359fd503a9345d9c8e9b23a",
+      "git_blob_sha1": "a1cd033adcc3236515ce7a949803943b7fc3a319"
+    },
+    {
+      "name": "world_preview.zip.part0049",
+      "size": 4194304,
+      "sha256": "5eaecc1a6e73d1b86d90a69213a98ae74b8d1263666bbbb6a64861a36176214c",
+      "git_blob_sha1": "338effe67fa97168a3b2ba5e6c5991833942db52"
+    },
+    {
+      "name": "world_preview.zip.part0050",
+      "size": 4194304,
+      "sha256": "b0d3b503a3ffd99b51e636922cb85fe8a4e3bc27bc54c4c7f05b02b22ef2f42a",
+      "git_blob_sha1": "62a02bbd68b56146f8b6107f09672a9e7c247cb5"
+    },
+    {
+      "name": "world_preview.zip.part0051",
+      "size": 4194304,
+      "sha256": "9ecce793de2499ebe51bec4e805b80684dfe3835d227185834b1dc7be2fdc382",
+      "git_blob_sha1": "bee4b0d845f9d0cd72d7b597ed7f626a496b741e"
+    },
+    {
+      "name": "world_preview.zip.part0052",
+      "size": 4194304,
+      "sha256": "70dc2c3a952a04f3afc4128658ddc0d4d919d410e784d1c87ba1f291c5661b74",
+      "git_blob_sha1": "c17f4eb62ff63ac294fc03a411c7a6520892ee96"
+    },
+    {
+      "name": "world_preview.zip.part0053",
+      "size": 4194304,
+      "sha256": "9a5943262c4d95a985ae012f54aa8736b585fa94e570f88b2e87eee655ca00ce",
+      "git_blob_sha1": "eedc2806ec05a18f9169d598b745f0a30af1726c"
+    },
+    {
+      "name": "world_preview.zip.part0054",
+      "size": 3272019,
+      "sha256": "21d526d46677da3bf56d550fd47a695647e15c085918de5695c05488c3438b04",
+      "git_blob_sha1": "151f4b36cd68bc1ab672d33e0707ac7c3e7701b5"
+    }
+  ],
+  "files": [
+    {
+      "path": "previews/lakeside_preview_r02/prepare_overlay.py",
+      "size": 1227,
+      "sha256": "b4df750a042281b32d38a2fcbb4190a1643665fd9695a773609554cabcb8c5aa"
+    },
+    {
+      "path": "previews/lakeside_preview_r02/update_config.py",
+      "size": 701,
+      "sha256": "70bc20ece29c3a2b9ecad4e4c3dba0fad1f93f9a1a2372e4e3c8c4ee71b302ce"
+    },
+    {
+      "path": "previews/lakeside_preview_r02/lake_render_manifest.json",
+      "size": 1194,
+      "sha256": "7d54b8a92276d67d66234e4e25a9ad4e8ed8e791a5213fa940018fc433b03be4"
+    },
+    {
+      "path": "previews/lakeside_preview_r02/粮仓水轮_真实东溪落位_Blender离线预览.png",
+      "size": 1407797,
+      "sha256": "50fc4eda297f5d482a1874e3dd46be574f244551682b19b6a9e0f3bd139bae9d"
+    },
+    {
+      "path": "previews/lakeside_preview_r02/湖亭_对应位置放大_Blender离线预览.png",
+      "size": 1456435,
+      "sha256": "3a925571ad21a43d076cf9af5b060fa72224fff0824a055cd7816d480b518ab5"
+    },
+    {
+      "path": "previews/lakeside_preview_r02/all_multimesh_transform_audit.json",
+      "size": 747922,
+      "sha256": "2ad2ca907fa3bf7826a97e4a28d46084b13edbb99821446d60ac1de1c0479e26"
+    },
+    {
+      "path": "previews/lakeside_preview_r02/final_version_manifest.json",
+      "size": 898,
+      "sha256": "57fc38fa1c996d685b7a81b54a0c66c586feaae225b308b97b9800653be73921"
+    },
+    {
+      "path": "previews/lakeside_preview_r02/湖亭_短桥与真实湖岸_Blender离线预览.png",
+      "size": 1329106,
+      "sha256": "ecce5cd4f4ef0dbff5dbf24885564617aade5ba7f23d43041abd5c8af3b3a962"
+    },
+    {
+      "path": "previews/lakeside_preview_r02/render_offline.py",
+      "size": 5217,
+      "sha256": "752d164c107dd1e88b71ec3fc6d8449499d2f65a4c35323a832b452905c91259"
+    },
+    {
+      "path": "previews/lakeside_preview_r02/video_probe.json",
+      "size": 306,
+      "sha256": "3b799f77ddc68490a33e91f88d95b558f35afc53959652526b45382e2c99b89a"
+    },
+    {
+      "path": "previews/lakeside_preview_r02/world_collision_checks_initial.json",
+      "size": 4386,
+      "sha256": "b602a1410bd76aeec6aa4657a987c70e9d019eb4b8c8fad7a082ff391c4b9a6c"
+    },
+    {
+      "path": "previews/lakeside_preview_r02/rotor_video_manifest.json",
+      "size": 190,
+      "sha256": "bf08944f571bdfe7dc98bec8e01f1f9fda395a59134b0128bef7c10eb7abd2a9"
+    },
+    {
+      "path": "previews/lakeside_preview_r02/preview_full_world_before_resource_limit.gd",
+      "size": 7636,
+      "sha256": "3fbec8323d2efa1acb04dcb70acb986e2cff54a6d203f8ae56b84f3e24d35bb5"
+    },
+    {
+      "path": "previews/lakeside_preview_r02/粮仓水轮_转轮连接放大_Blender离线预览.png",
+      "size": 1506003,
+      "sha256": "396fe58b4ff79ed6f54ed8c01afe84d9eee66923a606e4b8a89df5320650769a"
+    },
+    {
+      "path": "previews/lakeside_preview_r02/world_collision_checks.json",
+      "size": 8502,
+      "sha256": "7e64108ec844069bb6a5c662a16e9b7f8d2aea4ff5ef10e55fe499587980f685"
+    },
+    {
+      "path": "previews/lakeside_preview_r02/mill_assembly_geometry_checks.json",
+      "size": 627,
+      "sha256": "6cc8e69b182ad777180e34784149c6a95d11f25c34f10402ee918374d1b22bba"
+    },
+    {
+      "path": "previews/lakeside_preview_r02/mill_render_manifest.json",
+      "size": 1217,
+      "sha256": "11e724730f467943edb4796bc8a617279fd288ba7f458313a10eb5e89cc62db2"
+    },
+    {
+      "path": "previews/lakeside_preview_r02/run_headless.sh",
+      "size": 405,
+      "sha256": "e13c7208a61ef7c74ad27a89b5a51c8bdd9be0284bcf07692bc069dae16b5ab6"
+    },
+    {
+      "path": "previews/lakeside_preview_r02/placement_plan.json",
+      "size": 12582,
+      "sha256": "dff779b397a2cd0d2116561faa2a59d7177c17cc489651bd6960d95fe4689b9b"
+    },
+    {
+      "path": "previews/lakeside_preview_r02/RESULTS.md",
+      "size": 2657,
+      "sha256": "76f15b53c398f63b7f2572ddb559c6ac1149102a1102440cf556f9b9552d8636"
+    },
+    {
+      "path": "previews/lakeside_preview_r02/encode_video.sh",
+      "size": 675,
+      "sha256": "c3a30c02b4e4b7a5ac2e459723ec88f9bc59a13f52ef22d4729833db13e989a3"
+    },
+    {
+      "path": "previews/lakeside_preview_r02/project/placement.json",
+      "size": 1687,
+      "sha256": "d65c3a14c88166ba73215ac2eefdedca97130f0dae94e9f293d718ae446e9fc6"
+    },
+    {
+      "path": "previews/lakeside_preview_r02/project/audit_instances.gd",
+      "size": 2030,
+      "sha256": "761b6a239f20cc9ef60f9799a8cfe83a82a120c144508ce6b68c18139b45e9f0"
+    },
+    {
+      "path": "previews/lakeside_preview_r02/project/export_slice.gd",
+      "size": 4910,
+      "sha256": "792c188e11bacfa3379be0f1d499c3236fe1e1675ca3665b0088ce689c139c06"
+    },
+    {
+      "path": "previews/lakeside_preview_r02/project/project.godot",
+      "size": 420,
+      "sha256": "da9c4bcab02fd859de4625bf5e261485ecce74725b793b0b33ec26663fb370b4"
+    },
+    {
+      "path": "previews/lakeside_preview_r02/project/source_basin.gd",
+      "size": 48150,
+      "sha256": "12c7b7151b68067e7be6c56e1cf9db9e74572a0a045eeb1b99cd2c208f5517f3"
+    },
+    {
+      "path": "previews/lakeside_preview_r02/project/preview.gd",
+      "size": 8211,
+      "sha256": "6176785fb1869b06a4634ac8f6495f720be6f42a38f79868e4d0ca21f104a43f"
+    },
+    {
+      "path": "previews/lakeside_preview_r02/project/lakeside_placement.json",
+      "size": 13593,
+      "sha256": "bb3c2e7fb0a902dba8470eb83ddb49f054b514e0f8cb964723400e7664af8a63"
+    },
+    {
+      "path": "previews/lakeside_preview_r02/project/main.tscn",
+      "size": 168,
+      "sha256": "7a086acde9aedafdd1e8d05d3fecec9e0b6d19714f629a7e7dc6142866d37f3d"
+    },
+    {
+      "path": "previews/lakeside_preview_r02/deliverables/粮仓水轮_真实东溪落位_Blender离线预览.png",
+      "size": 1407797,
+      "sha256": "50fc4eda297f5d482a1874e3dd46be574f244551682b19b6a9e0f3bd139bae9d"
+    },
+    {
+      "path": "previews/lakeside_preview_r02/deliverables/湖亭_对应位置放大_Blender离线预览.png",
+      "size": 1456435,
+      "sha256": "3a925571ad21a43d076cf9af5b060fa72224fff0824a055cd7816d480b518ab5"
+    },
+    {
+      "path": "previews/lakeside_preview_r02/deliverables/湖亭_短桥与真实湖岸_Blender离线预览.png",
+      "size": 1329106,
+      "sha256": "ecce5cd4f4ef0dbff5dbf24885564617aade5ba7f23d43041abd5c8af3b3a962"
+    },
+    {
+      "path": "previews/lakeside_preview_r02/deliverables/粮仓水轮_转轮连接放大_Blender离线预览.png",
+      "size": 1506003,
+      "sha256": "396fe58b4ff79ed6f54ed8c01afe84d9eee66923a606e4b8a89df5320650769a"
+    },
+    {
+      "path": "previews/lakeside_preview_r02/deliverables/水轮_真实东溪完整转动4秒_Blender离线预览.mp4",
+      "size": 566318,
+      "sha256": "3e7b33dffed77e1ca3a73a2cee120cbf18a3c56d848aa34cd6847e9574ca58d1"
+    },
+    {
+      "path": "previews/world_preview_r02/offline_baseline_front_eye_level.png",
+      "size": 987104,
+      "sha256": "66cc56513129070a5ee6338034e404c1ba83a5be16b3d6c9955e09b4b506790e"
+    },
+    {
+      "path": "previews/world_preview_r02/prepare_overlay.py",
+      "size": 2230,
+      "sha256": "6f16595384bfa6296487fe04b5d539931631f7427499042c30c4a797227ae752"
+    },
+    {
+      "path": "previews/world_preview_r02/原山门_正面同机位_Blender离线对照.png",
+      "size": 987104,
+      "sha256": "66cc56513129070a5ee6338034e404c1ba83a5be16b3d6c9955e09b4b506790e"
+    },
+    {
+      "path": "previews/world_preview_r02/原山门_后方同机位_Blender离线对照.png",
+      "size": 895846,
+      "sha256": "4a27e6634ca517e239d78d475d5ed8176d4f77d17eb846d6c59837db6d39500f"
+    },
+    {
+      "path": "previews/world_preview_r02/multimesh_capture_patch.json",
+      "size": 779,
+      "sha256": "88be55c980020a384f06b3d45aae6a615249de35aa40ccd40346aa2a484f789c"
+    },
+    {
+      "path": "previews/world_preview_r02/world_portal_checks.json",
+      "size": 305,
+      "sha256": "628fc3b0efe673c63175706220138a4048d1fee1db00459007c7bef4d71ea680"
+    },
+    {
+      "path": "previews/world_preview_r02/capture_multimesh_transforms.py",
+      "size": 1228,
+      "sha256": "afe47d74ddc3c5b81d6d59d33ad62b8ec03984a6ab1fbb0d2e8d37918eb4c579"
+    },
+    {
+      "path": "previews/world_preview_r02/offline_r02_front_eye_level.png",
+      "size": 813266,
+      "sha256": "9921683f89ce82d2600331438b3b19373c0d9e0d76b0aa0e0e5ddac575e753b2"
+    },
+    {
+      "path": "previews/world_preview_r02/北山山门_r02_后方人物眼高_Blender离线预览.png",
+      "size": 880446,
+      "sha256": "697126a0da16257ebe47c9fee18aaa5dc0f7ad74c553a20d1178026d2e94852b"
+    },
+    {
+      "path": "previews/world_preview_r02/all_multimesh_transform_audit.json",
+      "size": 5510881,
+      "sha256": "1567211c7f77a1553689f1fa99317e0df464a731486f9fda8de798fbdf604f66"
+    },
+    {
+      "path": "previews/world_preview_r02/measure_gate.py",
+      "size": 2603,
+      "sha256": "8c1a6b4cb09e42cb149f32bcecb0ed567c2c9c5edec04f9ab3c9f1b077209b06"
+    },
+    {
+      "path": "previews/world_preview_r02/placement_r02_measurement.json",
+      "size": 1444,
+      "sha256": "698c1cff1cedfdafe74a11a37899ecd9374ec1242caf815e1f673a3a8016ab7a"
+    },
+    {
+      "path": "previews/world_preview_r02/render_offline.py",
+      "size": 3585,
+      "sha256": "a23687d93c8b9c31e99a3d3698861b93b5ee221e825e79e3a34544309c505cfd"
+    },
+    {
+      "path": "previews/world_preview_r02/原山门_A1同机位远景_Blender离线对照.png",
+      "size": 891084,
+      "sha256": "9d1a69a9bb1818379dd6b035ec1ae5fef8ce677b60494c3861f8844ee49aba8c"
+    },
+    {
+      "path": "previews/world_preview_r02/offline_baseline_approach_far.png",
+      "size": 891084,
+      "sha256": "9d1a69a9bb1818379dd6b035ec1ae5fef8ce677b60494c3861f8844ee49aba8c"
+    },
+    {
+      "path": "previews/world_preview_r02/北山山门_r02_A1落位远景_Blender离线预览.png",
+      "size": 874441,
+      "sha256": "3203fe16c6dd225d714674e171b19ef40208879b34a6ad308c8a19e00e4b40ad"
+    },
+    {
+      "path": "previews/world_preview_r02/北山山门_r02_正面人物眼高_Blender离线预览.png",
+      "size": 813266,
+      "sha256": "9921683f89ce82d2600331438b3b19373c0d9e0d76b0aa0e0e5ddac575e753b2"
+    },
+    {
+      "path": "previews/world_preview_r02/PREVIEW_PLAN.md",
+      "size": 1636,
+      "sha256": "bbc99ef39e79d54406f5e24cc295a42f2f57bf7a3cca7a96410d1831c30c7ba2"
+    },
+    {
+      "path": "previews/world_preview_r02/run_preview.sh",
+      "size": 2093,
+      "sha256": "3f5276dc53d4d7c525538f9a7d3cf898add6a30ab865ec75160b2d5d21995f1f"
+    },
+    {
+      "path": "previews/world_preview_r02/offline_export_manifest.json",
+      "size": 1020,
+      "sha256": "186197c2a826d8801330d4ec9da5697ddea1d160618a056277261b5df1b5d042"
+    },
+    {
+      "path": "previews/world_preview_r02/offline_r02_back_eye_level.png",
+      "size": 880446,
+      "sha256": "697126a0da16257ebe47c9fee18aaa5dc0f7ad74c553a20d1178026d2e94852b"
+    },
+    {
+      "path": "previews/world_preview_r02/ground_preflight.json",
+      "size": 5697,
+      "sha256": "7b1635d85b051a2449165f0e4b252608609d727c7951ceda0ddf79eb6bce8a37"
+    },
+    {
+      "path": "previews/world_preview_r02/overlay_preflight.json",
+      "size": 975,
+      "sha256": "91a09a781defd5fef63a3756881a39f77b6e0d950c3af8e18aed59050ef5f18e"
+    },
+    {
+      "path": "previews/world_preview_r02/offline_render_manifest.json",
+      "size": 623,
+      "sha256": "6d7f4889b812d5b51f0d48426cd256592d84df425fa7eefbd13fd40d22706505"
+    },
+    {
+      "path": "previews/world_preview_r02/offline_r02_approach_far.png",
+      "size": 874441,
+      "sha256": "3203fe16c6dd225d714674e171b19ef40208879b34a6ad308c8a19e00e4b40ad"
+    },
+    {
+      "path": "previews/world_preview_r02/placement_r01_measurement.json",
+      "size": 1456,
+      "sha256": "7a4cd5bf8f82a6d97328d304d3dd12821dd65264aa29ddd79e74198f35c7c35d"
+    },
+    {
+      "path": "previews/world_preview_r02/offline_baseline_back_eye_level.png",
+      "size": 895846,
+      "sha256": "4a27e6634ca517e239d78d475d5ed8176d4f77d17eb846d6c59837db6d39500f"
+    },
+    {
+      "path": "previews/world_preview_r02/check_ground.py",
+      "size": 2241,
+      "sha256": "9c59fac2a822979ad1352eb5ee9ec09647759082f1cdfe617f5193229445e758"
+    },
+    {
+      "path": "previews/world_preview_r02/RESULTS.md",
+      "size": 2819,
+      "sha256": "0c47ff0801804719d2797e032411c988a47018a17ee907145e03af8d160517bf"
+    },
+    {
+      "path": "previews/world_preview_r02/project/placement.json",
+      "size": 1687,
+      "sha256": "d65c3a14c88166ba73215ac2eefdedca97130f0dae94e9f293d718ae446e9fc6"
+    },
+    {
+      "path": "previews/world_preview_r02/project/audit_instances.gd",
+      "size": 2030,
+      "sha256": "761b6a239f20cc9ef60f9799a8cfe83a82a120c144508ce6b68c18139b45e9f0"
+    },
+    {
+      "path": "previews/world_preview_r02/project/export_slice.gd",
+      "size": 4624,
+      "sha256": "c8eecf05d94b0d60422ff067d702b314cec53d7c27625438caa2b2be08b0d8fa"
+    },
+    {
+      "path": "previews/world_preview_r02/project/project.godot",
+      "size": 429,
+      "sha256": "8fcd4dc2e25bf671d20dc167db4f2ad650742f8fe0087d563b2d21ae61e3200e"
+    },
+    {
+      "path": "previews/world_preview_r02/project/source_basin.gd",
+      "size": 48150,
+      "sha256": "12c7b7151b68067e7be6c56e1cf9db9e74572a0a045eeb1b99cd2c208f5517f3"
+    },
+    {
+      "path": "previews/world_preview_r02/project/preview.gd",
+      "size": 5902,
+      "sha256": "e8eb4515503064a72dd202bf2c94f3efa174dfd0b1ddd8be83d2fac029cbb88c"
+    },
+    {
+      "path": "previews/world_preview_r02/project/main.tscn",
+      "size": 168,
+      "sha256": "7a086acde9aedafdd1e8d05d3fecec9e0b6d19714f629a7e7dc6142866d37f3d"
+    },
+    {
+      "path": "shared_context/environment_v10/nosing_filter.gd",
+      "size": 1250,
+      "sha256": "9040f0fb2b9f5c8d8f26975fcb495ebb7c415e6d16c9542e44f277cd463802c5"
+    },
+    {
+      "path": "shared_context/environment_v10/environment_detail.gd",
+      "size": 294,
+      "sha256": "fe3af817b693a9a534a7d9b5048f2cfa161a06a2bab77996f9a8b612a65ac074"
+    },
+    {
+      "path": "shared_context/environment_v10/nosing_filter.gdshader",
+      "size": 868,
+      "sha256": "a70c0f19762168a34d1bdf44b0a4bb74e611214871c4f5219f03afb03c502b26"
+    },
+    {
+      "path": "shared_context/terrain/water.gdshader",
+      "size": 309,
+      "sha256": "995856b4fbe4fe26057ab6d769277a7e063d888b8b66580db2aa31840b18e939"
+    },
+    {
+      "path": "shared_context/terrain/shore_mask.png",
+      "size": 11977,
+      "sha256": "de9e0401bee12d87861d58088d57d0c76382b108bbb252196ae2848a79907d41"
+    },
+    {
+      "path": "shared_context/terrain/waterlevel.f32",
+      "size": 2668932,
+      "sha256": "7e2640363e7b8cc647d15d624c967316cab8a63cc20ece0bff92872bfb319874"
+    },
+    {
+      "path": "shared_context/terrain/LayeredGrayRock_base.png",
+      "size": 385551,
+      "sha256": "bf9609489221788300833b71ce5d010ced25c140539e5c686ea853a941bde9a7"
+    },
+    {
+      "path": "shared_context/terrain/terrain_parameters.json",
+      "size": 1619,
+      "sha256": "227feda5102284f49331b7617d5d3d135c5def5b7b85c6174007b30d0b21acc3"
+    },
+    {
+      "path": "shared_context/terrain/heightmap.f32",
+      "size": 2668932,
+      "sha256": "57176b34f1a328142002b6504f293640d08dafbc7577ad6213bab94121cb2e70"
+    },
+    {
+      "path": "shared_context/terrain/road_mask.png",
+      "size": 6801,
+      "sha256": "92f525356b5e6e07cbddc4fe809b32f372bda20f208ed8b653d9f8f7cdb1b6e3"
+    },
+    {
+      "path": "shared_context/terrain/ecology_layout.json",
+      "size": 60855,
+      "sha256": "035fa1b1e50f8b7c12fa5c7650d1e63325a47b83a45d1ff525b1992008906e8a"
+    },
+    {
+      "path": "shared_context/environment_v6/paving_surfaces.json",
+      "size": 13877,
+      "sha256": "41e64da118c4c20cfc11e538b8310e00feb1be4253c44cb8af60b3914720efc9"
+    },
+    {
+      "path": "shared_context/environment_v6/paving_surface.gd",
+      "size": 1836,
+      "sha256": "7e55dd7bf9feb6a3e1938dab895fb16d2f9d01af721d25a91e082d658e02235e"
+    },
+    {
+      "path": "shared_context/environment_v6/environment_detail.gd",
+      "size": 363,
+      "sha256": "f0f05ea966ac6593af9481098b4aef800c72ab66497b5916ba9fffc4c1ddb5c4"
+    },
+    {
+      "path": "shared_context/environment_v6/paving_aa.gdshader",
+      "size": 1176,
+      "sha256": "7ee59026d9c3ac242ea8f73e132b7bc643a295356fc0c2f144af41be5e547bb9"
+    },
+    {
+      "path": "shared_context/environment_v4/baseline_terrain.gdshader",
+      "size": 5127,
+      "sha256": "5c11683c24d1befccdd0d7448b5e0d69ad3b381246f093142b26ebd74c637f7c"
+    },
+    {
+      "path": "shared_context/environment_v4/stone.gdshader",
+      "size": 309,
+      "sha256": "7a04cfed35bd056e3f7a9f715ce13a6512d12ca84201d3ffe93e432ad2dff047"
+    },
+    {
+      "path": "shared_context/environment_v4/layout.json",
+      "size": 354980,
+      "sha256": "37afcaec8265a057ca24fc55395a753cbc67ecad93aba6b6ec2c530ce6f8413a"
+    },
+    {
+      "path": "shared_context/environment_v4/pine_windswept_Crown.glb",
+      "size": 594712,
+      "sha256": "92a8caf5d91968782ffacb765f37ad8fc463c37bcde93418f182afeba3215cbf"
+    },
+    {
+      "path": "shared_context/environment_v4/pine_windswept_Crown_natural_surfaces_atlas.jpg",
+      "size": 443328,
+      "sha256": "7e55ad2182c05b318b39e6324c6a8e7129e405b66479ff34799a28862ac3b2ed"
+    },
+    {
+      "path": "shared_context/environment_v4/environment_detail.gd",
+      "size": 4009,
+      "sha256": "fbb63d9b58d3129dd881332be3834e7a8027234a52494e22d33237d52a22015c"
+    },
+    {
+      "path": "shared_context/environment_v4/pine_upright_Crown.glb",
+      "size": 614104,
+      "sha256": "865d338f9d1635e9ffdc01cfaea6bb6a0a857403e8832db38e6821f7f9538c5d"
+    },
+    {
+      "path": "shared_context/environment_v4/Wudang_Rock_Microforms.glb",
+      "size": 1099756,
+      "sha256": "7302a5341e3c56c61d9a8e3326720acf06677164ca725a2670cc65bdb670494d"
+    },
+    {
+      "path": "shared_context/environment_v4/pine_upright_Crown_natural_surfaces_atlas.jpg",
+      "size": 443328,
+      "sha256": "7e55ad2182c05b318b39e6324c6a8e7129e405b66479ff34799a28862ac3b2ed"
+    },
+    {
+      "path": "shared_context/environment_v8/surface_fields.png",
+      "size": 224953,
+      "sha256": "280e9a6b32534f570544e280d72b028c1e0e49fc1e9638993452c2919f5f596c"
+    },
+    {
+      "path": "shared_context/environment_v8/surface_detail.gd",
+      "size": 1908,
+      "sha256": "b10aaacda7118ac4886bdc845736b80e03b25ffe25a7b49ae6b2e818ba3a4bca"
+    },
+    {
+      "path": "shared_context/environment_v8/surface_detail.gdshader",
+      "size": 2431,
+      "sha256": "ebbe6b79725121bbd7ebad153653701f34fb35961c06413dc0b88a1d6ef0fe8b"
+    },
+    {
+      "path": "shared_context/environment_v8/environment_detail.gd",
+      "size": 293,
+      "sha256": "f4d3092fa92b6aab67f64a71dbb3df2c674195224960f66aadcc6b52b4ab52b3"
+    },
+    {
+      "path": "shared_context/environment_v18/cover_mask.png",
+      "size": 38079,
+      "sha256": "7fd1eba8f5216b1d3031a590d1491db964d42f882dcec63562337132c07c2cc3"
+    },
+    {
+      "path": "shared_context/environment_v18/groundcover.gd",
+      "size": 19059,
+      "sha256": "2126e72ce3fe0f07af79589f086fbbcdc66892012fc920646db6dad52bbc09c1"
+    },
+    {
+      "path": "shared_context/environment_v18/environment_detail.gd",
+      "size": 660,
+      "sha256": "bdc017d1acd1bd2d91d7ddb404391889572d9a60a8378b8c5f9388df8fe312d5"
+    },
+    {
+      "path": "shared_context/environment_v18/cover_layout.json",
+      "size": 6626531,
+      "sha256": "a9c7b6f4edc34b2070dc61057dfd4b7b93bfa9bb7d83883a3ee2e708e5bc4456"
+    },
+    {
+      "path": "shared_context/environment_v18/terrain_groundcover.gdshader",
+      "size": 11426,
+      "sha256": "748c1e6519877d607581304dc61431b596904f3ca64631432ab3a996a8cff1ec"
+    },
+    {
+      "path": "shared_context/environment_v11/terrain_a1_shoulders.gdshader",
+      "size": 8343,
+      "sha256": "9227b54f9ff214151f248de18e1396dd880eb7ca1f980734f73c6e93c17ab935"
+    },
+    {
+      "path": "shared_context/environment_v11/environment_detail.gd",
+      "size": 313,
+      "sha256": "15ae104f9cf939c6cfed5da6b31ffcda970b28fa30faa523b4f1fbe63e53c1df"
+    },
+    {
+      "path": "shared_context/environment_v11/shoulder_material.gd",
+      "size": 1186,
+      "sha256": "9d0b2772f5410ab7362a3a0238f65f3501498adeef4faecc73b6eba433217aff"
+    },
+    {
+      "path": "shared_context/environment_v19/groundcover.gd",
+      "size": 19058,
+      "sha256": "c6b8d8427aea4572bd6fa514a92e27ebe369a77e18a484a7af6cb1390ae23e7a"
+    },
+    {
+      "path": "shared_context/environment_v19/terrain_edge.gdshader",
+      "size": 12230,
+      "sha256": "dab56b1c941f2fc02b91f81533201c8fb877afc697d823b4074d5357b3bda200"
+    },
+    {
+      "path": "shared_context/environment_v19/edge_layout.json",
+      "size": 105712,
+      "sha256": "ddab4e2bcd88deae1b6698e7e54e8dda6a59cdeec412f7598784982bef8d5e69"
+    },
+    {
+      "path": "shared_context/environment_v19/environment_detail.gd",
+      "size": 2597,
+      "sha256": "5fe07c62ac74c5473a89ea942b2a987cb4494f6ada67f2681eca7e6f72e7bb23"
+    },
+    {
+      "path": "shared_context/environment_v19/talus_geometry.json",
+      "size": 1920917,
+      "sha256": "049ca933fa1191babdc3c25cd434918d558ab6ef5a0b00740224ea6e915f82a2"
+    },
+    {
+      "path": "shared_context/environment_v9/cliff_rock_mip.png",
+      "size": 385551,
+      "sha256": "bf9609489221788300833b71ce5d010ced25c140539e5c686ea853a941bde9a7"
+    },
+    {
+      "path": "shared_context/environment_v9/cliff_layout.json",
+      "size": 2093720,
+      "sha256": "2890a30b18832c7310c2d128e315d841cca613a51dba513ca3debbd25a061541"
+    },
+    {
+      "path": "shared_context/environment_v9/cliff_strata.gdshader",
+      "size": 1932,
+      "sha256": "cbc94084a745190b2257acca19e56b0c8263d3333be159e20e7c3d8562d8254d"
+    },
+    {
+      "path": "shared_context/environment_v9/environment_detail.gd",
+      "size": 295,
+      "sha256": "75b311b699271e5d83900b76fc1d2b970bc1bdc594c85f0daa22ae211a0d3024"
+    },
+    {
+      "path": "shared_context/environment_v9/cliff_transition.gd",
+      "size": 1195,
+      "sha256": "de9ae0ee228dbab0c49cd3e70d734a1f94091be8ee573c8bc91865d384a29017"
+    },
+    {
+      "path": "shared_context/environment_v20/scope.json",
+      "size": 687,
+      "sha256": "0fc7a4916ea964c51e6069b0fff9ab57300757e4f3f4140557c6f9b4ceae65af"
+    },
+    {
+      "path": "shared_context/environment_v20/apron_transition.gdshader",
+      "size": 3670,
+      "sha256": "adee1e16cf3757d93b21b8a47db5932f1e300e07bd86535b83b3e47d316d16e6"
+    },
+    {
+      "path": "shared_context/environment_v20/environment_detail.gd",
+      "size": 1099,
+      "sha256": "7c495e66b8a8a87a7017c7d91e814aaa360d383be4d80d8b0a548b5105abe948"
+    },
+    {
+      "path": "shared_context/environment_v20/terrain_transition.gdshader",
+      "size": 13453,
+      "sha256": "c37df40306b4142bb7c57dab0b133e19c55ce8c1e8c49601777bbc9174e2f74d"
+    },
+    {
+      "path": "shared_context/environment_v15/west_rock_ribs.glb",
+      "size": 82020,
+      "sha256": "03c490973e9e416731ef2566cb22ea74e8040dfd4b62908f0fe80bf9e4044f29"
+    },
+    {
+      "path": "shared_context/environment_v15/rock_ribs_layout.json",
+      "size": 64142,
+      "sha256": "af6d132e58ed1b28ada4b448c551cc963aecc0a9250e1993c67b369bf51f3d76"
+    },
+    {
+      "path": "shared_context/environment_v15/rock_ribs.gd",
+      "size": 1223,
+      "sha256": "37f98c3dc7da1f531004b74d99dc72e1efa3601d8a8c0e7ca41eed731f5e7fa4"
+    },
+    {
+      "path": "shared_context/environment_v15/environment_detail.gd",
+      "size": 271,
+      "sha256": "15a3efe8635606b6ca6e31947ea1d02f39de136396fc11bd438cd1b7559725bd"
+    },
+    {
+      "path": "shared_context/environment_v15/rock_ribs.gdshader",
+      "size": 732,
+      "sha256": "8cd656985113888998d47e2b8065e29a99f7fafe816bf647b72b8eb222ca0375"
+    },
+    {
+      "path": "shared_context/environment_v7/foundation_layout.json",
+      "size": 212156,
+      "sha256": "b575390671e07098e1d5ebdec70903dd1983bc5d30485137ae6c0499a603fb31"
+    },
+    {
+      "path": "shared_context/environment_v7/foundation_transition.gd",
+      "size": 4558,
+      "sha256": "d27e456c106395212165dab3345a3d9e6390ee4a451b93578f6bf25b9595dcfb"
+    },
+    {
+      "path": "shared_context/environment_v7/masonry.gdshader",
+      "size": 2087,
+      "sha256": "8de54c16e6425e8cd7d12d9111d20bb4705a64532c2a09e46ec16275ad27a1c7"
+    },
+    {
+      "path": "shared_context/environment_v7/environment_detail.gd",
+      "size": 477,
+      "sha256": "f35a8f789e5a7cd3d07a83e2b123367ea4afce52a712e13002ac2f748a0b75d8"
+    },
+    {
+      "path": "shared_context/environment_v5/v4_environment_detail.gd",
+      "size": 4009,
+      "sha256": "fbb63d9b58d3129dd881332be3834e7a8027234a52494e22d33237d52a22015c"
+    },
+    {
+      "path": "shared_context/environment_v5/geology_fields.png",
+      "size": 1328943,
+      "sha256": "2ad26067894c996a10e98f7f66cd3f253005c246ae2d6dd4b2e9017d708bc26f"
+    },
+    {
+      "path": "shared_context/environment_v5/v4_terrain.gdshader",
+      "size": 6695,
+      "sha256": "0468672c8552a5b096cbd309f22c97943f1326de107348280a248286cb4b0231"
+    },
+    {
+      "path": "shared_context/environment_v5/environment_detail.gd",
+      "size": 5344,
+      "sha256": "54c883919fcf5fd1214c0c3872b3c7fec82a2a5d0f82f2886b5d741a3780f6e1"
+    },
+    {
+      "path": "shared_context/environment_v5/terrain_baked.gdshader",
+      "size": 6299,
+      "sha256": "2e80df2d2ed1787a20a66948510b4975fb515b5680dfb7020eec87b422e27652"
+    },
+    {
+      "path": "shared_context/environment_v12/bank_layout.json",
+      "size": 19008,
+      "sha256": "8f860023d6cbb431726c4cf8671c18839adb640e94a59e680da693f68b7a2c92"
+    },
+    {
+      "path": "shared_context/environment_v12/wet_gravel.gdshader",
+      "size": 626,
+      "sha256": "3dde32b34553a6fad6f26d5231691aee64e56e905ecaa8a4a7e617f04a4ac66e"
+    },
+    {
+      "path": "shared_context/environment_v12/environment_detail.gd",
+      "size": 290,
+      "sha256": "62feaf210bd439ed1b122e77156fa584a4e6a433dd07a4742a750f842d984ecc"
+    },
+    {
+      "path": "shared_context/environment_v12/bank_transition.gd",
+      "size": 4127,
+      "sha256": "3dce91be057b0c5f2a26af9e6e1836be514b2d3f6a1861c3446796081f19ac04"
+    },
+    {
+      "path": "shared_context/world/chunked_terrain.gd",
+      "size": 10893,
+      "sha256": "878a27d42b6f3d33f614c6bd2663a4b723fa64c3838b17e9ab49e94380b1ebdd"
+    },
+    {
+      "path": "shared_context/world/cache_quadrant_3.scn",
+      "size": 6148876,
+      "sha256": "4c5a54f24db91137dd87349debef0defa5d171fb814b92ead6a74e673b85ed1d"
+    },
+    {
+      "path": "shared_context/world/cache_quadrant_0.scn",
+      "size": 8696031,
+      "sha256": "ede6aa7c598db0901382b8c28ae0a95f71f759b45b9e02fcce46380b71a4ed5d"
+    },
+    {
+      "path": "shared_context/world/outer_waterlevel.f32",
+      "size": 1052676,
+      "sha256": "6dae2361c38db5f4a64ee709240081bc9c5967403bd168ac65fca1c059253520"
+    },
+    {
+      "path": "shared_context/world/outer_heightmap.f32",
+      "size": 1052676,
+      "sha256": "d36f6f290f95481afd4c0c9e61e450fc14be57656cf755f9c6621e139057e638"
+    },
+    {
+      "path": "shared_context/world/cache_quadrant_2.scn",
+      "size": 5855606,
+      "sha256": "25d232808960630bf869bd294695a0810336717ac6daf34c9ffa8f84d37c7b71"
+    },
+    {
+      "path": "shared_context/world/routes_manifest.json",
+      "size": 4569,
+      "sha256": "8e31fb85d858cce95440b2a5bc3a60012630ee9aac870fffa7b7c843140b4af6"
+    },
+    {
+      "path": "shared_context/world/biome_color.png",
+      "size": 217657,
+      "sha256": "9d80cef18ce7f2550373b18ed463fbfcf8e29e3e1c502508370fb638b277cced"
+    },
+    {
+      "path": "shared_context/world/approach_road_mask.png",
+      "size": 2833,
+      "sha256": "f40aca1b1fe1855be94cc170aa9401876c9178eef90ccbea05ac68e534b6676f"
+    },
+    {
+      "path": "shared_context/world/cache_quadrant_1.scn",
+      "size": 8222490,
+      "sha256": "9ff0651d1110db660cd3ea467572e3b978e3b95dfb82534b36e5bb54f7f6b7f1"
+    },
+    {
+      "path": "shared_context/world/bake_terrain.gd",
+      "size": 1060,
+      "sha256": "43a6b01f9fb128752242261689ee3f01a409775a60b7c43727ccff59d1c91911"
+    },
+    {
+      "path": "shared_context/world/biome_masks.png",
+      "size": 53454,
+      "sha256": "01d711ae5cb113af8b25a648594ddac927344be8c7ef3a7d8a7244c256a7a822"
+    },
+    {
+      "path": "shared_context/world/terrain_manifest.json",
+      "size": 23959,
+      "sha256": "84c5deca69491a9ad2f857641b4ec4c9ad561651d588c9bb3f3a2b4b8033dc88"
+    },
+    {
+      "path": "shared_context/world/ecology_layout.json",
+      "size": 29177,
+      "sha256": "0765edb7ffed0b192a635ccc72a3119b29082645d52c9fe6c576175f3e6c5d50"
+    },
+    {
+      "path": "shared_context/environment_v16/marble_cliff_05_diff_1k.jpg",
+      "size": 987798,
+      "sha256": "06d39eeb7243e5dd1aa8a5e2f4acb6e62fc3457ceb066bfa73743c977336baa4"
+    },
+    {
+      "path": "shared_context/environment_v16/terrain_continuous_a4.gdshader",
+      "size": 10759,
+      "sha256": "6666bcd63b305edc9e5177c9707a1651825a66a86ee8de6444be1b3834018064"
+    },
+    {
+      "path": "shared_context/environment_v16/geology_gradient.png",
+      "size": 381102,
+      "sha256": "8de57c6463ecbc8a38f5f6cfe3d8dcdc156e3d38435747df4b7eaf33a8651cdf"
+    },
+    {
+      "path": "shared_context/environment_v16/geology_fields.png",
+      "size": 349861,
+      "sha256": "f4736b2da067bcfbb7ec94eacf208d73f885a4ae8d4935a16e027f7b4461f02b"
+    },
+    {
+      "path": "shared_context/environment_v16/marble_cliff_05_nor_gl_1k.jpg",
+      "size": 997297,
+      "sha256": "9ab8f503f45331a9ff9c25270a04cde988d2e0e2d1374f8378d915ca5af0d934"
+    },
+    {
+      "path": "shared_context/environment_v16/ASSET_LICENSE.json",
+      "size": 1263,
+      "sha256": "f8f19a6e906daef1555e30fbba364fff37423b3a3c4efc732b08d2039b7f1b61"
+    },
+    {
+      "path": "shared_context/environment_v16/environment_detail.gd",
+      "size": 1518,
+      "sha256": "08728a1c2f9643a57cb1187bc924833206d307afad4815eb89d429622d2ef885"
+    },
+    {
+      "path": "shared_context/environment_v17/grove_layout.json",
+      "size": 323291,
+      "sha256": "68d8998a72889da7e03ed779a475be6fa3e0ff714cd65759dff48adb3c828492"
+    },
+    {
+      "path": "shared_context/environment_v17/pine_lod_provenance.json",
+      "size": 744,
+      "sha256": "67558271e07301c73d5f63d6408edd1a8117d9fe668d25ea96dd43c207ec9cba"
+    },
+    {
+      "path": "shared_context/environment_v17/environment_detail.gd",
+      "size": 396,
+      "sha256": "04a4fde81a8caacc0da0183873fab920adac9814417b1bcfbdf5f588053d4133"
+    },
+    {
+      "path": "shared_context/environment_v17/grove.gd",
+      "size": 4522,
+      "sha256": "80a53e3a8a01584dbe5f947ed77ef2133ea00b8b3ce9c5dda4064bbf572633bc"
+    },
+    {
+      "path": "shared_context/environment_v14/rock_skin.gdshader",
+      "size": 9436,
+      "sha256": "13c5e035bcc4e6536ff2f3fd34acee35149d56b71a23fbdccaca12cf5d68c23c"
+    },
+    {
+      "path": "shared_context/environment_v14/stair2_rock_skin.glb",
+      "size": 52188,
+      "sha256": "5f15a16bcdcc904af89f5537cdafb27508b528b14d58d0f954ed3ae136df2fe9"
+    },
+    {
+      "path": "shared_context/environment_v14/rock_skin.gd",
+      "size": 1654,
+      "sha256": "6162d16f91f2e395e637f70c54e81c66ba4529e37ea865c707bdadb0b68c4f44"
+    },
+    {
+      "path": "shared_context/environment_v14/environment_detail.gd",
+      "size": 439,
+      "sha256": "4882d3122e1e7499199914e40b430c2d787e6069ade6c75a18178367b8339ad7"
+    },
+    {
+      "path": "shared_context/environment_v14/rock_skin_layout.json",
+      "size": 524,
+      "sha256": "34643c1e5c4bd2b8c4e9996c1f7fc6a0eabb1b3aeb9e634ff4df6137e7207ce5"
+    },
+    {
+      "path": "shared_context/environment_v13/stone_relief.gd",
+      "size": 1463,
+      "sha256": "41a36fdea4558973a4615262ec75ff53ef3c17cdc02c5335cf078eaa5c078745"
+    },
+    {
+      "path": "shared_context/environment_v13/mainhall_stone_relief.glb",
+      "size": 117964,
+      "sha256": "bfa071306f298cfeac78615e2b420b91588b9e16a8976ef20a41d8dab3f15766"
+    },
+    {
+      "path": "shared_context/environment_v13/stone_relief.gdshader",
+      "size": 885,
+      "sha256": "ed4813e696e0c80c57dfb1743dfc4dc3b2aa4814c36c4eed954bce36d4cc3f13"
+    },
+    {
+      "path": "shared_context/environment_v13/environment_detail.gd",
+      "size": 440,
+      "sha256": "1170b76735d71a8028ef18a682faf8e3eec2981b31e18e54ecd425b83c63a12e"
+    },
+    {
+      "path": "shared_context/environment_v5/lod_assets/bamboo_clump_LOD1_v5_original_roughness_palette.png",
+      "size": 76,
+      "sha256": "b3e644eea2ee06fb8b5ee24c6c3c7ebccc0488cd26dab5664be23cbb9de762be"
+    },
+    {
+      "path": "shared_context/environment_v5/lod_assets/low_shrub_LOD0.glb",
+      "size": 76392,
+      "sha256": "578362572027b163c527dca583ffe0d241b056c9eb3e1b376792bfdedde28393"
+    },
+    {
+      "path": "shared_context/environment_v5/lod_assets/low_shrub_LOD0_v5_original_roughness_palette.png",
+      "size": 70,
+      "sha256": "95fc69a33f3dc47db24419d9e4c874eedf6ca39155cd20e74561f3e559b63bac"
+    },
+    {
+      "path": "shared_context/environment_v5/lod_assets/meadow_grass_LOD0.glb",
+      "size": 38144,
+      "sha256": "2fdb8b6144e278aae754af262a927e1f85765773b4b0148740da08b7fafbe596"
+    },
+    {
+      "path": "shared_context/environment_v5/lod_assets/meadow_grass_LOD1.glb",
+      "size": 20048,
+      "sha256": "49f11b072cc9a6ed10cbe949eea1926ef78b146ae3e1bd2f32374be08ba3b2ca"
+    },
+    {
+      "path": "shared_context/environment_v5/lod_assets/low_shrub_LOD1.glb",
+      "size": 44052,
+      "sha256": "7eb355441db264b0ab32eaa67fc44ad371a599536ca56e44efe45fa9225e96a1"
+    },
+    {
+      "path": "shared_context/environment_v5/lod_assets/pine_windswept_LOD2.glb",
+      "size": 529272,
+      "sha256": "5e3cbc27ecf78624d73a07d9ed4e4c819fc995e4815b4a18094fcba7223ae8cd"
+    },
+    {
+      "path": "shared_context/environment_v5/lod_assets/pine_windswept_LOD1_natural_surfaces_atlas.jpg",
+      "size": 443328,
+      "sha256": "7e55ad2182c05b318b39e6324c6a8e7129e405b66479ff34799a28862ac3b2ed"
+    },
+    {
+      "path": "shared_context/environment_v5/lod_assets/meadow_grass_LOD2_v5_original_roughness_palette.png",
+      "size": 70,
+      "sha256": "f8f89fffc8ce2effb8d2409a91c0011fd2a0bcb42906e760df96d4c8e6a75fc7"
+    },
+    {
+      "path": "shared_context/environment_v5/lod_assets/low_shrub_LOD1_v5_original_roughness_palette.png",
+      "size": 70,
+      "sha256": "95fc69a33f3dc47db24419d9e4c874eedf6ca39155cd20e74561f3e559b63bac"
+    },
+    {
+      "path": "shared_context/environment_v5/lod_assets/bamboo_clump_LOD1.glb",
+      "size": 600076,
+      "sha256": "8a9dbc84366f37dee3b90272d5b24d8be2e9df4e93f6fe2ffecce920b2df93b1"
+    },
+    {
+      "path": "shared_context/environment_v5/lod_assets/bamboo_clump_LOD2.glb",
+      "size": 270596,
+      "sha256": "ff0d6ff3ce5805fe1999496d70fb97cfb757158538b9c6310793e4e4de6072c9"
+    },
+    {
+      "path": "shared_context/environment_v5/lod_assets/pine_upright_LOD0_natural_surfaces_atlas.jpg",
+      "size": 443328,
+      "sha256": "7e55ad2182c05b318b39e6324c6a8e7129e405b66479ff34799a28862ac3b2ed"
+    },
+    {
+      "path": "shared_context/environment_v5/lod_assets/pine_windswept_LOD1.glb",
+      "size": 560812,
+      "sha256": "b5b54ea287a67f2521338f3a648339a5c25e07619a225c6266c36264a081de51"
+    },
+    {
+      "path": "shared_context/environment_v5/lod_assets/meadow_grass_LOD0_v5_original_roughness_palette.png",
+      "size": 70,
+      "sha256": "f8f89fffc8ce2effb8d2409a91c0011fd2a0bcb42906e760df96d4c8e6a75fc7"
+    },
+    {
+      "path": "shared_context/environment_v5/lod_assets/pine_upright_LOD1_natural_surfaces_atlas.jpg",
+      "size": 443328,
+      "sha256": "7e55ad2182c05b318b39e6324c6a8e7129e405b66479ff34799a28862ac3b2ed"
+    },
+    {
+      "path": "shared_context/environment_v5/lod_assets/pine_windswept_LOD2_natural_surfaces_atlas.jpg",
+      "size": 443328,
+      "sha256": "7e55ad2182c05b318b39e6324c6a8e7129e405b66479ff34799a28862ac3b2ed"
+    },
+    {
+      "path": "shared_context/environment_v5/lod_assets/low_shrub_LOD2_v5_original_roughness_palette.png",
+      "size": 70,
+      "sha256": "95fc69a33f3dc47db24419d9e4c874eedf6ca39155cd20e74561f3e559b63bac"
+    },
+    {
+      "path": "shared_context/environment_v5/lod_assets/pine_upright_LOD2_natural_surfaces_atlas.jpg",
+      "size": 443328,
+      "sha256": "7e55ad2182c05b318b39e6324c6a8e7129e405b66479ff34799a28862ac3b2ed"
+    },
+    {
+      "path": "shared_context/environment_v5/lod_assets/pine_upright_LOD1.glb",
+      "size": 572900,
+      "sha256": "eaa75bcd226672812713a78d81d4a98684a88edad9a9f49178a9d57c28a3020c"
+    },
+    {
+      "path": "shared_context/environment_v5/lod_assets/bamboo_clump_LOD0_v5_original_roughness_palette.png",
+      "size": 76,
+      "sha256": "b3e644eea2ee06fb8b5ee24c6c3c7ebccc0488cd26dab5664be23cbb9de762be"
+    },
+    {
+      "path": "shared_context/environment_v5/lod_assets/pine_upright_LOD0.glb",
+      "size": 628328,
+      "sha256": "2b73239fa7d03ed5793dbf8353e96e5af3e2b22abbdb17f0815f7e2538990e48"
+    },
+    {
+      "path": "shared_context/environment_v5/lod_assets/bamboo_clump_LOD2_v5_original_roughness_palette.png",
+      "size": 76,
+      "sha256": "b3e644eea2ee06fb8b5ee24c6c3c7ebccc0488cd26dab5664be23cbb9de762be"
+    },
+    {
+      "path": "shared_context/environment_v5/lod_assets/bamboo_clump_LOD0.glb",
+      "size": 975244,
+      "sha256": "fbc570ca234f830c11aa816f234e6c74564c2a9222a620d5b05745e6fe15ab7b"
+    },
+    {
+      "path": "shared_context/environment_v5/lod_assets/pine_windswept_LOD0_natural_surfaces_atlas.jpg",
+      "size": 443328,
+      "sha256": "7e55ad2182c05b318b39e6324c6a8e7129e405b66479ff34799a28862ac3b2ed"
+    },
+    {
+      "path": "shared_context/environment_v5/lod_assets/pine_upright_LOD2.glb",
+      "size": 537692,
+      "sha256": "22cab5cec07e4f58da0089dc1fee6110f61f10367e687c42b902c31acead609b"
+    },
+    {
+      "path": "shared_context/environment_v5/lod_assets/meadow_grass_LOD2.glb",
+      "size": 9432,
+      "sha256": "924b80a4f16f4f80570181c1aeaef3e6fbb131e497405dbb9d80c25569e3cb37"
+    },
+    {
+      "path": "shared_context/environment_v5/lod_assets/low_shrub_LOD2.glb",
+      "size": 28452,
+      "sha256": "fffbbde90cc9d2fdf6068e9035f3d0e04346846acd49deae2c33c5538cfad555"
+    },
+    {
+      "path": "shared_context/environment_v5/lod_assets/meadow_grass_LOD1_v5_original_roughness_palette.png",
+      "size": 70,
+      "sha256": "f8f89fffc8ce2effb8d2409a91c0011fd2a0bcb42906e760df96d4c8e6a75fc7"
+    },
+    {
+      "path": "shared_context/environment_v5/lod_assets/pine_windswept_LOD0.glb",
+      "size": 607600,
+      "sha256": "a616177883cb46b95394c22285c8c5c925222810aa5a109cb375105d9122a085"
+    },
+    {
+      "path": "shared_context/assets/nature_detail/sandstone_layers_LOD2.glb",
+      "size": 455348,
+      "sha256": "c3731829f47705d6d1350c45f417aa9f880d2a1b4e50d108cce55e62d9fe8001"
+    },
+    {
+      "path": "shared_context/assets/nature_detail/bank_sedge_LOD2.glb",
+      "size": 12212,
+      "sha256": "dddb2dde8d8c861eae37a334e970c7a1ed90288c46372ce8f0d5dc0046aa3ba7"
+    },
+    {
+      "path": "shared_context/assets/nature_detail/sandstone_layers_LOD1.glb",
+      "size": 489856,
+      "sha256": "ec00c017e018df16bb83146c88c616eb63b3fb2a4b72fe0582934fbc8d0e6a0b"
+    },
+    {
+      "path": "shared_context/assets/nature_detail/low_shrub_LOD0.glb",
+      "size": 96304,
+      "sha256": "fa2083f346fe5dc7db241fe82f40e91090b5f0f8d311340d54a9981dcb583edd"
+    },
+    {
+      "path": "shared_context/assets/nature_detail/bank_sedge_LOD0.glb",
+      "size": 45928,
+      "sha256": "4abead8c6c411008aa45be57b3793725ff0689f8d606347e52ada3b1d4d59ad8"
+    },
+    {
+      "path": "shared_context/assets/nature_detail/meadow_grass_LOD0.glb",
+      "size": 45936,
+      "sha256": "8a7e1b76e16ce72e795b30bbeee4dbc3905a0a0e0e19a567fe781b146b2974d5"
+    },
+    {
+      "path": "shared_context/assets/nature_detail/meadow_grass_LOD1.glb",
+      "size": 26224,
+      "sha256": "8530d155fbe70baa0d9c5cad5fd813d9939be7aad7c271d92ee36dbac73a72ce"
+    },
+    {
+      "path": "shared_context/assets/nature_detail/low_shrub_LOD1.glb",
+      "size": 51692,
+      "sha256": "4a7a0b65921ea9e146b64772e9b173237902863b3a6096e015eb8c8d41029958"
+    },
+    {
+      "path": "shared_context/assets/nature_detail/river_pebbles_LOD1.glb",
+      "size": 518336,
+      "sha256": "8f9ba9c6ad1ca803627b2c6778b9ef6e440d1cffad017dabdae2ae22a2684fb0"
+    },
+    {
+      "path": "shared_context/assets/nature_detail/pine_windswept_LOD2.glb",
+      "size": 731796,
+      "sha256": "de2b790de3daa14c48f545c502d6a161ac14d71ccac8a7cffad4d4a763847e47"
+    },
+    {
+      "path": "shared_context/assets/nature_detail/river_boulder_LOD1.glb",
+      "size": 490068,
+      "sha256": "17040a322f6415ba178dde0f5eeeaab319fe721f8d30d3a243867726277a19dd"
+    },
+    {
+      "path": "shared_context/assets/nature_detail/river_boulder_LOD0.glb",
+      "size": 606748,
+      "sha256": "922b2a997de6d90e21720909ee462b3fe4d227cc21230cc6c5d11705a061871c"
+    },
+    {
+      "path": "shared_context/assets/nature_detail/bamboo_clump_LOD1.glb",
+      "size": 638720,
+      "sha256": "18d3d6715ef9947e8177d1476e44f4c0cac1d9e1f7d9fdb5e38bdd926d415a68"
+    },
+    {
+      "path": "shared_context/assets/nature_detail/river_pebbles_LOD0.glb",
+      "size": 554520,
+      "sha256": "e00218106178dadd84706fb86ced315b55fc7ccd7511f0eeddf1470f2318b07a"
+    },
+    {
+      "path": "shared_context/assets/nature_detail/bamboo_clump_LOD2.glb",
+      "size": 484500,
+      "sha256": "8ed286df635097ad857811354e762e39d0f7d8c50706940ad132f43079853c2d"
+    },
+    {
+      "path": "shared_context/assets/nature_detail/bank_sedge_LOD1.glb",
+      "size": 26752,
+      "sha256": "9216687418d1dc83e3f1ed447c38fe7aec57abad81ca4ed28ded7c3636ff7d59"
+    },
+    {
+      "path": "shared_context/assets/nature_detail/pine_windswept_LOD1.glb",
+      "size": 978760,
+      "sha256": "055ecdea16f9a8b6640e1c32a97a9d76193f81bdb8141abb83d848ed9e3a9e3b"
+    },
+    {
+      "path": "shared_context/assets/nature_detail/limestone_karst_LOD2.glb",
+      "size": 454388,
+      "sha256": "86f8fc053eab62cd42bb65e14b67a98735438c2054b06c7e9bfb3a7f8f2c4d6f"
+    },
+    {
+      "path": "shared_context/assets/nature_detail/river_pebbles_LOD2.glb",
+      "size": 482164,
+      "sha256": "bc94712f4de6f989f654763790fd4adb6adb7b1e27dda72fb5dd9ec69e5b00c1"
+    },
+    {
+      "path": "shared_context/assets/nature_detail/limestone_karst_LOD1.glb",
+      "size": 487072,
+      "sha256": "430efff55b342b01e0eaadca801cc8eaf7e5e9b5fb25882808ffa64570b5a1d5"
+    },
+    {
+      "path": "shared_context/assets/nature_detail/pine_upright_LOD1.glb",
+      "size": 1075072,
+      "sha256": "f6a30ab7acbfcdfe94a1dca7db954dbe94b74177545720b954d7b52e6f2835ac"
+    },
+    {
+      "path": "shared_context/assets/nature_detail/pine_upright_LOD0.glb",
+      "size": 1655252,
+      "sha256": "175ffdff6ffdd3040877c347212d15924a96408dd63a4e11c6b859f513f8d287"
+    },
+    {
+      "path": "shared_context/assets/nature_detail/river_boulder_LOD2.glb",
+      "size": 454992,
+      "sha256": "3f6663fc567a17d6e44667bcf54c8a57257c57947e7bf4ce142686479988a89e"
+    },
+    {
+      "path": "shared_context/assets/nature_detail/sandstone_layers_LOD0.glb",
+      "size": 605444,
+      "sha256": "01048c7c28a428515c5a1bb47bd21c36b3e1006def692360df17408408401c99"
+    },
+    {
+      "path": "shared_context/assets/nature_detail/bamboo_clump_LOD0.glb",
+      "size": 1061076,
+      "sha256": "21c60066805e729184cb6dfef90272c981de1bc39c4e30debc7a7f0d48a7ad21"
+    },
+    {
+      "path": "shared_context/assets/nature_detail/pine_upright_LOD2.glb",
+      "size": 781076,
+      "sha256": "7589c509c50ac1ae2c374cce8fcedd5fdcef0af90833bf5e4ffe9573eed7814d"
+    },
+    {
+      "path": "shared_context/assets/nature_detail/meadow_grass_LOD2.glb",
+      "size": 12872,
+      "sha256": "bd20c0631f3e97779250acdcd51f64ff5e87ad9fce158c40204466b3d29aaf75"
+    },
+    {
+      "path": "shared_context/assets/nature_detail/low_shrub_LOD2.glb",
+      "size": 29664,
+      "sha256": "0b6c6f86ea6a459359628e2facf0b5fd3c9ade45459bd1712fa9bdc4a37b35f9"
+    },
+    {
+      "path": "shared_context/assets/nature_detail/limestone_karst_LOD0.glb",
+      "size": 599008,
+      "sha256": "714d2711e4b0ca0b4f605b48346bc304edb44e3629a43fcf4a046292f18ad7d9"
+    },
+    {
+      "path": "shared_context/assets/nature_detail/pine_windswept_LOD0.glb",
+      "size": 1468216,
+      "sha256": "bc9befc9cadb5843727bdeb3394daee704305e405a1e8a142238711a042a6873"
+    },
+    {
+      "path": "shared_context/assets/third_batch/c_mature_pine_lod2.glb",
+      "size": 2622088,
+      "sha256": "c07efc783b8dd49ad505bd488f688f9110d666bb231f43216684357d631e01d1"
+    },
+    {
+      "path": "shared_context/assets/third_batch/c_rice_field_module_lod2.glb",
+      "size": 2622768,
+      "sha256": "a8b20871ceba58d10bce83be7d1a74705f9b71b9d901333459c0bba4fffe93e0"
+    },
+    {
+      "path": "shared_context/assets/third_batch/BasinWarmEarth_base.png",
+      "size": 380261,
+      "sha256": "f4cb477798477a627dc415224a7ea6b8f116c626aad5f20e68f27e7a009c210c"
+    },
+    {
+      "path": "shared_context/assets/third_batch/c_north_temple_landmark_lod1.glb",
+      "size": 3468624,
+      "sha256": "75d05cbc6b2a96304879694ac416a3b6a8a5abb73367bbd8edc21cf55b4c54b4"
+    },
+    {
+      "path": "shared_context/assets/third_batch/c_basin_surface_patch_lod2.glb",
+      "size": 1706056,
+      "sha256": "228faeb2b15c15e26e6bd20fef2800b345561fa60fa6af62b1a34d4fd2ac8c3c"
+    },
+    {
+      "path": "shared_context/assets/third_batch/c_bamboo_clump_lod2.glb",
+      "size": 1811828,
+      "sha256": "6facfe583bdb1cfbed3f9764596a37caadabfef1bb49520dc7c3d83549d2f250"
+    },
+    {
+      "path": "shared_context/assets/third_batch/c_east_city_landmark.glb",
+      "size": 2671936,
+      "sha256": "76c9738b037d1a6364650f9f511e5d3e4545515a140fdb0a3903d5051b783ca0"
+    },
+    {
+      "path": "shared_context/assets/third_batch/c_cliff_rock_lod2.glb",
+      "size": 867580,
+      "sha256": "5c6efd5952ffe840221564a8276fc7e26093564337443bba29f4f5c8e3e7e6e7"
+    },
+    {
+      "path": "shared_context/assets/third_batch/c_mature_pine.glb",
+      "size": 2755368,
+      "sha256": "3febac6eec4089c1b9da4224ffcd73b6cdd89698ae856638a6b80465514e4222"
+    },
+    {
+      "path": "shared_context/assets/third_batch/c_cliff_rock.glb",
+      "size": 893492,
+      "sha256": "7e2687bc2e631fe0e9ab60340784342ab805e5dea916c9b72c00e7f5a3ad3514"
+    },
+    {
+      "path": "shared_context/assets/third_batch/c_east_city_landmark_lod1.glb",
+      "size": 2625024,
+      "sha256": "1c473df022ff433fbc36fc51cb284e4cc2c71ed8392853d86ab559af646415f1"
+    },
+    {
+      "path": "shared_context/assets/third_batch/c_basin_surface_patch_lod1.glb",
+      "size": 1707344,
+      "sha256": "95c164eedcbedee366d6d644dda09a16551e65e8e209a4da417c07a44ff7f0d3"
+    },
+    {
+      "path": "shared_context/assets/third_batch/BasinMutedGrass_base.png",
+      "size": 374555,
+      "sha256": "73f21657cb65aea0efe800f99f277f22a068102dbce5fcac0618e83ca36d3e8e"
+    },
+    {
+      "path": "shared_context/assets/third_batch/c_bamboo_clump_lod1.glb",
+      "size": 1913808,
+      "sha256": "2e957a049b1f0ac7658cf0e88484d3e0da8f494f66caeaa8b42ca14e90ec1f26"
+    },
+    {
+      "path": "shared_context/assets/third_batch/c_rice_field_module_lod1.glb",
+      "size": 2684576,
+      "sha256": "3a46923b347a6b8c3e8d82224de4e46411bb74d54c49aa569c23bd7446ec4c80"
+    },
+    {
+      "path": "shared_context/assets/third_batch/c_cliff_rock_lod1.glb",
+      "size": 877360,
+      "sha256": "7e47a0df59aadf9dc967c699605e5fb65fe5d98810ef6a409d4993b5c63ad5d7"
+    },
+    {
+      "path": "shared_context/assets/third_batch/c_east_city_landmark_lod2.glb",
+      "size": 2589704,
+      "sha256": "2e6e8c90e6c5c77741e9dc9b7893e7d25959fae2a830250417ca23b2aa20544b"
+    },
+    {
+      "path": "shared_context/assets/third_batch/c_mature_pine_lod1.glb",
+      "size": 2673568,
+      "sha256": "8498aa41ccc048c7dc462a6feef9f0feea43c1ab3a897e9b74de0e24f6597161"
+    },
+    {
+      "path": "shared_context/assets/third_batch/c_north_temple_landmark_lod2.glb",
+      "size": 3423828,
+      "sha256": "1542561fa0a06c436051e3201e923b5b72a97fc5e36c1c060fe9ad7b8a853b6e"
+    },
+    {
+      "path": "shared_context/assets/third_batch/c_bamboo_clump.glb",
+      "size": 2020716,
+      "sha256": "7b0a09ac1b88df1eef2dfe109741985cd1e69a5ff904209e7c75f99cdc17aec7"
+    },
+    {
+      "path": "shared_context/assets/third_batch/c_basin_surface_patch.glb",
+      "size": 1709360,
+      "sha256": "6eba71e3e85d24c166dbc6da796ec2dcd384654fac540dcbaea3d025916b6109"
+    },
+    {
+      "path": "shared_context/assets/third_batch/c_rice_field_module.glb",
+      "size": 2742328,
+      "sha256": "215d3f2c32ed6db28c3388b47dc653177c9033484f6b295d7af2c826a62b3b59"
+    },
+    {
+      "path": "shared_context/assets/third_batch/c_north_temple_landmark.glb",
+      "size": 3517980,
+      "sha256": "adf19c039d0d18ed1db67e2081dd89d91b51fd8ac371f13e64c116eb7c94e87a"
+    },
+    {
+      "path": "shared_context/assets/wudang_architecture/C_MountainGate_LOD0.glb",
+      "size": 1890588,
+      "sha256": "40a7087be30696b78a6d7b50fb12a71c9b9df740aa19fc878a1a2d98f9b818fe"
+    },
+    {
+      "path": "shared_context/assets/wudang_architecture/B_SideHall_LOD1.glb",
+      "size": 603392,
+      "sha256": "24705ec58ab84e981467e91fa8a112d43a4146aa430469ce81df0977e081653b"
+    },
+    {
+      "path": "shared_context/assets/wudang_architecture/C_MountainGate_LOD1.glb",
+      "size": 811628,
+      "sha256": "8877824ca6fe0a58a7c0cc34b423038a11db1df54527e1bb805469955ab8f5b7"
+    },
+    {
+      "path": "shared_context/assets/wudang_architecture/D_HighTower_LOD0.glb",
+      "size": 2316624,
+      "sha256": "7543667af6c65bc9b4c80812371fd4a39ec612f4ad1fc7de6203c51eeddb6097"
+    },
+    {
+      "path": "shared_context/assets/wudang_architecture/A_MainHall_LOD0.glb",
+      "size": 3674080,
+      "sha256": "0d651a98921527e3da2f1a84867ddcae6a4efa47918ba3c72ca93fb73e15febe"
+    },
+    {
+      "path": "shared_context/assets/wudang_architecture/B_SideHall_LOD2.glb",
+      "size": 196280,
+      "sha256": "83351b3d0ddfd92c63453d2e1a1cb6b8dfe025669d5075f3d84e44386d9a7b63"
+    },
+    {
+      "path": "shared_context/assets/wudang_architecture/D_HighTower_LOD1.glb",
+      "size": 1174608,
+      "sha256": "ab9d89a4992131e7755f52c20388d29e95a0ba748ba0f29a6573eb6bf48b1e13"
+    },
+    {
+      "path": "shared_context/assets/wudang_architecture/D_HighTower_LOD2.glb",
+      "size": 427072,
+      "sha256": "924723b244056daf40f748d38870d34e3e5f9fc76d01312732edc074afe41da7"
+    },
+    {
+      "path": "shared_context/assets/wudang_architecture/A_MainHall_LOD2.glb",
+      "size": 434160,
+      "sha256": "4d28d49509fb2527e89a419e78e5276421da4d8912d6fcf0070ae73885f1abbd"
+    },
+    {
+      "path": "shared_context/assets/wudang_architecture/A_MainHall_LOD1.glb",
+      "size": 1535536,
+      "sha256": "d02acb22d6e27b6c9c35a2fed3cabd131c33ff2fd2c5771d1660ef38ef3d1035"
+    },
+    {
+      "path": "shared_context/assets/wudang_architecture/C_MountainGate_LOD2.glb",
+      "size": 266896,
+      "sha256": "f16ed15f70a3ba8ec1f54a1c2e98b85b21b84934994a832f88a9cecc70b09ac8"
+    },
+    {
+      "path": "shared_context/assets/wudang_architecture/B_SideHall_LOD0.glb",
+      "size": 1298316,
+      "sha256": "2a2e35828e0fb23f89ab0a24df91241f3c4f2e1d17c1389898be6a8bfd104960"
+    },
+    {
+      "path": "shared_context/assets/stone_lantern/lantern_game_24k.glb",
+      "size": 4287008,
+      "sha256": "9202b923c98033a4dae8e521028de3df2b83860b1ff4c3f2dd400a757c009192"
+    },
+    {
+      "path": "shared_context/assets/stone_lantern/lantern_far_7k.glb",
+      "size": 3798588,
+      "sha256": "71806621d2f8fdc16971ff1793fb49776b6416f5bf8157bc4a1df7231ef54aa3"
+    },
+    {
+      "path": "shared_context/assets/wudang_detail/Wudang_Details.glb",
+      "size": 6316980,
+      "sha256": "2aa4d97bd1ca8c926a58314aa2c740c7e473e9155f31a0c1ac25361fc132f353"
+    },
+    {
+      "path": "shared_context/assets/vegetation/c_low_grass.glb",
+      "size": 3704,
+      "sha256": "eaae5ece5f3e0a05852b5d6cbd5c71750221a03fd4ff7f3b0fbbc6af46bf9f10"
+    },
+    {
+      "path": "shared_context/assets/first_batch/c_waterwheel_granary_lod2.glb",
+      "size": 4666388,
+      "sha256": "8b53bc0e35db11bcfc22ea0263ae13d5047dea3a64bb02436d0b43bbb7c94e39"
+    },
+    {
+      "path": "shared_context/assets/first_batch/c_lake_pavilion_lod1.glb",
+      "size": 4284584,
+      "sha256": "a83567b82d8bdd7484f4072a3b450bbaed78aa542af517db82e39d2db1e02aff"
+    },
+    {
+      "path": "shared_context/assets/first_batch/c_lake_pavilion.glb",
+      "size": 4726576,
+      "sha256": "8245d9c40efbfe13b3bc62e07e936e9894a19e78ed47b871d90f346e67a5a9e0"
+    },
+    {
+      "path": "shared_context/assets/first_batch/c_open_mountain_gate_lod1.glb",
+      "size": 4787420,
+      "sha256": "1f053d3333b0fce4a7e87fed6285b25eca0e1dc7f0c02acc5bb626f03883a741"
+    },
+    {
+      "path": "shared_context/assets/first_batch/c_open_mountain_gate.glb",
+      "size": 5079988,
+      "sha256": "555e774facca0c47b80d862f24074b5c350cca50e45295fd59f07f9baf42c87b"
+    },
+    {
+      "path": "shared_context/assets/first_batch/c_waterwheel_granary.glb",
+      "size": 5974112,
+      "sha256": "ec930f50fd0fa75b457bb6ed7ef1462247adc3aa0b5c0506bf5c88b2b8344aca"
+    },
+    {
+      "path": "shared_context/assets/first_batch/c_open_mountain_gate_lod2.glb",
+      "size": 4502216,
+      "sha256": "79ef65a8508dae03bfae829eb25658d0a09e93765bec22f79631380b8767be05"
+    },
+    {
+      "path": "shared_context/assets/first_batch/c_waterwheel_granary_lod1.glb",
+      "size": 5275704,
+      "sha256": "8d9fa826ea23a2ab637050c481b051d8f78a579408556b6d529ac7b49fd04c19"
+    },
+    {
+      "path": "shared_context/assets/first_batch/c_farmhouse.glb",
+      "size": 13718964,
+      "sha256": "15456f30f54f35a25ef57b8e2c794b92beb3ae87b01f7905c0190ec0ef6209b3"
+    },
+    {
+      "path": "shared_context/assets/first_batch/c_farmhouse_lod2.glb",
+      "size": 13219300,
+      "sha256": "4099e9ebc05e86d016503fca8f8f1abafe47c60220f1f5fed7cbc4e297f898e5"
+    },
+    {
+      "path": "shared_context/assets/first_batch/c_farmhouse_lod1.glb",
+      "size": 13449304,
+      "sha256": "6d83b71fb1ebb5caf6f41a813558b25bf2ebf0997dcb44524587946ccdc9523b"
+    },
+    {
+      "path": "shared_context/assets/first_batch/c_lake_pavilion_lod2.glb",
+      "size": 3833560,
+      "sha256": "7557cc53405154f92d61665a843df0e0f6a14e744863f02bd58a7b7cf45e1626"
+    },
+    {
+      "path": "shared_context/assets/first_batch/c_return_stone_bridge_lod1.glb",
+      "size": 1950440,
+      "sha256": "cbc7b2062f1c5f6f6fc79ad8b179475673d91867ea363a153291d999cd17c9d1"
+    },
+    {
+      "path": "shared_context/assets/first_batch/c_return_stone_bridge_lod2.glb",
+      "size": 1811696,
+      "sha256": "7b43229cc14cfc9ab7eea3a9b59dd089ec75ec8fb63f1f652e1a53fd8f9f560b"
+    },
+    {
+      "path": "shared_context/assets/first_batch/c_return_stone_bridge.glb",
+      "size": 2111324,
+      "sha256": "5f061005309f73eb78ee701f8b60dd6aba56e5559dd89faf9c8452383d6f825f"
+    },
+    {
+      "path": "shared_context/world/wudang/routes.json",
+      "size": 2017,
+      "sha256": "f48f78967852a17608163f20e995cec73267143c9b741a97a27281cb65ff107d"
+    },
+    {
+      "path": "shared_context/world/wudang/path_mask.png",
+      "size": 562,
+      "sha256": "b4a5e0e2c8d86dd086d5bb560e073cb752aa29da8ac3c688a95277506e72a6f1"
+    },
+    {
+      "path": "shared_context/world/wudang/detail_manifest.json",
+      "size": 2137548,
+      "sha256": "9d23f211806d0667463669c114399ec7556b8970fc52d3bf0696522178b4f909"
+    },
+    {
+      "path": "shared_context/world/wudang/terrain_metadata.json",
+      "size": 1970,
+      "sha256": "8c97b805da14cecc630971840ac561a0b9719f3a46688a8036f9102a869f412f"
+    },
+    {
+      "path": "shared_context/world/wudang/heightmap_2m.f32",
+      "size": 461572,
+      "sha256": "3532aa19f6ee577d6fcb6924e1d1a3c926f49ea0212df9d80a9c340db4df5333"
+    },
+    {
+      "path": "shared_context/world/wudang/blueprint.json",
+      "size": 5332,
+      "sha256": "b3fe211026907e563492a43ab4ef12c8a065408624dd657b399ff64f8c2f8d80"
+    },
+    {
+      "path": "shared_context/world/wudang/raw_patch_2m.f32",
+      "size": 461572,
+      "sha256": "17e9d621a9ed0aaa71de6de947fa4bca9dd07737bacbffad4fac9e05bff92722"
+    },
+    {
+      "path": "support/README.md",
+      "size": 2745,
+      "sha256": "417affe69f4aec7587f176a47b88411b0d45d2e68ccda8028f0e8bfdbcc16d77"
+    },
+    {
+      "path": "support/portable_preview.py",
+      "size": 9239,
+      "sha256": "072934cfe22deaa7d5c7c8add0cfeddd31241590b23804c5bd51ea8ccbf5c28f"
+    },
+    {
+      "path": "support/portable_lake_verification/world_collision_checks.json",
+      "size": 8523,
+      "sha256": "aad1aca1df27d8a8df1343ed463ba72aed3ba820b62a503cd88ba18d5ab57a42"
+    },
+    {
+      "path": "support/portable_lake_verification/all_multimesh_transform_audit.json",
+      "size": 747508,
+      "sha256": "dfe320d8562242dd3d0b55fbeb251cd53f74d101d0080db2a31f731c59ad9fb6"
+    }
+  ]
+}

@@ -1,0 +1,1025 @@
+{
+  "archive": "refined_assets.zip",
+  "archive_size": 252365649,
+  "archive_sha256": "9ef9c515ba854134640745a7a0f22e8bab47971110ac88068a6133c2774e0ad1",
+  "parts": [
+    {
+      "name": "refined_assets.zip.part0001",
+      "size": 4194304,
+      "sha256": "767c952716251f5f85cd8ab5dccece049bc4964d15c376cc74e7b8feedf76437",
+      "git_blob_sha1": "9905047e2384d4429eb4436d13f9bd9b1832c10f"
+    },
+    {
+      "name": "refined_assets.zip.part0002",
+      "size": 4194304,
+      "sha256": "fbcb9784821899ac22be8e22913723916c4f5006168c0d80c43c0b8439f086b1",
+      "git_blob_sha1": "fd840023b32c24e94b88d056cc64409a99182dd3"
+    },
+    {
+      "name": "refined_assets.zip.part0003",
+      "size": 4194304,
+      "sha256": "b01cc72d8d92108a56a9bfbcae8101c54a5bf43a264feded3abe6cc6db699a50",
+      "git_blob_sha1": "5c7cf87277264189e9692c86b2d6e601361ef82f"
+    },
+    {
+      "name": "refined_assets.zip.part0004",
+      "size": 4194304,
+      "sha256": "d1bf08938290491f53e5bc84ca8c89c5064b65999c27fbeb2b1737bc409932b2",
+      "git_blob_sha1": "809ed562e9ff320b882009d042ad7092e690104e"
+    },
+    {
+      "name": "refined_assets.zip.part0005",
+      "size": 4194304,
+      "sha256": "7cdf86fa11af26161c8e693f7456272248a72c5644be7d05c5d51cc81cffa7d2",
+      "git_blob_sha1": "de08174c2fd308d6bd17efb768485b1e9e07646f"
+    },
+    {
+      "name": "refined_assets.zip.part0006",
+      "size": 4194304,
+      "sha256": "dbe25e814e7b3dc10eeddf2bcfe134f20d084dd0850726dd6b1c72a5293b535c",
+      "git_blob_sha1": "79abd7ecd7422f9f3179beffbb413d9f8c6ba5ad"
+    },
+    {
+      "name": "refined_assets.zip.part0007",
+      "size": 4194304,
+      "sha256": "02755085fc7d43f0de3ca99ebfdb3183105468c66ede16275cc7326b2d684daf",
+      "git_blob_sha1": "001e183c145c82f6878b0d80b87bfc36b7d0429d"
+    },
+    {
+      "name": "refined_assets.zip.part0008",
+      "size": 4194304,
+      "sha256": "5b1853592518b96777bf5e002b8384fd53228316b6b69a79597c84b8e6433ccc",
+      "git_blob_sha1": "c2b99932368a6c1c50d341eea79f5912e1e9f4b4"
+    },
+    {
+      "name": "refined_assets.zip.part0009",
+      "size": 4194304,
+      "sha256": "174acaec168d1ee8a0464ff7fddd7f5214811c575ca1cf8b329c9756482f1f4f",
+      "git_blob_sha1": "0e0415a6dbb56e1e3cc8ba1d8350e884ea24b190"
+    },
+    {
+      "name": "refined_assets.zip.part0010",
+      "size": 4194304,
+      "sha256": "14ac2de55cf69977dd8a48e91c264f9fcf32a7afb7827de29051585a109fb75e",
+      "git_blob_sha1": "52c493a67a36faf4b8856738da5acb81fd2b9d16"
+    },
+    {
+      "name": "refined_assets.zip.part0011",
+      "size": 4194304,
+      "sha256": "8c1479ff681aaee114a6de6e0d91e8ef3b0633ed21704ea037a0dbb120b865ce",
+      "git_blob_sha1": "916c32c11bd11414ba635f0f9718f6860f50e008"
+    },
+    {
+      "name": "refined_assets.zip.part0012",
+      "size": 4194304,
+      "sha256": "8d8652359b544fe6042c64ba144a489d48fafd17ef151e3e50579c2001903cef",
+      "git_blob_sha1": "0dfb1fcef61a0d8bfabe87b48579b94526d4f943"
+    },
+    {
+      "name": "refined_assets.zip.part0013",
+      "size": 4194304,
+      "sha256": "1b9f94455f686293822ccf5a213c9299397da956bdd1117b05cdc0a35a2b53a3",
+      "git_blob_sha1": "ced6f71930fd23f39050b84a2a30cf97f4a90b6a"
+    },
+    {
+      "name": "refined_assets.zip.part0014",
+      "size": 4194304,
+      "sha256": "d61b4247643db37401ebabd703da9f6e40cc98e597a4d374f3988476cf02717b",
+      "git_blob_sha1": "aeb52b3987891f20ef7fb195e609b3680754d9a3"
+    },
+    {
+      "name": "refined_assets.zip.part0015",
+      "size": 4194304,
+      "sha256": "01b9b1f24f7bc1d8554d65396e9be7fb0c2a47f92baccebb8140edea0245135d",
+      "git_blob_sha1": "e718a851af8a01c57e3bdc5e96f6ad594ab452c4"
+    },
+    {
+      "name": "refined_assets.zip.part0016",
+      "size": 4194304,
+      "sha256": "2993a79f83b6cadcd722cd3bc5219b87db0a591ab2c0555d1a2de09ae156e9a5",
+      "git_blob_sha1": "e1e55ae720e579d9d59d20e775aa307bf51d0d54"
+    },
+    {
+      "name": "refined_assets.zip.part0017",
+      "size": 4194304,
+      "sha256": "11fa09886b625c741a265921dc26e32bdec256bacc045c27f5d016cab55f197d",
+      "git_blob_sha1": "bdc4a8e3c317f5edddc435180fa4300db5bbd5e5"
+    },
+    {
+      "name": "refined_assets.zip.part0018",
+      "size": 4194304,
+      "sha256": "a1e7d203261c4c434d2b2481b473bd289c7e0fae75da83e4c10ef1ea84faaef4",
+      "git_blob_sha1": "d0f55c363faa08b238d53e0e396022235b6a587b"
+    },
+    {
+      "name": "refined_assets.zip.part0019",
+      "size": 4194304,
+      "sha256": "38cef687fd652c9b5b46a23dd73a00e9222ccbe70c678ab0b8752970146074e7",
+      "git_blob_sha1": "3931b28b9ac5ab15a0f71fff833d9aa2a76708b7"
+    },
+    {
+      "name": "refined_assets.zip.part0020",
+      "size": 4194304,
+      "sha256": "997b99c8293047657334913ce065e3de9d800586c54e6190711b906bdec43f1a",
+      "git_blob_sha1": "6b84400f739119210eebd84aa2336d33809062b3"
+    },
+    {
+      "name": "refined_assets.zip.part0021",
+      "size": 4194304,
+      "sha256": "a4120b25d995a31924fde978c61251e4fdb4d6217b6c701d133c04a0e4a131b4",
+      "git_blob_sha1": "8ae8345953b63874a2f210d4d58ba81a263e8023"
+    },
+    {
+      "name": "refined_assets.zip.part0022",
+      "size": 4194304,
+      "sha256": "fd89fa5cde85b2b65789255ad230ff7ecfca36fcccec5276b700669fd979438d",
+      "git_blob_sha1": "4478f248493b4ec57d763721e1e519d420518e18"
+    },
+    {
+      "name": "refined_assets.zip.part0023",
+      "size": 4194304,
+      "sha256": "c180733e25d1f09cd26d7e1b941d20909c1be51dc97d44a93f79a7c77755bdeb",
+      "git_blob_sha1": "6f6f934f637cf1647d5f57b773af20ebf445c529"
+    },
+    {
+      "name": "refined_assets.zip.part0024",
+      "size": 4194304,
+      "sha256": "2fc08f0c60bee9abb108ed092455e7852d8925b5edcfcc9d80292020c7057ebf",
+      "git_blob_sha1": "22e35da28ca98dce4a505e4f07fefe3ae13bfc97"
+    },
+    {
+      "name": "refined_assets.zip.part0025",
+      "size": 4194304,
+      "sha256": "35f2326ec8291512b380f7239ebfe4fce6d2ee80c3f95680ffc23667cb9fa701",
+      "git_blob_sha1": "1ca6857ada6b519d0aa504676373fb7e6b6c66fc"
+    },
+    {
+      "name": "refined_assets.zip.part0026",
+      "size": 4194304,
+      "sha256": "a9e5b83dda446fa760a5400b9f16b26c6fce81e8050c6d3fc35b171073c53a45",
+      "git_blob_sha1": "86c4d0a378aa2c16ae91e993851affc29d68dc1a"
+    },
+    {
+      "name": "refined_assets.zip.part0027",
+      "size": 4194304,
+      "sha256": "5181cae5fbdc6845f63a4aed45eab2d2afe09fee4ba56c8ab35e68cf24ca4552",
+      "git_blob_sha1": "944970848fc8e7ea699d9bbd6c3fd259d124027e"
+    },
+    {
+      "name": "refined_assets.zip.part0028",
+      "size": 4194304,
+      "sha256": "cb11ac444e98754612134afdc93cdefe05c37199bb495b22f34b92af38db00ef",
+      "git_blob_sha1": "064be6d66b45df9e540e024ccccfc5f2c19a88e3"
+    },
+    {
+      "name": "refined_assets.zip.part0029",
+      "size": 4194304,
+      "sha256": "1fc0efe27efd42ff6b47c848e03014b1faf258182202354a0e6e1a3e6b9ddcb6",
+      "git_blob_sha1": "ef28eaae8585b5f8c05314aa7864740bf3ab8d32"
+    },
+    {
+      "name": "refined_assets.zip.part0030",
+      "size": 4194304,
+      "sha256": "08b31c2e544a916165d4a1cc3c12bc82ed3e7265eebb3a5e26e3bdca135575d1",
+      "git_blob_sha1": "de582530287d33afd0ee08e02fd19d55915b2a6d"
+    },
+    {
+      "name": "refined_assets.zip.part0031",
+      "size": 4194304,
+      "sha256": "e7e7a993a46ca8396827242b4ac2076253d680a1a99f326c432fb6243d311855",
+      "git_blob_sha1": "38fb32233868b7bf45255f602a7e5ef61d031511"
+    },
+    {
+      "name": "refined_assets.zip.part0032",
+      "size": 4194304,
+      "sha256": "c72e32be9a25d880aaa65a50b93afc1826ef588b781f1b85fe103a32700ff82a",
+      "git_blob_sha1": "22d99d6de04f407f95ebea59b1099b1b9e07b9a3"
+    },
+    {
+      "name": "refined_assets.zip.part0033",
+      "size": 4194304,
+      "sha256": "2556eb4103669930b853c514e4512b9d2927956841bb9943fb1ab3b65ef8c6d2",
+      "git_blob_sha1": "a22d6d84c67ef5ecc7246e85d0ef1687da7952a4"
+    },
+    {
+      "name": "refined_assets.zip.part0034",
+      "size": 4194304,
+      "sha256": "428beeea0fe9721fe30ba58b83c7ceeb2f58bac7e2ad5c94dfce98e6eb663803",
+      "git_blob_sha1": "47e9e753b2b9b58d5a27ac638fac94bec5b2e1ae"
+    },
+    {
+      "name": "refined_assets.zip.part0035",
+      "size": 4194304,
+      "sha256": "27ae0493f9492b849a2b04d5b7344ac62dab2e33db8bef2c8302d2416308d0b4",
+      "git_blob_sha1": "16bb6c1c4f8b6c1ee25f95f27811cbde5b7aff55"
+    },
+    {
+      "name": "refined_assets.zip.part0036",
+      "size": 4194304,
+      "sha256": "9b94942b74a65d97ec1ca731beb9f1262aa2a570dd7dfcb22239d8b6046d9d49",
+      "git_blob_sha1": "11a34d974071fe44aa42fc23d594712fa4b873f0"
+    },
+    {
+      "name": "refined_assets.zip.part0037",
+      "size": 4194304,
+      "sha256": "6078314840638f3b768abda7943ca697e00e099cf219c983b9dca41be8b5842a",
+      "git_blob_sha1": "f53d5004d099b61d85b21506eaac346079255691"
+    },
+    {
+      "name": "refined_assets.zip.part0038",
+      "size": 4194304,
+      "sha256": "70bd9f13af4d2e5cdf036cf06f22222e8e322c39ea6d8ba6fcc521bfd6f3c95f",
+      "git_blob_sha1": "97f63b935c453b0bd4fe1f16853eee01faec76f3"
+    },
+    {
+      "name": "refined_assets.zip.part0039",
+      "size": 4194304,
+      "sha256": "0db5ebcab912ddde16529332d4781c41875d35036818a20b9612fbcf0d77bc6b",
+      "git_blob_sha1": "d5fed48014cec1212bd6c398e015356bdda1c7df"
+    },
+    {
+      "name": "refined_assets.zip.part0040",
+      "size": 4194304,
+      "sha256": "40fddf14bc5c9ccdfc35d76e0850ce90f724ab40613ffc710acb137a4b0cbfc2",
+      "git_blob_sha1": "d6ddaadc131b042de825f0f542eb620c1b33ebe8"
+    },
+    {
+      "name": "refined_assets.zip.part0041",
+      "size": 4194304,
+      "sha256": "c145bcecfbf93aa022f703b2b753541ac10699b5ca44530188a8fa96abe2c71a",
+      "git_blob_sha1": "ea005d6ca71f97c337639bceefc8996763ccb4d4"
+    },
+    {
+      "name": "refined_assets.zip.part0042",
+      "size": 4194304,
+      "sha256": "e4dcfec7a6c816a98da52e6e9cc687e6d96564363ce54edaf273b7a2a2829241",
+      "git_blob_sha1": "97c62831e231d0d542ec37ff425b23443d9f0c84"
+    },
+    {
+      "name": "refined_assets.zip.part0043",
+      "size": 4194304,
+      "sha256": "af038d8cbd194ca891bc5e2940eb26220bd185e076e24347b725cfbac6a44c95",
+      "git_blob_sha1": "aaa6f6997291f89a9ba09cd55c80b5c411f0a50e"
+    },
+    {
+      "name": "refined_assets.zip.part0044",
+      "size": 4194304,
+      "sha256": "5772a0be8bdd6f800270c58517ad5024dc9c3c557088a1ac0169d92d9d566ec7",
+      "git_blob_sha1": "8fed3b6793cb6a6adcc6dfa56bae925a281fd0ec"
+    },
+    {
+      "name": "refined_assets.zip.part0045",
+      "size": 4194304,
+      "sha256": "46b47ae7d8cfa715479318f8cf382f53312d6009100d6056d5952e99b08c5b5f",
+      "git_blob_sha1": "b0a772b0b1375cacc2706580cd4cb19788ac8d27"
+    },
+    {
+      "name": "refined_assets.zip.part0046",
+      "size": 4194304,
+      "sha256": "be2248405aca4d5dc774e6149722e6ca2501a9472a2eb44ba6d677558b731cd3",
+      "git_blob_sha1": "37b5023ed5886dfa0fe44c122a2be26093e90f70"
+    },
+    {
+      "name": "refined_assets.zip.part0047",
+      "size": 4194304,
+      "sha256": "47233052c5ddb46a4fad128a943c5669d9e8d11ca8d7dceb5f5c9d56924b76e3",
+      "git_blob_sha1": "dc7d34fc61041b412d920843346f7a5e3d488612"
+    },
+    {
+      "name": "refined_assets.zip.part0048",
+      "size": 4194304,
+      "sha256": "5ee86b34063d623fa0693ca11b80b8314d8211f82b50743f278a13355429bc69",
+      "git_blob_sha1": "bd6aa016b8e1c887c9737ae081b50260cb7edfef"
+    },
+    {
+      "name": "refined_assets.zip.part0049",
+      "size": 4194304,
+      "sha256": "7d5d5e7ba64ec188ea9377c0e7bd20140720209f5f396becf9951b73bda67ae9",
+      "git_blob_sha1": "0b554ae3eb9efdc23df1738ed9ce593be7ae4e51"
+    },
+    {
+      "name": "refined_assets.zip.part0050",
+      "size": 4194304,
+      "sha256": "7c0e1abfdea281847004f355eb3452d1433ec49e5f0d2afd3e4bac0e35a4a7bb",
+      "git_blob_sha1": "dd98dd9d239b1d5bac27dd74ad52148fa590d90b"
+    },
+    {
+      "name": "refined_assets.zip.part0051",
+      "size": 4194304,
+      "sha256": "581a8fea5c5fbc3c37cb1447e4b92ec0828620ae8c6aefc21496b612891b7bd6",
+      "git_blob_sha1": "a5335dfc0addd259786e1a13f72c561db9f2a316"
+    },
+    {
+      "name": "refined_assets.zip.part0052",
+      "size": 4194304,
+      "sha256": "27dc3709a5d2fcb2e954c615c461fd0b825a49fedda42b668699bb68ba8b407e",
+      "git_blob_sha1": "ece7cbbdb7deffe02bedffbaa696df995c88348f"
+    },
+    {
+      "name": "refined_assets.zip.part0053",
+      "size": 4194304,
+      "sha256": "46a3f752171f134698a6afab8684664e178db2c3ad404b96b1f79e66e43d5c32",
+      "git_blob_sha1": "f1a9e8c7c7ff0f9ec31cfe338df97d0eb54032a7"
+    },
+    {
+      "name": "refined_assets.zip.part0054",
+      "size": 4194304,
+      "sha256": "2026ed4aa6fa3ba08a5cbf9fd8455073b1106dd8e99d8d7fee831fa057891918",
+      "git_blob_sha1": "78001efc87c2829e2afab1978db9ec3b5d4bdb00"
+    },
+    {
+      "name": "refined_assets.zip.part0055",
+      "size": 4194304,
+      "sha256": "11cae0d48e76fcd3575a2dcbec4f662b306630c18d47025924388fa27578da4b",
+      "git_blob_sha1": "8e49378013531f60bc45c51c75050bb32f6c0800"
+    },
+    {
+      "name": "refined_assets.zip.part0056",
+      "size": 4194304,
+      "sha256": "edda1f300b09cb9f057eb6970a05293130f08bdb40c5cca65b882873d8db6e38",
+      "git_blob_sha1": "4d75543336764661c6a6efea05b83205dd5df355"
+    },
+    {
+      "name": "refined_assets.zip.part0057",
+      "size": 4194304,
+      "sha256": "0fb502cc52c3bced3c67d40559d493f773fb170839cafb0c66c6ab164e8f6f4c",
+      "git_blob_sha1": "bbacd78267fc5990829e5875e2ed54f4cb75703e"
+    },
+    {
+      "name": "refined_assets.zip.part0058",
+      "size": 4194304,
+      "sha256": "986560bb4db141a35f133d0add4476f8623b60141a8839cbbaf224322475010b",
+      "git_blob_sha1": "00a344df4e5a3f37388cfea4061dc8ea87318ed5"
+    },
+    {
+      "name": "refined_assets.zip.part0059",
+      "size": 4194304,
+      "sha256": "d0efe37bcb2658307151b00e11c7ff9bf4dc1170dc30a23620df67a5a8c156a4",
+      "git_blob_sha1": "9bd1b4552eef7afb9c9945fc7674682945e63c1e"
+    },
+    {
+      "name": "refined_assets.zip.part0060",
+      "size": 4194304,
+      "sha256": "aa435f5e6a4ee36286ab3cd731c6bae4952e58709883d0563f507b95f8b80883",
+      "git_blob_sha1": "9ac56aebe64d99fedcb8907ae6525dc24d3523d1"
+    },
+    {
+      "name": "refined_assets.zip.part0061",
+      "size": 707409,
+      "sha256": "1d603452212aae8bd26cda77f75b077b9c862b4a522a73dddc01ef39a8f793a6",
+      "git_blob_sha1": "7f975458064abe95b0185287a6ba6c2665a700a4"
+    }
+  ],
+  "files": [
+    {
+      "path": "batch02/lake_pavilion/source.zip",
+      "size": 13444680,
+      "sha256": "0c1769cbde9af136c1ceb377d081041a744567505d41f580be12ee7aa14ed4c7"
+    },
+    {
+      "path": "batch02/lake_pavilion/saved_result.glb",
+      "size": 12029248,
+      "sha256": "448b64eaeea8868774561a1fbdc9fd41902bd4bd135d61c712955aca5edb6e5e"
+    },
+    {
+      "path": "batch02/lake_pavilion/inspection/left.png",
+      "size": 687813,
+      "sha256": "390d92530c3c0effbe8397ff319949dcbf771eb28fcc7f381a89f72e315d42f9"
+    },
+    {
+      "path": "batch02/lake_pavilion/inspection/source_material_oblique.png",
+      "size": 954355,
+      "sha256": "686d6ca0ca9b31ae82adb31f3baae706edd1b54afab4b2a03f28474e113a16d2"
+    },
+    {
+      "path": "batch02/lake_pavilion/inspection/clay_oblique.png",
+      "size": 756282,
+      "sha256": "f681548fa5e5311a6415561ff8baa7674dd018b26305277af06daa88143dde43"
+    },
+    {
+      "path": "batch02/lake_pavilion/inspection/roof_ray_summary.json",
+      "size": 311,
+      "sha256": "336e3e54574f5dce5a6f72fc7ef9f38a20abd63e46d9ed9e991e0161257ccb52"
+    },
+    {
+      "path": "batch02/lake_pavilion/inspection/source_stats.json",
+      "size": 1812,
+      "sha256": "bac36a7a9698314993ce79abe8ac7d8eae357582a1b4c7dcde9ad9d7c04e3da6"
+    },
+    {
+      "path": "batch02/lake_pavilion/inspection/right.png",
+      "size": 689743,
+      "sha256": "cb7562cd679498952aef7b958cade97a90b2d53ca45249772bbce0b4d90646ba"
+    },
+    {
+      "path": "batch02/lake_pavilion/inspection/zip_geometry_check.json",
+      "size": 624,
+      "sha256": "9208655930d13122b978b33e02da8fa37219d2c13dc5606d8cf68e51d7ca843c"
+    },
+    {
+      "path": "batch02/lake_pavilion/inspection/clay_front.png",
+      "size": 682323,
+      "sha256": "c03d6bfcb1264d25dc38e22b5a955f3e5b32b385daa899f0ac588e38a61ee298"
+    },
+    {
+      "path": "batch02/lake_pavilion/inspection/section_rays.json",
+      "size": 4064,
+      "sha256": "ba04609bb0a49a04ff40a3edf54c55bd51b1e65a405e78e4eb91b3b2ffc6833e"
+    },
+    {
+      "path": "batch02/lake_pavilion/inspection/oblique.png",
+      "size": 938319,
+      "sha256": "3c17d264df9429b0d6c0eb8ef533a68e00b38d8247533e8afc0c63d374bdbf84"
+    },
+    {
+      "path": "batch02/lake_pavilion/inspection/back.png",
+      "size": 790297,
+      "sha256": "40a8f75f2550ac6cba0aba282fe9509af16d89042c1f0327d3dc6e6f88b4eb98"
+    },
+    {
+      "path": "batch02/lake_pavilion/inspection/native_geometry_check.json",
+      "size": 624,
+      "sha256": "9208655930d13122b978b33e02da8fa37219d2c13dc5606d8cf68e51d7ca843c"
+    },
+    {
+      "path": "batch02/lake_pavilion/inspection/front.png",
+      "size": 792091,
+      "sha256": "7346921017b9d83592aa53b1b0acf0c0b7ef9f9ad39b5350def25141a180a0e1"
+    },
+    {
+      "path": "batch02/lake_pavilion/embedded_image_check.json",
+      "size": 1066,
+      "sha256": "df09261cbd17cd15cf2f8be304978ca16cbf9d2fe6bbdbe384eeedf1906b8533"
+    },
+    {
+      "path": "batch02/lake_pavilion/structural_check.json",
+      "size": 1157,
+      "sha256": "39200e483215f89aeaef97ff3f8f43d886e17ab785d1c5fb72960464d29cb08c"
+    },
+    {
+      "path": "batch02/watermill_granary_body/source.zip",
+      "size": 9449528,
+      "sha256": "536b138a9002e90ed53b06f8f2921185aba072a4b47e0546f06c2fec6b1503bd"
+    },
+    {
+      "path": "batch02/watermill_granary_body/saved_result.glb",
+      "size": 10239212,
+      "sha256": "ba013005060b20bd6381ffee89dc3e8df0b6dbdde72ec069c4690603ea856356"
+    },
+    {
+      "path": "batch02/watermill_granary_body/inspection/left.png",
+      "size": 745608,
+      "sha256": "bcf57e8e7b42cee2369fe75b96a0ce4d35dcaa9bba1e38ffbfae74e8506f8bc9"
+    },
+    {
+      "path": "batch02/watermill_granary_body/inspection/source_material_oblique.png",
+      "size": 1029627,
+      "sha256": "0c323c352d6f293f8d7bd4081b669136292cf5463afc12cc5344f167f4dd8539"
+    },
+    {
+      "path": "batch02/watermill_granary_body/inspection/source_stats.json",
+      "size": 1071,
+      "sha256": "03b5cbedf85c08349dfff1258c9f09e1946b7ca5c8ce685ac9706dece030157b"
+    },
+    {
+      "path": "batch02/watermill_granary_body/inspection/right.png",
+      "size": 756315,
+      "sha256": "2f87ae6d280ac6bb75eb192b6f05a53e3e133189d1a887e1570b23be3c310482"
+    },
+    {
+      "path": "batch02/watermill_granary_body/inspection/section_rays.json",
+      "size": 9345,
+      "sha256": "cb639b093b596bc33d765a1ef16ef4df3cc2b4021279121b1ca1a2d41e8a64f8"
+    },
+    {
+      "path": "batch02/watermill_granary_body/inspection/interior_from_entry.png",
+      "size": 1375111,
+      "sha256": "19a2a425e4eeb850f9d70708ed0787e6e582563941484ae7e7268fa4d2decd88"
+    },
+    {
+      "path": "batch02/watermill_granary_body/inspection/oblique.png",
+      "size": 985636,
+      "sha256": "eda8e90d6ed526c6781d9b6ac709a399a9cf8fbe83773fb0b7998ff71ce367f7"
+    },
+    {
+      "path": "batch02/watermill_granary_body/inspection/back.png",
+      "size": 860096,
+      "sha256": "5fade9475cd881ad49f195a7b0180c21c22fe52d1813d7583d6e9909314d0fb3"
+    },
+    {
+      "path": "batch02/watermill_granary_body/inspection/interior_clearance.json",
+      "size": 4735,
+      "sha256": "6ca9da2ed966d84752e514dfe500a465868c361f880614b3e33a05572754946b"
+    },
+    {
+      "path": "batch02/watermill_granary_body/inspection/front.png",
+      "size": 876104,
+      "sha256": "04e327a00d91506b12846e07d6a721b281976d836ffbd8d5d362417aa5135b20"
+    },
+    {
+      "path": "batch02/watermill_granary_body/inspection/interior_toward_entry.png",
+      "size": 1360030,
+      "sha256": "9a3f47e70228c2054a871d8461074fa4ab5911fd02341ec450818f479f15d0ea"
+    },
+    {
+      "path": "batch02/watermill_granary_body/zip_geometry_check.json",
+      "size": 623,
+      "sha256": "a2790795575702976b5998f5a2354bfda37d7506f4b868a0f93fe78d3afe5942"
+    },
+    {
+      "path": "batch02/watermill_granary_body/native_geometry_check.json",
+      "size": 623,
+      "sha256": "a2790795575702976b5998f5a2354bfda37d7506f4b868a0f93fe78d3afe5942"
+    },
+    {
+      "path": "batch02/watermill_granary_body/embedded_image_check.json",
+      "size": 1156,
+      "sha256": "a4771dc53f88633c781c649f71bd87aa1c65ccb8154e55837e3941ceadd98e07"
+    },
+    {
+      "path": "batch02/watermill_granary_body/structural_check.json",
+      "size": 655,
+      "sha256": "f7559d8629d3d07324671bf2c4ddd9b99a61abc45d76d0535dc2123eabdecd9d"
+    },
+    {
+      "path": "batch02/waterwheel_rotor/source.zip",
+      "size": 8526836,
+      "sha256": "b4c42cd5f827a9c06948c9a641e042f2527d2e958e6080d6cae057f5b7a8790d"
+    },
+    {
+      "path": "batch02/waterwheel_rotor/saved_result.glb",
+      "size": 8657544,
+      "sha256": "12c006d40f32da31d5404e3d41b1a2b9b2abdc1f00fa0ee6a125810c06312a28"
+    },
+    {
+      "path": "batch02/waterwheel_rotor/inspection/left.png",
+      "size": 830906,
+      "sha256": "9e60701142662352d63fec61b6ec8e25f4df2c3009b43440b5654894c39ff82d"
+    },
+    {
+      "path": "batch02/waterwheel_rotor/inspection/source_material_oblique.png",
+      "size": 951347,
+      "sha256": "e5981aeea59163de7375b6b318fa50a8493d87c333365fb04a2f9d6a0a88ca53"
+    },
+    {
+      "path": "batch02/waterwheel_rotor/inspection/rotation_180.png",
+      "size": 826099,
+      "sha256": "179021cfc1d0bebd00294db79e606fcc3ef4b0f9c52647d9372487b345f9723e"
+    },
+    {
+      "path": "batch02/waterwheel_rotor/inspection/source_stats.json",
+      "size": 1062,
+      "sha256": "c148f271492fcd34b68a77b45840f76ee77a123a98fa6f2912e6a53d93b326f2"
+    },
+    {
+      "path": "batch02/waterwheel_rotor/inspection/right.png",
+      "size": 832118,
+      "sha256": "f9b94d2b5d276fe61d1a966bd2e731cdf4b83c0df3a3eabe435af53a77361514"
+    },
+    {
+      "path": "batch02/waterwheel_rotor/inspection/rotor_dimensions.json",
+      "size": 1140,
+      "sha256": "a8ba908b8ede45d84e2587491a9731af5e827b670e9a57ccbd98f160b0449be7"
+    },
+    {
+      "path": "batch02/waterwheel_rotor/inspection/section_rays.json",
+      "size": 5689,
+      "sha256": "eef8ec6b77c3b2a6b21f6116ab79b4b2268036869460c434743b9f16e31a3b6f"
+    },
+    {
+      "path": "batch02/waterwheel_rotor/inspection/oblique.png",
+      "size": 911547,
+      "sha256": "374e2a140a42a11d36c312554fdbf641b5b3ef19dcbb4dc6b1f28d1fe7f310a7"
+    },
+    {
+      "path": "batch02/waterwheel_rotor/inspection/back.png",
+      "size": 739451,
+      "sha256": "b1c43cb628f04705f777e59e88ce2b95a59a96b4b58b8fc4371f98f4538b23c2"
+    },
+    {
+      "path": "batch02/waterwheel_rotor/inspection/rotation_090.png",
+      "size": 826099,
+      "sha256": "bf0eac64847e7d5eaa1ecf10101402de2737a5eb35b82b9e6894c00fa4d6b879"
+    },
+    {
+      "path": "batch02/waterwheel_rotor/inspection/rotation_check.json",
+      "size": 1602,
+      "sha256": "8c47a47ab79a486403bc3092d8a7f32b3cea22bb3a40aa19eda4cfe3a6dd8d96"
+    },
+    {
+      "path": "batch02/waterwheel_rotor/inspection/front.png",
+      "size": 739173,
+      "sha256": "3c0a4e5d1ac059bd721ec85410c360f2bc86c18acd8337a998dba57ef6a1cc22"
+    },
+    {
+      "path": "batch02/waterwheel_rotor/zip_geometry_check.json",
+      "size": 621,
+      "sha256": "6db19356c6789155392b1e2751ba63ee09076eb09a012a11fd7b8256705c45fb"
+    },
+    {
+      "path": "batch02/waterwheel_rotor/native_geometry_check.json",
+      "size": 621,
+      "sha256": "6db19356c6789155392b1e2751ba63ee09076eb09a012a11fd7b8256705c45fb"
+    },
+    {
+      "path": "batch02/waterwheel_rotor/embedded_image_check.json",
+      "size": 1155,
+      "sha256": "1398a78795c4b867465854b8fa260cffe26079e55c779cae150ef198c440f3c0"
+    },
+    {
+      "path": "batch02/waterwheel_rotor/structural_check.json",
+      "size": 653,
+      "sha256": "ba2123e0e68651a12cb2b0079053b8d5b9610aad774fa131a6702f6948d2b83a"
+    },
+    {
+      "path": "batch02/references/lakeside_reference_notes.md",
+      "size": 6243,
+      "sha256": "09acd9f90b66b52dfb2bec79f346b3cf0807d43be8ccd593a5fa9a24d0dcbac4"
+    },
+    {
+      "path": "batch02/references/lake_pavilion.png",
+      "size": 2567500,
+      "sha256": "6f5bab685d5cffe147f36bec1a1c6d80a12a4cbf5b2e49040abf9b4fd186c4e1"
+    },
+    {
+      "path": "batch02/references/waterwheel_rotor.png",
+      "size": 2291568,
+      "sha256": "c8fb05e7142d67ca058bccbae7f6d0fcabd7580c02e3fdde96a9571ea9f00b2b"
+    },
+    {
+      "path": "batch02/references/watermill_granary_body.png",
+      "size": 2753234,
+      "sha256": "35985e459ea541e9bb6815b12d700d6565e7bab5dd4a26ee3ec2f6070aa28373"
+    },
+    {
+      "path": "batch02/mill_entry_floor_samples.json",
+      "size": 12240,
+      "sha256": "81e87cebef2d275147c1ea590fe63ddffe7d21612f505b63ed3c6b3340d64aac"
+    },
+    {
+      "path": "batch02/check_geometry.py",
+      "size": 1455,
+      "sha256": "de49b68b815b2109be416fe7d6445fcd75fb0160a93e4c4641e5da9dd62ae44b"
+    },
+    {
+      "path": "batch02/pavilion_diagnostics.py",
+      "size": 2494,
+      "sha256": "873e63b4b26f59c522308c01f82ebdec90977ff172d0699bacb7d331b4e3c17d"
+    },
+    {
+      "path": "batch02/preview_placement_addendum.md",
+      "size": 8207,
+      "sha256": "a65af8d1b95318e17edf4b9dcb148635ab336fd11ff1fcded3ae514e8f858512"
+    },
+    {
+      "path": "batch02/next16_layout_plan.md",
+      "size": 4967,
+      "sha256": "7234e45f3b71219a16c63502db1b6344038b9f01b4bfd02188542d32536c02cd"
+    },
+    {
+      "path": "batch02/preview_numeric_checks.json",
+      "size": 1788,
+      "sha256": "67cf44637d5f77a3211451e8a38086714921208d408119cd65fca9c8af262306"
+    },
+    {
+      "path": "batch02/rotor_diagnostics.py",
+      "size": 3001,
+      "sha256": "f460641007a9448c9498948e3dd1f1799cfd6bd6ea5e30c7ce89be28def229fb"
+    },
+    {
+      "path": "batch02/repair_pavilion_roof.py",
+      "size": 5117,
+      "sha256": "81c7899db6bdc18cbbc103af5a9fc12541a2ce0045c902b3c9acb12c3e463448"
+    },
+    {
+      "path": "batch02/native_candidate.py",
+      "size": 2247,
+      "sha256": "fe0bd8d870e6e39c59446aac4d7db0c6f45f269f8eff0cbfe9c3a18dc01a6a12"
+    },
+    {
+      "path": "batch02/rotor_measure.py",
+      "size": 2044,
+      "sha256": "b30810850c1a28990b8621d819ce3c16197aa4cb32b5e92506237c7709392c90"
+    },
+    {
+      "path": "batch02/refine_r02.py",
+      "size": 12462,
+      "sha256": "b18570a95145b9651a5447a645734d7cfc1fa05cd0381c937549f4636f58e508"
+    },
+    {
+      "path": "batch02/native_candidates_reimport.json",
+      "size": 1616,
+      "sha256": "4dc56505564ca1c27dbc2b5560b16b984360e90394708f9201be591eb03e0d8f"
+    },
+    {
+      "path": "batch02/granary_diagnostics.py",
+      "size": 2659,
+      "sha256": "5f2895ca58f9b173f38e98349dd2bffd49e684a1559ba7b84d83cfd4be1db81c"
+    },
+    {
+      "path": "batch02/placement_notes.md",
+      "size": 11068,
+      "sha256": "61eb13b8dcd54d13e687039c1fc04ad5fcfcf552c83176635669e232e8782f7a"
+    },
+    {
+      "path": "batch02/godot_import_check.json",
+      "size": 1427,
+      "sha256": "598a9baa78076ff3e70dfe3de0ac487a0011321bb818839533216e1d01e304ab"
+    },
+    {
+      "path": "batch02/inspect_batch.py",
+      "size": 7280,
+      "sha256": "16d46ec43d495e7474cb5209e561ecd219cf619853f9eed31dff7b57eaa08274"
+    },
+    {
+      "path": "batch02/refined_r02/limit_granary_beam_top.py",
+      "size": 4112,
+      "sha256": "72a89128dedd368d2a1396a58c46648841de93dc691ea315d0ea63ce25482118"
+    },
+    {
+      "path": "batch02/refined_r02/granary_entry_beam_samples.json",
+      "size": 42084,
+      "sha256": "4e18ae0d9d7b60a89371535657d6e1d66f9c74e3ece935e770d7f3c37a5ed541"
+    },
+    {
+      "path": "batch02/refined_r02/granary_entry_beam_fix.json",
+      "size": 1364,
+      "sha256": "449ce8f565476bd0ebc1d0663b7366fc2596222d42b108067e6f4221eb0a385e"
+    },
+    {
+      "path": "batch02/refined_r02/raise_granary_entry_beams.py",
+      "size": 3865,
+      "sha256": "c8865dcce6c8afa59d5a50eccf8b607859a536d787d07f9012479e3f237d12a3"
+    },
+    {
+      "path": "batch02/refined_r02/granary_clearance_issue.json",
+      "size": 6276,
+      "sha256": "cffe9678af4a418af99e35597ec472eb00fcb01a98f97d794cf2e2dbe018628e"
+    },
+    {
+      "path": "batch02/refined_r02/check_granary_clearance.py",
+      "size": 849,
+      "sha256": "ed17192b5b928d07edf108b1134f679d6c69caaa417ca85f803180737213d262"
+    },
+    {
+      "path": "batch02/refined_r02/pavilion_entry_beam_samples.json",
+      "size": 38485,
+      "sha256": "5c55949a753c8275ed73807edbc6c0a226fbcf046b948b4d642889a49bca74b7"
+    },
+    {
+      "path": "batch02/refined_r02/pavilion_entry_beam_fix.json",
+      "size": 958,
+      "sha256": "46d90a8002460de8f895f0d4ca560eaf3e126e7dda8ed0255b8881a32713ad98"
+    },
+    {
+      "path": "batch02/refined_r02/raise_entry_beam.py",
+      "size": 3799,
+      "sha256": "0e0c53258a9a3bce12c60291781f522d1ead30c13b07e5f197db2b14d6418f24"
+    },
+    {
+      "path": "batch02/refined_r02/pavilion_clearance_issue.json",
+      "size": 4378,
+      "sha256": "70942332266e2e6525da4ec9b83c257aff1d3e00e5c69841f94daa5f35ff9e71"
+    },
+    {
+      "path": "batch02/refined_r02/check_clearance.py",
+      "size": 815,
+      "sha256": "c70dfc3633f60038e5b4dcd4441fe0f5d44afdecb5687aa6cbb4143576655901"
+    },
+    {
+      "path": "batch02/refined_r02/精修说明.md",
+      "size": 2648,
+      "sha256": "d7a744da7c490d7ccd514669697fafb254c85f68918352f55fb1dd94fb183888"
+    },
+    {
+      "path": "batch02/refined_r02/finish_granary.py",
+      "size": 3388,
+      "sha256": "0ea498166aab7e08b6aa37afadbf543fce06e5b662946adc479855910910595e"
+    },
+    {
+      "path": "batch02/refined_r02/floor_rebuild_report.json",
+      "size": 357,
+      "sha256": "5372ad7f0b3ffb7ee0129e3e968b865322d4657a41dc9c6c9b2a0db58495cc7a"
+    },
+    {
+      "path": "batch02/refined_r02/rebuild_floor.py",
+      "size": 3650,
+      "sha256": "cdbbe71ee1e94578840d26415babd13caadd95153dad7a46dd7e525053dd6bad"
+    },
+    {
+      "path": "batch02/refined_r02/fix_floor_normal.py",
+      "size": 2170,
+      "sha256": "36401f8aa28ad9366d94ea37a813c63b17e2b3c104ba4f470280f72a6da1497b"
+    },
+    {
+      "path": "batch02/refined_r02/godot_import_check.json",
+      "size": 11546,
+      "sha256": "14d3f32893967fed2ad2c5ea6896f5614f3d8c79113382a933e8dd063a6f789a"
+    },
+    {
+      "path": "batch02/refined_r02/pavilion_support_feet.json",
+      "size": 2025,
+      "sha256": "415bb5168002c11a492a1f60b8f1167577bd33284243d82b0e84767a6c93126b"
+    },
+    {
+      "path": "batch02/refined_r02/interfaces.py",
+      "size": 1970,
+      "sha256": "3d0ac282f9035ff6b3c4bcc13f29df762d334c9e6ef6f93ac355ab37c993c448"
+    },
+    {
+      "path": "batch02/refined_r02/watermill_granary_body_r02_interior.png",
+      "size": 1195382,
+      "sha256": "b23b11e9a79f07c817f4e2f3382bff1d079fc5e05a1179108331495f75b5ece2"
+    },
+    {
+      "path": "batch02/refined_r02/finalize.py",
+      "size": 6116,
+      "sha256": "c71750da80a467f10701296b63f6f976a6848b9e83cb0cfd71df2762233209fb"
+    },
+    {
+      "path": "batch02/refined_r02/waterwheel_rotor_reimport.json",
+      "size": 540,
+      "sha256": "da96fc35f81eefb636b3c7a7093208988509d7fc18e3c8ec5f20c246cc34c92c"
+    },
+    {
+      "path": "batch02/refined_r02/waterwheel_rotor_r02_preview.png",
+      "size": 719393,
+      "sha256": "b38bac164d43a172710cee418d4121c92b038e8873652b8fe5016562a8b361b4"
+    },
+    {
+      "path": "batch02/refined_r02/waterwheel_rotor_report.json",
+      "size": 1515,
+      "sha256": "62362c9b85bad4411c324430c4df04968a80cd772e1d6ddcd04785d2d3759980"
+    },
+    {
+      "path": "batch02/refined_r02/waterwheel_rotor_refined_r02.glb",
+      "size": 8221664,
+      "sha256": "760afb979cbab4abe344d0cbe50358b7af2e01bb825f1338add4843a5b8116bb"
+    },
+    {
+      "path": "batch02/refined_r02/watermill_granary_body_reimport.json",
+      "size": 946,
+      "sha256": "dd6f416d57d4d18f6e16d8b92e181eba3bee8428011a3a930e7252a1f090097a"
+    },
+    {
+      "path": "batch02/refined_r02/watermill_granary_body_r02_preview.png",
+      "size": 802465,
+      "sha256": "b7fbea38c1bcdf6b641e1fea2bd94cd1c81a6bf78320270ecb0c2a22233ac29c"
+    },
+    {
+      "path": "batch02/refined_r02/watermill_granary_body_report.json",
+      "size": 5149,
+      "sha256": "7af1c3cd1ec164233ffc4b2e2b103e419b6d88fe98545ee89428578cf1988782"
+    },
+    {
+      "path": "batch02/refined_r02/watermill_granary_body_refined_r02.glb",
+      "size": 10796508,
+      "sha256": "4a8520ea5c0f1260052f19dbbc10d7a860cff331046939d58721ce7c802f7a60"
+    },
+    {
+      "path": "batch02/refined_r02/lake_pavilion_reimport.json",
+      "size": 6020,
+      "sha256": "132920592f355ca1833d19bbf4d15374de8a4aac52b3fe2482c6d7ecb456618d"
+    },
+    {
+      "path": "batch02/refined_r02/lake_pavilion_r02_preview.png",
+      "size": 768411,
+      "sha256": "46c439d84635689e08ef581e3c2643065995e32012f3ca894bf43bc8c281a448"
+    },
+    {
+      "path": "batch02/refined_r02/lake_pavilion_report.json",
+      "size": 3639,
+      "sha256": "26b21fd866d4e3ca050271dee8e61d93ff58ca9868b8cfb95c5112cc4976e0e9"
+    },
+    {
+      "path": "batch02/refined_r02/lake_pavilion_refined_r02.glb",
+      "size": 12165932,
+      "sha256": "8f6fc5b24199f7326b29def0ef930275d4e5d7fd3f391a22126dfc2bd0d0adff"
+    },
+    {
+      "path": "north_gate/source/north_gate_original.zip",
+      "size": 10383309,
+      "sha256": "677d9b026aa1cda33226c325dfd05a536abeb4d7b784213f3b79a285c9b541aa"
+    },
+    {
+      "path": "north_gate/source/north_gate_earlier_asset_16187.zip",
+      "size": 11086174,
+      "sha256": "f6b40a1a3b6c2d43389a28dcbc89e84c2c010f39e022e62982cdb91d4e01256f"
+    },
+    {
+      "path": "north_gate/source/saved_result.glb",
+      "size": 10271776,
+      "sha256": "d3e6929d0729336b7b96bf27c3f10203c03e372b3e06f8329b79bdcc99720b2a"
+    },
+    {
+      "path": "north_gate/refined_r02/front_oblique_procedural.png",
+      "size": 931746,
+      "sha256": "99c043c6c4cb67b3ad45b7c2ed3fe77502d0c3e290f1d71837421b3704930e99"
+    },
+    {
+      "path": "north_gate/refined_r02/procedural_authoring.blend",
+      "size": 17126273,
+      "sha256": "ebb2e96196c5467d40abe055f0c4128ccc815b12bbaeb27c1a5c773180a7215a"
+    },
+    {
+      "path": "north_gate/refined_r02/精修说明.md",
+      "size": 1763,
+      "sha256": "f964e8bd67a47341497fc831ce01d3bfa10e5684836d0869cf833d090bf7fdd5"
+    },
+    {
+      "path": "north_gate/refined_r02/modifications.json",
+      "size": 668,
+      "sha256": "7de7f69fb31f8627e1e0830ece88013058b34e5d6b63ae1c9af7f7ec459b5229"
+    },
+    {
+      "path": "north_gate/refined_r02/glb_reimport_front_oblique.png",
+      "size": 928311,
+      "sha256": "79e4bc07fa03d4cd8c55ae023331576bd02d952e9d2acbd3ccba6f67a7d5048b"
+    },
+    {
+      "path": "north_gate/refined_r02/north_gate_16193_refined_r02_28m.glb",
+      "size": 26781812,
+      "sha256": "b3db38ca0b99552dacf06512be5cf0e903ce47ced137638842a93b0950aa92fb"
+    },
+    {
+      "path": "north_gate/refined_r02/north_gate_16193_refined_r02_28m.blend",
+      "size": 36041632,
+      "sha256": "f81e1958be5e45088d8234361395b4da114d0229ba3ca4fc091be5f907012651"
+    },
+    {
+      "path": "north_gate/refined_r02/NorthGate_R02_Roughness.png",
+      "size": 531960,
+      "sha256": "e0009832c41fad128817bc82e6cffcc8a391480bd598b8b894ff3e66db36966c"
+    },
+    {
+      "path": "north_gate/refined_r02/verify_export.py",
+      "size": 1331,
+      "sha256": "b4cb49c22924b7bd213f8689b4b5d92eab8d633de088e3dacc1ca7e0c9c0a55e"
+    },
+    {
+      "path": "north_gate/refined_r02/gate_close_after.png",
+      "size": 1074131,
+      "sha256": "bbf1c4ff281e336385302002430e3fbcedbd506142c0f82010ece62e09821472"
+    },
+    {
+      "path": "north_gate/refined_r02/export_verification.json",
+      "size": 1035,
+      "sha256": "775bc7e61a5fe91ee8302473dde4a7263f836863ee844469b85667eaf71e1a50"
+    },
+    {
+      "path": "north_gate/refined_r02/NorthGate_R02_Normal.png",
+      "size": 14255413,
+      "sha256": "325c1c215117656fa1c783a134d831c3019c67925e4fdc104de37e4de084549f"
+    },
+    {
+      "path": "north_gate/refined_r02/refine.py",
+      "size": 8825,
+      "sha256": "b56830ad306fe70f5a0ed6c5546464f226a7b8695d109e5822567b67cd408c77"
+    },
+    {
+      "path": "north_gate/refined_r02/front_after.png",
+      "size": 865118,
+      "sha256": "ba5bccae1a558682d53c4c25ab777caa96a163fe8346c94ab04172fbdede4f9d"
+    },
+    {
+      "path": "north_gate/refined_r02/front_oblique_after.png",
+      "size": 925885,
+      "sha256": "9fe5bbdca94a3f72b608ae3199eec4cec298ff96de53178de490864c2e1d75a3"
+    },
+    {
+      "path": "north_gate/refined_r02/NorthGate_R02_BaseColor.png",
+      "size": 8170801,
+      "sha256": "bd15090f42f0c55f275d7d190d1258ade8f1d3e10ddac785617b34f39e597b21"
+    },
+    {
+      "path": "references/north_mountain_front_gate_reference_r01.png",
+      "size": 2525754,
+      "sha256": "3fe14e115a1bd77def6d56d8fd857bec93ad1c2e7c11079a9e5310a99e1517c1"
+    },
+    {
+      "path": "references/C_群峰盆地型.png",
+      "size": 3528695,
+      "sha256": "a9bf4434b0664ce35ab6b5725dc69752a2c2d1efeed96c26afc6f98bb97c3468"
+    },
+    {
+      "path": "references/reference_crop.png",
+      "size": 1981022,
+      "sha256": "b52de14ea695b37808ac900688a27d67d9acb63f5681d3e08b41373c20d66814"
+    },
+    {
+      "path": "references/reference_camera_preview.png",
+      "size": 1836044,
+      "sha256": "a4c40b16521cea0fd5ef770e32a207fa598f9e06c486ec736e54837201dad9c5"
+    },
+    {
+      "path": "references/北山前山门_Lux3D单体参考_r01.png",
+      "size": 2525754,
+      "sha256": "3fe14e115a1bd77def6d56d8fd857bec93ad1c2e7c11079a9e5310a99e1517c1"
+    },
+    {
+      "path": "world_layout_plan.md",
+      "size": 16817,
+      "sha256": "ac6b0694756a36091821bc5bfb058d696eae38fb6e87001aec456cb2b3623553"
+    }
+  ]
+}
