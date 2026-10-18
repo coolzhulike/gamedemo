@@ -1,0 +1,1480 @@
+{
+  "commit": "f7e3fa4b3d8231b2b191c94d3acdee42d23c52d1",
+  "source": "public raw.githubusercontent.com immutable commit URLs",
+  "verified_utc": "2026-10-18T17:13:51.066429+00:00",
+  "downloaded_files": 240,
+  "downloaded_bytes": 949481976,
+  "all_download_sha256": "passed",
+  "archives": [
+    {
+      "archive": "original_sources.zip",
+      "parts": 138,
+      "files": 8,
+      "bytes": 577640054,
+      "archive_sha256": "e8fdef64717e4a516bab2b1139c99f04185908b706f8e6dbe0565ffa43e77359",
+      "zip_crc": "passed",
+      "internal_file_sha256": "all_passed"
+    },
+    {
+      "archive": "world_oct18.zip",
+      "parts": 75,
+      "files": 50,
+      "bytes": 312086605,
+      "archive_sha256": "7f5c301f84fb45fef0eb758b7bf29ce224343bb9b580a865ad3ebfd00d157f9b",
+      "zip_crc": "passed",
+      "internal_file_sha256": "all_passed"
+    },
+    {
+      "archive": "authoring_oct18.zip",
+      "parts": 13,
+      "files": 47,
+      "bytes": 51292636,
+      "archive_sha256": "91e5ff777250acfa1a479fea39bb423d4d762edbc9b9c8f702f40715b10e8351",
+      "zip_crc": "passed",
+      "internal_file_sha256": "all_passed"
+    }
+  ],
+  "files": [
+    {
+      "path": "project_resources/assets/world_hunyuan_20261018/README.md",
+      "bytes": 2955,
+      "sha256": "8bdf961c077a87a70ccacbddb18283a664d8b2b4b4b6ee3f87ba7e0575cc99ab",
+      "status": "passed"
+    },
+    {
+      "path": "project_resources/assets/world_hunyuan_20261018/RESULTS.md",
+      "bytes": 3220,
+      "sha256": "7a1595a49cc7b75c0bdbbadcb4da86f7ea1a5ac8dbb94cc29659bbd8100b791d",
+      "status": "passed"
+    },
+    {
+      "path": "project_resources/assets/world_hunyuan_20261018/archives/authoring_oct18.zip.part0001",
+      "bytes": 4194304,
+      "sha256": "ea16089d69b67034a30222ee76294acb0c5b1d5b1eb25884e3830d213ee6740b",
+      "status": "passed"
+    },
+    {
+      "path": "project_resources/assets/world_hunyuan_20261018/archives/authoring_oct18.zip.part0002",
+      "bytes": 4194304,
+      "sha256": "5e644b908b109bf2954d985e48a305e9a4f7a0b5410e58226592be492396c734",
+      "status": "passed"
+    },
+    {
+      "path": "project_resources/assets/world_hunyuan_20261018/archives/authoring_oct18.zip.part0003",
+      "bytes": 4194304,
+      "sha256": "1e33a10b3e53052f82835ec8b7359d2a3ca4e5b87ea53c7184a0cf22ebe20c6f",
+      "status": "passed"
+    },
+    {
+      "path": "project_resources/assets/world_hunyuan_20261018/archives/authoring_oct18.zip.part0004",
+      "bytes": 4194304,
+      "sha256": "aeb9e3e947fd9f3d17bcd1b109b95d1d44ab1536138652a9c93ef77117dee9a6",
+      "status": "passed"
+    },
+    {
+      "path": "project_resources/assets/world_hunyuan_20261018/archives/authoring_oct18.zip.part0005",
+      "bytes": 4194304,
+      "sha256": "bf81eabcc18232aeab16babe7bce381be1f41b6ebaf1ec7c3144e802be18e6f8",
+      "status": "passed"
+    },
+    {
+      "path": "project_resources/assets/world_hunyuan_20261018/archives/authoring_oct18.zip.part0006",
+      "bytes": 4194304,
+      "sha256": "cde5c7640c6798124a0410af6bd3be49a8e867f03d41280b5df92d519bfe6a2e",
+      "status": "passed"
+    },
+    {
+      "path": "project_resources/assets/world_hunyuan_20261018/archives/authoring_oct18.zip.part0007",
+      "bytes": 4194304,
+      "sha256": "5663a7bc6b98621018795d1a05eedbf32f2ce9fecb236ec5cf7effdb5b98d2a0",
+      "status": "passed"
+    },
+    {
+      "path": "project_resources/assets/world_hunyuan_20261018/archives/authoring_oct18.zip.part0008",
+      "bytes": 4194304,
+      "sha256": "5be59c75fec4dc87a5aca7efcb95ffc4fb06bd35c40476e7329c954498a4b07d",
+      "status": "passed"
+    },
+    {
+      "path": "project_resources/assets/world_hunyuan_20261018/archives/authoring_oct18.zip.part0009",
+      "bytes": 4194304,
+      "sha256": "1e66d395ceace2809e6bcf2543a996f19285dae7b1e50531aba0044c83b3345e",
+      "status": "passed"
+    },
+    {
+      "path": "project_resources/assets/world_hunyuan_20261018/archives/authoring_oct18.zip.part0010",
+      "bytes": 4194304,
+      "sha256": "61b0846a1b513e8ec627c7e85e1f7ed67574a116b908a8c8f8905fab25003505",
+      "status": "passed"
+    },
+    {
+      "path": "project_resources/assets/world_hunyuan_20261018/archives/authoring_oct18.zip.part0011",
+      "bytes": 4194304,
+      "sha256": "6c9a177cd54d01c21ea8b0be543203985f6df44fbd623fffc51a9f51e8112cfb",
+      "status": "passed"
+    },
+    {
+      "path": "project_resources/assets/world_hunyuan_20261018/archives/authoring_oct18.zip.part0012",
+      "bytes": 4194304,
+      "sha256": "d3a83c3f343c0801b48d1151af9e9e381e1c4ff30aaa15e3333c4d77931cf243",
+      "status": "passed"
+    },
+    {
+      "path": "project_resources/assets/world_hunyuan_20261018/archives/authoring_oct18.zip.part0013",
+      "bytes": 960988,
+      "sha256": "5cd2d6d75405f0c416fbe0bfab5b006b614bd0be6ce7275ae071b76dfe4e478b",
+      "status": "passed"
+    },
+    {
+      "path": "project_resources/assets/world_hunyuan_20261018/archives/original_sources.zip.part0001",
+      "bytes": 4194304,
+      "sha256": "8418e43edf14a55b703f648fdb834511a3e0c0aaa5b12cbbb142e84e698e4249",
+      "status": "passed"
+    },
+    {
+      "path": "project_resources/assets/world_hunyuan_20261018/archives/original_sources.zip.part0002",
+      "bytes": 4194304,
+      "sha256": "b8a2b3dd71404242bfce3ea1d5dd788254c4d8ec31c60209177993c3f68c189a",
+      "status": "passed"
+    },
+    {
+      "path": "project_resources/assets/world_hunyuan_20261018/archives/original_sources.zip.part0003",
+      "bytes": 4194304,
+      "sha256": "06c698dcf246990d7246096147a1cb78cdc5a402e2dd328246b1a5e24ca6e93f",
+      "status": "passed"
+    },
+    {
+      "path": "project_resources/assets/world_hunyuan_20261018/archives/original_sources.zip.part0004",
+      "bytes": 4194304,
+      "sha256": "2147d80a8a9509127805c0607f5b17825026bdb97ca8b62057ef258f6271524b",
+      "status": "passed"
+    },
+    {
+      "path": "project_resources/assets/world_hunyuan_20261018/archives/original_sources.zip.part0005",
+      "bytes": 4194304,
+      "sha256": "193daf5a5006cf580b60ee5a4d0001abf1a4eab37786f9ab46c74b94a5eeeeea",
+      "status": "passed"
+    },
+    {
+      "path": "project_resources/assets/world_hunyuan_20261018/archives/original_sources.zip.part0006",
+      "bytes": 4194304,
+      "sha256": "020ff26aa09ab4930e9772113de638c5d41ff36f3f1b9b9be495272b1c768fbb",
+      "status": "passed"
+    },
+    {
+      "path": "project_resources/assets/world_hunyuan_20261018/archives/original_sources.zip.part0007",
+      "bytes": 4194304,
+      "sha256": "ad0a01d20a2424aa6107aab3a9933be749304eb43fd30b0ca035a1a4ab8fc1da",
+      "status": "passed"
+    },
+    {
+      "path": "project_resources/assets/world_hunyuan_20261018/archives/original_sources.zip.part0008",
+      "bytes": 4194304,
+      "sha256": "acfe4c3e4fc420236329eb15f8b49ef21ec38c9ab74a2e8d3a2826da950a98bc",
+      "status": "passed"
+    },
+    {
+      "path": "project_resources/assets/world_hunyuan_20261018/archives/original_sources.zip.part0009",
+      "bytes": 4194304,
+      "sha256": "d0c58173e428aad729fc29d4fb8e2555ebd4eb1a44bc96871c6b121dbe33c06a",
+      "status": "passed"
+    },
+    {
+      "path": "project_resources/assets/world_hunyuan_20261018/archives/original_sources.zip.part0010",
+      "bytes": 4194304,
+      "sha256": "f045a006b9b91e7e61282e6d789f5f97eb2131ce7822269889295596d0790dd0",
+      "status": "passed"
+    },
+    {
+      "path": "project_resources/assets/world_hunyuan_20261018/archives/original_sources.zip.part0011",
+      "bytes": 4194304,
+      "sha256": "54b0ceef9c2bfcbb6e12606fdbbf71faebd8b4e6a855709e32c4573cffaa674a",
+      "status": "passed"
+    },
+    {
+      "path": "project_resources/assets/world_hunyuan_20261018/archives/original_sources.zip.part0012",
+      "bytes": 4194304,
+      "sha256": "2ef46a2f84bea53139afeb0d5bb9db3582a55eee02c6efb2a139bc5d45911224",
+      "status": "passed"
+    },
+    {
+      "path": "project_resources/assets/world_hunyuan_20261018/archives/original_sources.zip.part0013",
+      "bytes": 4194304,
+      "sha256": "b419f0bb8fe2dcf71a500b3a2e054b7fcd5e8ff367c040736f294d8e76815b02",
+      "status": "passed"
+    },
+    {
+      "path": "project_resources/assets/world_hunyuan_20261018/archives/original_sources.zip.part0014",
+      "bytes": 4194304,
+      "sha256": "344f8c2d48027c2d165cdecf79511709a86500104aaea8edc346cc3ac7c006a0",
+      "status": "passed"
+    },
+    {
+      "path": "project_resources/assets/world_hunyuan_20261018/archives/original_sources.zip.part0015",
+      "bytes": 4194304,
+      "sha256": "51f1bd501eec4bf4fac1b06b724be07baf58e2c59f9a6580a06700a7d1c1eada",
+      "status": "passed"
+    },
+    {
+      "path": "project_resources/assets/world_hunyuan_20261018/archives/original_sources.zip.part0016",
+      "bytes": 4194304,
+      "sha256": "b2d853a47f552c8bb1cf135f4dcff06541bbb98ca6024933828dbe69429e588f",
+      "status": "passed"
+    },
+    {
+      "path": "project_resources/assets/world_hunyuan_20261018/archives/original_sources.zip.part0017",
+      "bytes": 4194304,
+      "sha256": "010b8194cff47aa8104568ac9eddacb2ef4e95dac6c4c493ca1035c4e3ef319f",
+      "status": "passed"
+    },
+    {
+      "path": "project_resources/assets/world_hunyuan_20261018/archives/original_sources.zip.part0018",
+      "bytes": 4194304,
+      "sha256": "cd973d98eb34bd378012ca103515666d501b5f59f124356cfdf7eebbeaa12584",
+      "status": "passed"
+    },
+    {
+      "path": "project_resources/assets/world_hunyuan_20261018/archives/original_sources.zip.part0019",
+      "bytes": 4194304,
+      "sha256": "97df5843e25f7eb8879adc3357aa7d1d8727bc7f894d108716e4539acdb400fe",
+      "status": "passed"
+    },
+    {
+      "path": "project_resources/assets/world_hunyuan_20261018/archives/original_sources.zip.part0020",
+      "bytes": 4194304,
+      "sha256": "8f0656fd972dcf6bcbe6669181f3827cf3f468cae9ea3d103197ad4d1ceb65e5",
+      "status": "passed"
+    },
+    {
+      "path": "project_resources/assets/world_hunyuan_20261018/archives/original_sources.zip.part0021",
+      "bytes": 4194304,
+      "sha256": "930475e0b983e9333d7d14e9cb07aa4f353a696d9cc2ec4df6692f1b131569a4",
+      "status": "passed"
+    },
+    {
+      "path": "project_resources/assets/world_hunyuan_20261018/archives/original_sources.zip.part0022",
+      "bytes": 4194304,
+      "sha256": "6f55757709ed6d07e80d1c2e300d940c2851f1e2431327d3daeb11c319a67220",
+      "status": "passed"
+    },
+    {
+      "path": "project_resources/assets/world_hunyuan_20261018/archives/original_sources.zip.part0023",
+      "bytes": 4194304,
+      "sha256": "1d7abf170e6c6d9a56e5533689b651ae84b1686ee913a2cf7e727255d83a7b26",
+      "status": "passed"
+    },
+    {
+      "path": "project_resources/assets/world_hunyuan_20261018/archives/original_sources.zip.part0024",
+      "bytes": 4194304,
+      "sha256": "0a9706e90d9af8c9189a54bd2625e1b6e670ba6f390edbf14e70e2f1c2fa3385",
+      "status": "passed"
+    },
+    {
+      "path": "project_resources/assets/world_hunyuan_20261018/archives/original_sources.zip.part0025",
+      "bytes": 4194304,
+      "sha256": "0d90176a504a01a586a149b434bb4b0dd790e4a7da8db7c5433493f5aea0cdc8",
+      "status": "passed"
+    },
+    {
+      "path": "project_resources/assets/world_hunyuan_20261018/archives/original_sources.zip.part0026",
+      "bytes": 4194304,
+      "sha256": "ea0229211502f2f08cf241a1c33e0ffdf8fcab897ac3cff069b67690289f7646",
+      "status": "passed"
+    },
+    {
+      "path": "project_resources/assets/world_hunyuan_20261018/archives/original_sources.zip.part0027",
+      "bytes": 4194304,
+      "sha256": "b8e28eb7f973714e7254bfc710e6a128933c701d286c87780a4d25c51729677e",
+      "status": "passed"
+    },
+    {
+      "path": "project_resources/assets/world_hunyuan_20261018/archives/original_sources.zip.part0028",
+      "bytes": 4194304,
+      "sha256": "90d20876d8614a8f40ae863bb51acf042b052cb93a5a7c15580526bdec81c42a",
+      "status": "passed"
+    },
+    {
+      "path": "project_resources/assets/world_hunyuan_20261018/archives/original_sources.zip.part0029",
+      "bytes": 4194304,
+      "sha256": "dc4118190d9fa6880b643d73d71368c107e207d01ae11ee801201426f87a5ad5",
+      "status": "passed"
+    },
+    {
+      "path": "project_resources/assets/world_hunyuan_20261018/archives/original_sources.zip.part0030",
+      "bytes": 4194304,
+      "sha256": "0a9fe204e4d5cfd68bcfbb1e34876d8e298b967d856d7aaba8daa768399b42cf",
+      "status": "passed"
+    },
+    {
+      "path": "project_resources/assets/world_hunyuan_20261018/archives/original_sources.zip.part0031",
+      "bytes": 4194304,
+      "sha256": "335da935d3998b69b0d71b34f7b694798131a4d5244eebc94895d2838cba7c89",
+      "status": "passed"
+    },
+    {
+      "path": "project_resources/assets/world_hunyuan_20261018/archives/original_sources.zip.part0032",
+      "bytes": 4194304,
+      "sha256": "984a011da9675fc05e3ad90bfd7ae70a7dd8a025765a169d24b550320fc80aa4",
+      "status": "passed"
+    },
+    {
+      "path": "project_resources/assets/world_hunyuan_20261018/archives/original_sources.zip.part0033",
+      "bytes": 4194304,
+      "sha256": "859f553fca51f6e912986dc41859bb77a9226010e907aa3d4358855ba273d79e",
+      "status": "passed"
+    },
+    {
+      "path": "project_resources/assets/world_hunyuan_20261018/archives/original_sources.zip.part0034",
+      "bytes": 4194304,
+      "sha256": "af4539dbf7e2e38ea7b59da1e13248ab0deb3e025ece6ccf3c5218caac9abf8d",
+      "status": "passed"
+    },
+    {
+      "path": "project_resources/assets/world_hunyuan_20261018/archives/original_sources.zip.part0035",
+      "bytes": 4194304,
+      "sha256": "f2b916bae69e3aa4dda41ff1bc62abfaf0385d0cfad3ba042ff84716a793966c",
+      "status": "passed"
+    },
+    {
+      "path": "project_resources/assets/world_hunyuan_20261018/archives/original_sources.zip.part0036",
+      "bytes": 4194304,
+      "sha256": "bef00bfea77653db3f06be184384c39fb2e96d3e3444b9c45b045a9d60d8a2b4",
+      "status": "passed"
+    },
+    {
+      "path": "project_resources/assets/world_hunyuan_20261018/archives/original_sources.zip.part0037",
+      "bytes": 4194304,
+      "sha256": "13d03465cc0ae63a579088c2109f610750a9b045ebce3dadeb9a0a4626ce7ae3",
+      "status": "passed"
+    },
+    {
+      "path": "project_resources/assets/world_hunyuan_20261018/archives/original_sources.zip.part0038",
+      "bytes": 4194304,
+      "sha256": "10979b5faff9d1c246ea2428fb20e1252525be89a24314dbeb7b4c8f7bf96d92",
+      "status": "passed"
+    },
+    {
+      "path": "project_resources/assets/world_hunyuan_20261018/archives/original_sources.zip.part0039",
+      "bytes": 4194304,
+      "sha256": "d6f3ffc44733877ca716001a2545faa629c622f350f67c7dacdf1549aded0cd4",
+      "status": "passed"
+    },
+    {
+      "path": "project_resources/assets/world_hunyuan_20261018/archives/original_sources.zip.part0040",
+      "bytes": 4194304,
+      "sha256": "45fc371ca523455ad99d1ca13e2e78b3023126574f647d81a2d5639186971987",
+      "status": "passed"
+    },
+    {
+      "path": "project_resources/assets/world_hunyuan_20261018/archives/original_sources.zip.part0041",
+      "bytes": 4194304,
+      "sha256": "49ce509ed4489955bb396d0dc42e9b64b1da35b881c9a52e1162eab18452329e",
+      "status": "passed"
+    },
+    {
+      "path": "project_resources/assets/world_hunyuan_20261018/archives/original_sources.zip.part0042",
+      "bytes": 4194304,
+      "sha256": "66b25b07844ae6fe2cbc5406ef6eea5ab91d851deebaf27fb850574b748dd137",
+      "status": "passed"
+    },
+    {
+      "path": "project_resources/assets/world_hunyuan_20261018/archives/original_sources.zip.part0043",
+      "bytes": 4194304,
+      "sha256": "6aff44701761579e67bce57375768c7e2045cd8d92eac8a5e925c501bc237264",
+      "status": "passed"
+    },
+    {
+      "path": "project_resources/assets/world_hunyuan_20261018/archives/original_sources.zip.part0044",
+      "bytes": 4194304,
+      "sha256": "8419f9ecfad0b52dc7f6c15cb0bcbee19b80f436df90257bb4e6fc2b8ac997bb",
+      "status": "passed"
+    },
+    {
+      "path": "project_resources/assets/world_hunyuan_20261018/archives/original_sources.zip.part0045",
+      "bytes": 4194304,
+      "sha256": "075dfba156ee3dae6d1bce58329a8f5508991678cd4f90f968baab069b903b14",
+      "status": "passed"
+    },
+    {
+      "path": "project_resources/assets/world_hunyuan_20261018/archives/original_sources.zip.part0046",
+      "bytes": 4194304,
+      "sha256": "3b13fef07da3f5cb87ec53a6449c2c3e2f7a284849b9432b52e189851f80c18a",
+      "status": "passed"
+    },
+    {
+      "path": "project_resources/assets/world_hunyuan_20261018/archives/original_sources.zip.part0047",
+      "bytes": 4194304,
+      "sha256": "72135c6e93282af531ee69fffe91cdf38660c774aef98a6603630ddf294979b0",
+      "status": "passed"
+    },
+    {
+      "path": "project_resources/assets/world_hunyuan_20261018/archives/original_sources.zip.part0048",
+      "bytes": 4194304,
+      "sha256": "618ce8f24f48588587743f3eef3bca62b6adab226775f8a3f46433f3c276a697",
+      "status": "passed"
+    },
+    {
+      "path": "project_resources/assets/world_hunyuan_20261018/archives/original_sources.zip.part0049",
+      "bytes": 4194304,
+      "sha256": "995f1d0e64124b99c4357c4122862f90734b200700f965538f3b3611a652bffc",
+      "status": "passed"
+    },
+    {
+      "path": "project_resources/assets/world_hunyuan_20261018/archives/original_sources.zip.part0050",
+      "bytes": 4194304,
+      "sha256": "71dc52612b90aea76291eb73803193165ffb55081cfdd061d83ce36ee4f98b9c",
+      "status": "passed"
+    },
+    {
+      "path": "project_resources/assets/world_hunyuan_20261018/archives/original_sources.zip.part0051",
+      "bytes": 4194304,
+      "sha256": "c5c8b89f5f97a0b616c9a794d5f6d0235c3942547489e1e5c462f2e253decb87",
+      "status": "passed"
+    },
+    {
+      "path": "project_resources/assets/world_hunyuan_20261018/archives/original_sources.zip.part0052",
+      "bytes": 4194304,
+      "sha256": "b2a7e1babc47fd83675a6287e7154e81bfa44c42d6b06e693e5d74da5d22df68",
+      "status": "passed"
+    },
+    {
+      "path": "project_resources/assets/world_hunyuan_20261018/archives/original_sources.zip.part0053",
+      "bytes": 4194304,
+      "sha256": "a851555f334dc62ceb53ed61a029eabd0d3aa24f9790db230a2e972f386eda9a",
+      "status": "passed"
+    },
+    {
+      "path": "project_resources/assets/world_hunyuan_20261018/archives/original_sources.zip.part0054",
+      "bytes": 4194304,
+      "sha256": "86356e2172caa5dacd17da4d0c2888cf4208ffdb87eaa11a76ca6d21da5b11fc",
+      "status": "passed"
+    },
+    {
+      "path": "project_resources/assets/world_hunyuan_20261018/archives/original_sources.zip.part0055",
+      "bytes": 4194304,
+      "sha256": "2dd4dd1cce069c6dc08006fe760c547e303b67c8722c2d93eaa6e75ec88c1c1f",
+      "status": "passed"
+    },
+    {
+      "path": "project_resources/assets/world_hunyuan_20261018/archives/original_sources.zip.part0056",
+      "bytes": 4194304,
+      "sha256": "03031137801b7ae3ae486a1374027018a39bc8af5fcf46dff78e534ad0d1dc6c",
+      "status": "passed"
+    },
+    {
+      "path": "project_resources/assets/world_hunyuan_20261018/archives/original_sources.zip.part0057",
+      "bytes": 4194304,
+      "sha256": "6cb4327e9b2a13b7442da07131f676c3b571609ba1e26583d78baa53b2c73283",
+      "status": "passed"
+    },
+    {
+      "path": "project_resources/assets/world_hunyuan_20261018/archives/original_sources.zip.part0058",
+      "bytes": 4194304,
+      "sha256": "150e11a2039b50f6540b3581fc1444c202af959e1027a6fbaf6284df5666bfa1",
+      "status": "passed"
+    },
+    {
+      "path": "project_resources/assets/world_hunyuan_20261018/archives/original_sources.zip.part0059",
+      "bytes": 4194304,
+      "sha256": "a0e71cd96d466797b493546cdcc5b572f55bb698140daad49717b5795e119a49",
+      "status": "passed"
+    },
+    {
+      "path": "project_resources/assets/world_hunyuan_20261018/archives/original_sources.zip.part0060",
+      "bytes": 4194304,
+      "sha256": "1e27dc7346d8375edd016b825d10d4aa17f7988d110609749a8810a0cb00f5de",
+      "status": "passed"
+    },
+    {
+      "path": "project_resources/assets/world_hunyuan_20261018/archives/original_sources.zip.part0061",
+      "bytes": 4194304,
+      "sha256": "9c516493c209047045357cd5a78ba6f091ee2c39bb8d24835ba8f43f0b42447c",
+      "status": "passed"
+    },
+    {
+      "path": "project_resources/assets/world_hunyuan_20261018/archives/original_sources.zip.part0062",
+      "bytes": 4194304,
+      "sha256": "1f4bd167e45bad5e3e5885d65e1d589174b82d55ffcc027616e55ab65f9335f0",
+      "status": "passed"
+    },
+    {
+      "path": "project_resources/assets/world_hunyuan_20261018/archives/original_sources.zip.part0063",
+      "bytes": 4194304,
+      "sha256": "2ae246b892b89d9fae05dcc836446552035814f482787ac4206350e28a0a157b",
+      "status": "passed"
+    },
+    {
+      "path": "project_resources/assets/world_hunyuan_20261018/archives/original_sources.zip.part0064",
+      "bytes": 4194304,
+      "sha256": "0c42435e89500d33868f4f8ffd15eed6d86b4b2a58e4b4b712e646ef2c4eafe1",
+      "status": "passed"
+    },
+    {
+      "path": "project_resources/assets/world_hunyuan_20261018/archives/original_sources.zip.part0065",
+      "bytes": 4194304,
+      "sha256": "48d89ab939f0f27e5b6addd9bbe73a9a271c3985ace7ed6806580ec8c45227fe",
+      "status": "passed"
+    },
+    {
+      "path": "project_resources/assets/world_hunyuan_20261018/archives/original_sources.zip.part0066",
+      "bytes": 4194304,
+      "sha256": "1e5b66b694ece216e673c61dde8389acbd8fbf68498b855b892b6e122b2ba8e9",
+      "status": "passed"
+    },
+    {
+      "path": "project_resources/assets/world_hunyuan_20261018/archives/original_sources.zip.part0067",
+      "bytes": 4194304,
+      "sha256": "4d83c189a0e8a06109fdddb7b724549c6bc35de1697d9e77d3a6359f8f4342d6",
+      "status": "passed"
+    },
+    {
+      "path": "project_resources/assets/world_hunyuan_20261018/archives/original_sources.zip.part0068",
+      "bytes": 4194304,
+      "sha256": "f19784765fd92c76178216f1a754a3be69720aef17a1567c9aae8ef0af20c10d",
+      "status": "passed"
+    },
+    {
+      "path": "project_resources/assets/world_hunyuan_20261018/archives/original_sources.zip.part0069",
+      "bytes": 4194304,
+      "sha256": "2cbae7c81ca40b37c665d6c7d4640864525e5fc32c3a5cbdcdfcff76a6a4ad11",
+      "status": "passed"
+    },
+    {
+      "path": "project_resources/assets/world_hunyuan_20261018/archives/original_sources.zip.part0070",
+      "bytes": 4194304,
+      "sha256": "abdf419f1dc18c8e49d27d464b020b5ec37ffbd138b71fbb4c150ce5be065406",
+      "status": "passed"
+    },
+    {
+      "path": "project_resources/assets/world_hunyuan_20261018/archives/original_sources.zip.part0071",
+      "bytes": 4194304,
+      "sha256": "c2bca97894d5f41446c91b97d9ce1fb319346b92e563f9c895df29c1ebfb1263",
+      "status": "passed"
+    },
+    {
+      "path": "project_resources/assets/world_hunyuan_20261018/archives/original_sources.zip.part0072",
+      "bytes": 4194304,
+      "sha256": "691293edbdab2e6c01afafe88fc115d3190492e1dfe62ce7d120a1ee9b211ded",
+      "status": "passed"
+    },
+    {
+      "path": "project_resources/assets/world_hunyuan_20261018/archives/original_sources.zip.part0073",
+      "bytes": 4194304,
+      "sha256": "0b03e355aac23a406a6a544638c55976119a570f98550b7d7476f99feab33edb",
+      "status": "passed"
+    },
+    {
+      "path": "project_resources/assets/world_hunyuan_20261018/archives/original_sources.zip.part0074",
+      "bytes": 4194304,
+      "sha256": "591a65173cdef35ba2e7dbeb2c013633bf29060de0b6fb493230c8b4e45ca69a",
+      "status": "passed"
+    },
+    {
+      "path": "project_resources/assets/world_hunyuan_20261018/archives/original_sources.zip.part0075",
+      "bytes": 4194304,
+      "sha256": "35fe54f8a084f1d4e60f85d73b310825b8c77395aef1f177604bf0a1a1e20867",
+      "status": "passed"
+    },
+    {
+      "path": "project_resources/assets/world_hunyuan_20261018/archives/original_sources.zip.part0076",
+      "bytes": 4194304,
+      "sha256": "84f27c3a37613091e3577e9c786af7bb2b12fb2b23556a5f1e46115113ecaf38",
+      "status": "passed"
+    },
+    {
+      "path": "project_resources/assets/world_hunyuan_20261018/archives/original_sources.zip.part0077",
+      "bytes": 4194304,
+      "sha256": "4d729afa5f3fc4de523379122df46e8bc2a9cabb5a5a5111620b1ded38e75fdb",
+      "status": "passed"
+    },
+    {
+      "path": "project_resources/assets/world_hunyuan_20261018/archives/original_sources.zip.part0078",
+      "bytes": 4194304,
+      "sha256": "a99280adca769616fe91f72400f601fb555de86719352b233885540080e34c28",
+      "status": "passed"
+    },
+    {
+      "path": "project_resources/assets/world_hunyuan_20261018/archives/original_sources.zip.part0079",
+      "bytes": 4194304,
+      "sha256": "1bd64d4be82fc4a63e7423b5ff3c70783a9ab20a6c5a7f59b53f2702f0f5d10c",
+      "status": "passed"
+    },
+    {
+      "path": "project_resources/assets/world_hunyuan_20261018/archives/original_sources.zip.part0080",
+      "bytes": 4194304,
+      "sha256": "c59cc222712d9a7517a6c2ddc51c7f14d8ff9f1219e7496d2fb264ebcf25e2e7",
+      "status": "passed"
+    },
+    {
+      "path": "project_resources/assets/world_hunyuan_20261018/archives/original_sources.zip.part0081",
+      "bytes": 4194304,
+      "sha256": "b4b059e93779f2d6529fefa57f42d76668c9f92e74592dcf2417f5a9439a4fd6",
+      "status": "passed"
+    },
+    {
+      "path": "project_resources/assets/world_hunyuan_20261018/archives/original_sources.zip.part0082",
+      "bytes": 4194304,
+      "sha256": "19cb1a2921e09ee290ba116ce870ad10d872b42f67586f4d1e97b7c942f1aaab",
+      "status": "passed"
+    },
+    {
+      "path": "project_resources/assets/world_hunyuan_20261018/archives/original_sources.zip.part0083",
+      "bytes": 4194304,
+      "sha256": "97f39e45d99b3cf4e53861e9f77c1859d57c5fc701fdc867a08047d972bacb6c",
+      "status": "passed"
+    },
+    {
+      "path": "project_resources/assets/world_hunyuan_20261018/archives/original_sources.zip.part0084",
+      "bytes": 4194304,
+      "sha256": "3f145cec8f70f6b1a39802e45443361195ecb8046eae84573ea5402daee4c588",
+      "status": "passed"
+    },
+    {
+      "path": "project_resources/assets/world_hunyuan_20261018/archives/original_sources.zip.part0085",
+      "bytes": 4194304,
+      "sha256": "2bec7c9dcddf0bce90e12a9179f561f8bbc1f7e7699a9da08e8e8a16ae94ac60",
+      "status": "passed"
+    },
+    {
+      "path": "project_resources/assets/world_hunyuan_20261018/archives/original_sources.zip.part0086",
+      "bytes": 4194304,
+      "sha256": "8af1586bab51d4c501c7570a6d565f9b7fe52ef05a5b7efe7c7134c6a0019665",
+      "status": "passed"
+    },
+    {
+      "path": "project_resources/assets/world_hunyuan_20261018/archives/original_sources.zip.part0087",
+      "bytes": 4194304,
+      "sha256": "511c58c7f80aea9876b6d97cb16b7741c50cadcbfdd838dac42648063d70a754",
+      "status": "passed"
+    },
+    {
+      "path": "project_resources/assets/world_hunyuan_20261018/archives/original_sources.zip.part0088",
+      "bytes": 4194304,
+      "sha256": "ee6abda62cec8c98f45822f2ac2e2359b47299932ebd6f2ddcc08f8154d9725d",
+      "status": "passed"
+    },
+    {
+      "path": "project_resources/assets/world_hunyuan_20261018/archives/original_sources.zip.part0089",
+      "bytes": 4194304,
+      "sha256": "f81e5c02b0257a03ec809a4f837759fff7b460f3ba7bd039fcca2f0c9019b61c",
+      "status": "passed"
+    },
+    {
+      "path": "project_resources/assets/world_hunyuan_20261018/archives/original_sources.zip.part0090",
+      "bytes": 4194304,
+      "sha256": "8c663114ad9a46718f6f579fed03cb634bc60515be23f6f9da4cbd8cd7de5cb1",
+      "status": "passed"
+    },
+    {
+      "path": "project_resources/assets/world_hunyuan_20261018/archives/original_sources.zip.part0091",
+      "bytes": 4194304,
+      "sha256": "22eb583a44851959e73b9e248b8fff735b2d56dcf6b18f524ca6267986be5f71",
+      "status": "passed"
+    },
+    {
+      "path": "project_resources/assets/world_hunyuan_20261018/archives/original_sources.zip.part0092",
+      "bytes": 4194304,
+      "sha256": "ff565a4d8bcf6ba6c9a8900637f3de49d621997d9721499103c0a0d33301b956",
+      "status": "passed"
+    },
+    {
+      "path": "project_resources/assets/world_hunyuan_20261018/archives/original_sources.zip.part0093",
+      "bytes": 4194304,
+      "sha256": "ec3752ee0f85f92166130b76b482aaf124e876df38f4a145e012095238fa9643",
+      "status": "passed"
+    },
+    {
+      "path": "project_resources/assets/world_hunyuan_20261018/archives/original_sources.zip.part0094",
+      "bytes": 4194304,
+      "sha256": "146bf5f3bf8b749de048d814c94fe7e748806ccff7a49297cc76c32f8b6b0494",
+      "status": "passed"
+    },
+    {
+      "path": "project_resources/assets/world_hunyuan_20261018/archives/original_sources.zip.part0095",
+      "bytes": 4194304,
+      "sha256": "2b8e7bd9c9634ba96fef5502ab77acb478f32dd7b00c425f95d4feb05810ed10",
+      "status": "passed"
+    },
+    {
+      "path": "project_resources/assets/world_hunyuan_20261018/archives/original_sources.zip.part0096",
+      "bytes": 4194304,
+      "sha256": "32683c5ba2abb0f80ba4cf807dd8fbed6c74720a2717d79c8bac5313c9f36570",
+      "status": "passed"
+    },
+    {
+      "path": "project_resources/assets/world_hunyuan_20261018/archives/original_sources.zip.part0097",
+      "bytes": 4194304,
+      "sha256": "f05140bfc9f06ff1ea2d45d97e3eac01bc95b40dcbf808789670092518727c32",
+      "status": "passed"
+    },
+    {
+      "path": "project_resources/assets/world_hunyuan_20261018/archives/original_sources.zip.part0098",
+      "bytes": 4194304,
+      "sha256": "b1af5f501b80a335fb4a2617a6cac4fb3b503e4eb4c2aa06aec9fdfa54fdf1be",
+      "status": "passed"
+    },
+    {
+      "path": "project_resources/assets/world_hunyuan_20261018/archives/original_sources.zip.part0099",
+      "bytes": 4194304,
+      "sha256": "fa1189b1b6ef4e851d8487d24ff1d4d522edf4d895a706cb15cd54405f3d72e9",
+      "status": "passed"
+    },
+    {
+      "path": "project_resources/assets/world_hunyuan_20261018/archives/original_sources.zip.part0100",
+      "bytes": 4194304,
+      "sha256": "55e788e1d55fea6e227aea4de21296d4e9dbd48193e421fe5a7c926157d80c64",
+      "status": "passed"
+    },
+    {
+      "path": "project_resources/assets/world_hunyuan_20261018/archives/original_sources.zip.part0101",
+      "bytes": 4194304,
+      "sha256": "ff1230a1e38ca937e462dc3b8987ef94a358b6219fe6a4043c83145a84935dea",
+      "status": "passed"
+    },
+    {
+      "path": "project_resources/assets/world_hunyuan_20261018/archives/original_sources.zip.part0102",
+      "bytes": 4194304,
+      "sha256": "d9467ba040ab9b5ce71a59733b91a346692ba4369e43983a4e3f58600bae7861",
+      "status": "passed"
+    },
+    {
+      "path": "project_resources/assets/world_hunyuan_20261018/archives/original_sources.zip.part0103",
+      "bytes": 4194304,
+      "sha256": "642e277ff833fc92afb12ed8487f611f483c7cd57546e065d41d10e0676e4de3",
+      "status": "passed"
+    },
+    {
+      "path": "project_resources/assets/world_hunyuan_20261018/archives/original_sources.zip.part0104",
+      "bytes": 4194304,
+      "sha256": "a8e8222a894bce90901eb518ab0d3b2d2fac73c98e0a1c31146cf48aff1647ba",
+      "status": "passed"
+    },
+    {
+      "path": "project_resources/assets/world_hunyuan_20261018/archives/original_sources.zip.part0105",
+      "bytes": 4194304,
+      "sha256": "b8fa2e877365425850bb9577b977171590b32f7d53fbaed459236c0ca291b8bd",
+      "status": "passed"
+    },
+    {
+      "path": "project_resources/assets/world_hunyuan_20261018/archives/original_sources.zip.part0106",
+      "bytes": 4194304,
+      "sha256": "4d536affc054862f08852c3104138a7b1360252a9ced0ed72a805c7bfee9d755",
+      "status": "passed"
+    },
+    {
+      "path": "project_resources/assets/world_hunyuan_20261018/archives/original_sources.zip.part0107",
+      "bytes": 4194304,
+      "sha256": "7bf5fdae649924162ba36617e17bb3b745e8fbdc3753e3b23609904ca9f0c2cf",
+      "status": "passed"
+    },
+    {
+      "path": "project_resources/assets/world_hunyuan_20261018/archives/original_sources.zip.part0108",
+      "bytes": 4194304,
+      "sha256": "3d8336fc20a76b9390fd51f8c4b74c1402a3f8c5f655791acad87d663b582168",
+      "status": "passed"
+    },
+    {
+      "path": "project_resources/assets/world_hunyuan_20261018/archives/original_sources.zip.part0109",
+      "bytes": 4194304,
+      "sha256": "c9def2d9728afc64414d59fef54dee9809e081fbe1626e84b545e2bff5565128",
+      "status": "passed"
+    },
+    {
+      "path": "project_resources/assets/world_hunyuan_20261018/archives/original_sources.zip.part0110",
+      "bytes": 4194304,
+      "sha256": "dc73d5d73a8c46aff655f8da4140782786a3291913e0bb830c52cfd24d725fad",
+      "status": "passed"
+    },
+    {
+      "path": "project_resources/assets/world_hunyuan_20261018/archives/original_sources.zip.part0111",
+      "bytes": 4194304,
+      "sha256": "920de35de3e8ee4be67db94599d38ea92d71042b04bd48a469365414441b2664",
+      "status": "passed"
+    },
+    {
+      "path": "project_resources/assets/world_hunyuan_20261018/archives/original_sources.zip.part0112",
+      "bytes": 4194304,
+      "sha256": "fb791e052560ec1ca66f8bbf559bc0a6384838c56e1cb5beb739a7307a5ed5aa",
+      "status": "passed"
+    },
+    {
+      "path": "project_resources/assets/world_hunyuan_20261018/archives/original_sources.zip.part0113",
+      "bytes": 4194304,
+      "sha256": "601925f37619e9e3a4f7a3a2ff1d735b79fa23e1ba6b2e24359ee30f93c0febe",
+      "status": "passed"
+    },
+    {
+      "path": "project_resources/assets/world_hunyuan_20261018/archives/original_sources.zip.part0114",
+      "bytes": 4194304,
+      "sha256": "9ab378aafc0d1cf412ede062cdbe14dfe59ed16fcd4e4a4a796ecfad83e23af8",
+      "status": "passed"
+    },
+    {
+      "path": "project_resources/assets/world_hunyuan_20261018/archives/original_sources.zip.part0115",
+      "bytes": 4194304,
+      "sha256": "da96c589e47ccfb28e7bc860f06a49e789a74fa2b271a52c3476ec802e6a28f4",
+      "status": "passed"
+    },
+    {
+      "path": "project_resources/assets/world_hunyuan_20261018/archives/original_sources.zip.part0116",
+      "bytes": 4194304,
+      "sha256": "268cf250b791fdb6a35c3f1c90ff298864f1cac2424d4038e5acfafc0823f1f2",
+      "status": "passed"
+    },
+    {
+      "path": "project_resources/assets/world_hunyuan_20261018/archives/original_sources.zip.part0117",
+      "bytes": 4194304,
+      "sha256": "c340aa779bd5eb40ce69c898413ff02816be4fe948c8ba4a6f4c0f9db229920e",
+      "status": "passed"
+    },
+    {
+      "path": "project_resources/assets/world_hunyuan_20261018/archives/original_sources.zip.part0118",
+      "bytes": 4194304,
+      "sha256": "cde1fd11a5baef05bea7a4fdf15643c5585e098e5ec0d4aacf07b8f583b7089e",
+      "status": "passed"
+    },
+    {
+      "path": "project_resources/assets/world_hunyuan_20261018/archives/original_sources.zip.part0119",
+      "bytes": 4194304,
+      "sha256": "31fe8503340178b139c0202b6c9788fa3284704c8f3fc58ab543533bc566f4f9",
+      "status": "passed"
+    },
+    {
+      "path": "project_resources/assets/world_hunyuan_20261018/archives/original_sources.zip.part0120",
+      "bytes": 4194304,
+      "sha256": "c5d6d7d93d86c53a6e7915620331f365b22a440434501daabb440d81bdeff0cd",
+      "status": "passed"
+    },
+    {
+      "path": "project_resources/assets/world_hunyuan_20261018/archives/original_sources.zip.part0121",
+      "bytes": 4194304,
+      "sha256": "87c3b3bb8315bd05719646a9c39d3bdda215996be46869adbd8f877bebeda0ba",
+      "status": "passed"
+    },
+    {
+      "path": "project_resources/assets/world_hunyuan_20261018/archives/original_sources.zip.part0122",
+      "bytes": 4194304,
+      "sha256": "579163cbddf4ca2c63387382d60689d74deb467c33e3228358d13e7611cf8e33",
+      "status": "passed"
+    },
+    {
+      "path": "project_resources/assets/world_hunyuan_20261018/archives/original_sources.zip.part0123",
+      "bytes": 4194304,
+      "sha256": "bf08aa2fe5d1825ecc30e4fe2a556c6445000652dd5d89c88abc2ce4c584b8d8",
+      "status": "passed"
+    },
+    {
+      "path": "project_resources/assets/world_hunyuan_20261018/archives/original_sources.zip.part0124",
+      "bytes": 4194304,
+      "sha256": "d8cdad78d821f8b8a41874a9073819f2fe6a5c5b609d542dd9c5ddfecfa97050",
+      "status": "passed"
+    },
+    {
+      "path": "project_resources/assets/world_hunyuan_20261018/archives/original_sources.zip.part0125",
+      "bytes": 4194304,
+      "sha256": "155461a0618d7b8f19b3672586904d8c77c4d638b2c70e564bda1d9ce8db3d55",
+      "status": "passed"
+    },
+    {
+      "path": "project_resources/assets/world_hunyuan_20261018/archives/original_sources.zip.part0126",
+      "bytes": 4194304,
+      "sha256": "272b829c6fa0bbd30851b21b763d8464eaf95df7b09b553004b5cd004ce358c6",
+      "status": "passed"
+    },
+    {
+      "path": "project_resources/assets/world_hunyuan_20261018/archives/original_sources.zip.part0127",
+      "bytes": 4194304,
+      "sha256": "06e6181dc6e7b9c8543cbfdf01e0c5920a58254e9dd454b50c1b49707f5bf25c",
+      "status": "passed"
+    },
+    {
+      "path": "project_resources/assets/world_hunyuan_20261018/archives/original_sources.zip.part0128",
+      "bytes": 4194304,
+      "sha256": "a9a31f33ba173f07dd2e65d953b388a0a989715120ffeab427aff0c1319f7944",
+      "status": "passed"
+    },
+    {
+      "path": "project_resources/assets/world_hunyuan_20261018/archives/original_sources.zip.part0129",
+      "bytes": 4194304,
+      "sha256": "07e27c50489550ac1cb8cb82d760bd1e5c06ecd73d26ecbcbe6eea193c2ee947",
+      "status": "passed"
+    },
+    {
+      "path": "project_resources/assets/world_hunyuan_20261018/archives/original_sources.zip.part0130",
+      "bytes": 4194304,
+      "sha256": "7846c36591bfa33fad174cc62f1c6fcb2421111727205e090e297d4a1cd53d9b",
+      "status": "passed"
+    },
+    {
+      "path": "project_resources/assets/world_hunyuan_20261018/archives/original_sources.zip.part0131",
+      "bytes": 4194304,
+      "sha256": "1d61a03096a30a698294ce6359cca014a8d2121c43698c93625fc12709f9691f",
+      "status": "passed"
+    },
+    {
+      "path": "project_resources/assets/world_hunyuan_20261018/archives/original_sources.zip.part0132",
+      "bytes": 4194304,
+      "sha256": "5590c5d35244c5e2f913f4929581af6b8ecfc6d1622c8473bc2a118c8c261bc3",
+      "status": "passed"
+    },
+    {
+      "path": "project_resources/assets/world_hunyuan_20261018/archives/original_sources.zip.part0133",
+      "bytes": 4194304,
+      "sha256": "d619609737d55c83dbd539f4072570ab8970efd0df7a48282ada19f12d9a5d50",
+      "status": "passed"
+    },
+    {
+      "path": "project_resources/assets/world_hunyuan_20261018/archives/original_sources.zip.part0134",
+      "bytes": 4194304,
+      "sha256": "6ef710e63f1760577651438b590dd593d73b1f4034c7533cdb1ad4e785fd32dc",
+      "status": "passed"
+    },
+    {
+      "path": "project_resources/assets/world_hunyuan_20261018/archives/original_sources.zip.part0135",
+      "bytes": 4194304,
+      "sha256": "79eb41739e8d58734b9437406935c82716da8e558bb82c37e1d2cd835d86c9d4",
+      "status": "passed"
+    },
+    {
+      "path": "project_resources/assets/world_hunyuan_20261018/archives/original_sources.zip.part0136",
+      "bytes": 4194304,
+      "sha256": "2729ee9c426f797cf3416ce320ca887a253a50d7528ccbd2cc02690d2e202a3d",
+      "status": "passed"
+    },
+    {
+      "path": "project_resources/assets/world_hunyuan_20261018/archives/original_sources.zip.part0137",
+      "bytes": 4194304,
+      "sha256": "8e54280adba4060bb6ed4c7582385eb428cb3633c7742ab85b015e7adfac634a",
+      "status": "passed"
+    },
+    {
+      "path": "project_resources/assets/world_hunyuan_20261018/archives/original_sources.zip.part0138",
+      "bytes": 3020406,
+      "sha256": "7848de141795d24e186103063b26d381a575d9543f1027a9bf9dda99e6a77708",
+      "status": "passed"
+    },
+    {
+      "path": "project_resources/assets/world_hunyuan_20261018/archives/world_oct18.zip.part0001",
+      "bytes": 4194304,
+      "sha256": "f766ebcb2a55df3a9710040363a46f128608905312b8e92d81979eb8e6ad02c3",
+      "status": "passed"
+    },
+    {
+      "path": "project_resources/assets/world_hunyuan_20261018/archives/world_oct18.zip.part0002",
+      "bytes": 4194304,
+      "sha256": "1f5bdb6033f34a6ebd7d1812987a075d47d39e54a12da6c98fb0f7e95d325db4",
+      "status": "passed"
+    },
+    {
+      "path": "project_resources/assets/world_hunyuan_20261018/archives/world_oct18.zip.part0003",
+      "bytes": 4194304,
+      "sha256": "9f0b9cf51a63cba6a03b9187e0464e3b7fa1a78605a91c6b0ae7214e50726679",
+      "status": "passed"
+    },
+    {
+      "path": "project_resources/assets/world_hunyuan_20261018/archives/world_oct18.zip.part0004",
+      "bytes": 4194304,
+      "sha256": "23b8029afac13396340df507f81e73a19cc1484e99adb6f9749b2010c74aa59a",
+      "status": "passed"
+    },
+    {
+      "path": "project_resources/assets/world_hunyuan_20261018/archives/world_oct18.zip.part0005",
+      "bytes": 4194304,
+      "sha256": "93ee7d93428e951a7fa7a5f0bc25092a92c17479c2f3ad0bcebdc7a47a16f436",
+      "status": "passed"
+    },
+    {
+      "path": "project_resources/assets/world_hunyuan_20261018/archives/world_oct18.zip.part0006",
+      "bytes": 4194304,
+      "sha256": "af949601ba14f5f38aff8387ba458991e0aca781b289d9f7bff0932def3947a9",
+      "status": "passed"
+    },
+    {
+      "path": "project_resources/assets/world_hunyuan_20261018/archives/world_oct18.zip.part0007",
+      "bytes": 4194304,
+      "sha256": "a5f4b6b6e130a12e69a440c9feab62daaff16bfa040a8ba63a7c7d2f857668c7",
+      "status": "passed"
+    },
+    {
+      "path": "project_resources/assets/world_hunyuan_20261018/archives/world_oct18.zip.part0008",
+      "bytes": 4194304,
+      "sha256": "032fa090f32726df728b86227dd852b9c7c5159c625acd59e6302a7dd219ed1a",
+      "status": "passed"
+    },
+    {
+      "path": "project_resources/assets/world_hunyuan_20261018/archives/world_oct18.zip.part0009",
+      "bytes": 4194304,
+      "sha256": "317072ae9c33d63d043e1dc6b8012b45668a08056977b6ea1c9ce316400b77df",
+      "status": "passed"
+    },
+    {
+      "path": "project_resources/assets/world_hunyuan_20261018/archives/world_oct18.zip.part0010",
+      "bytes": 4194304,
+      "sha256": "9b2fc3f2eb7da0bfd158aa8cda96d1b2b6e17927b436afa747bdeac26be8392b",
+      "status": "passed"
+    },
+    {
+      "path": "project_resources/assets/world_hunyuan_20261018/archives/world_oct18.zip.part0011",
+      "bytes": 4194304,
+      "sha256": "a9501b24ced73f140ac3d8971e74c20ee8fbf46a694a080ea5e2d1bca67aa7ad",
+      "status": "passed"
+    },
+    {
+      "path": "project_resources/assets/world_hunyuan_20261018/archives/world_oct18.zip.part0012",
+      "bytes": 4194304,
+      "sha256": "b784b94febf904bca242202dd6e66205d1b4da9d7ecd42eaf8ae317b63442e1c",
+      "status": "passed"
+    },
+    {
+      "path": "project_resources/assets/world_hunyuan_20261018/archives/world_oct18.zip.part0013",
+      "bytes": 4194304,
+      "sha256": "6e4cb57a1095c6d68ff301550b8572fb8b80511a382807419489930361104876",
+      "status": "passed"
+    },
+    {
+      "path": "project_resources/assets/world_hunyuan_20261018/archives/world_oct18.zip.part0014",
+      "bytes": 4194304,
+      "sha256": "a7443777b95947a6f7f29668a8c8fdf421075430e44eb62bfcd710e0fcf9af7f",
+      "status": "passed"
+    },
+    {
+      "path": "project_resources/assets/world_hunyuan_20261018/archives/world_oct18.zip.part0015",
+      "bytes": 4194304,
+      "sha256": "4eef460caa26980a4da0527c12911c488bf47b13f7667eae9d1b57ed5d2f3524",
+      "status": "passed"
+    },
+    {
+      "path": "project_resources/assets/world_hunyuan_20261018/archives/world_oct18.zip.part0016",
+      "bytes": 4194304,
+      "sha256": "614d1221afa0d6f77ade6faeb703ba91650cf54a5c34dfe822ef38613ffea1a9",
+      "status": "passed"
+    },
+    {
+      "path": "project_resources/assets/world_hunyuan_20261018/archives/world_oct18.zip.part0017",
+      "bytes": 4194304,
+      "sha256": "4a4a05dacba218ab7bd1290857133232beb5636a83bf248c7c67142862559509",
+      "status": "passed"
+    },
+    {
+      "path": "project_resources/assets/world_hunyuan_20261018/archives/world_oct18.zip.part0018",
+      "bytes": 4194304,
+      "sha256": "39e368d4894fe67f3da67cadba15575c3a5eec9bb896407d9612ba41f58a347a",
+      "status": "passed"
+    },
+    {
+      "path": "project_resources/assets/world_hunyuan_20261018/archives/world_oct18.zip.part0019",
+      "bytes": 4194304,
+      "sha256": "1d754849cc5d52e80048a367325d96730dc275299b9f96e4bcafa7532adca761",
+      "status": "passed"
+    },
+    {
+      "path": "project_resources/assets/world_hunyuan_20261018/archives/world_oct18.zip.part0020",
+      "bytes": 4194304,
+      "sha256": "59fe9107ad1808bc702518a3fdb59ba9b711b077fe47f62ce1f59ef90bc6e3bd",
+      "status": "passed"
+    },
+    {
+      "path": "project_resources/assets/world_hunyuan_20261018/archives/world_oct18.zip.part0021",
+      "bytes": 4194304,
+      "sha256": "088edf7c7bfd4bc09855e7aa003f4cf444e1aadfb31c59c2b82856a16086ba3d",
+      "status": "passed"
+    },
+    {
+      "path": "project_resources/assets/world_hunyuan_20261018/archives/world_oct18.zip.part0022",
+      "bytes": 4194304,
+      "sha256": "7bd7c4669b95b56f37b71ca483da8ef9eb1ee7d573e0f8cb0cb8c7e9bcde373a",
+      "status": "passed"
+    },
+    {
+      "path": "project_resources/assets/world_hunyuan_20261018/archives/world_oct18.zip.part0023",
+      "bytes": 4194304,
+      "sha256": "280d41b2b9a526a8d4ada329fd8583b9dee690a83068fdb1c6fe60fd19b34fa4",
+      "status": "passed"
+    },
+    {
+      "path": "project_resources/assets/world_hunyuan_20261018/archives/world_oct18.zip.part0024",
+      "bytes": 4194304,
+      "sha256": "e7064a32737aa1feb4a59041aebc1de06c9acd3cb8cb5407f766f53c36be5a5f",
+      "status": "passed"
+    },
+    {
+      "path": "project_resources/assets/world_hunyuan_20261018/archives/world_oct18.zip.part0025",
+      "bytes": 4194304,
+      "sha256": "ead1f6d4ed6247e07527707a1a5d19e7939b82013a1c62c542ae8ecb42a3deb3",
+      "status": "passed"
+    },
+    {
+      "path": "project_resources/assets/world_hunyuan_20261018/archives/world_oct18.zip.part0026",
+      "bytes": 4194304,
+      "sha256": "425479bfbbf98b1c5284d87ad491f39d664669926a203a36c217729511201044",
+      "status": "passed"
+    },
+    {
+      "path": "project_resources/assets/world_hunyuan_20261018/archives/world_oct18.zip.part0027",
+      "bytes": 4194304,
+      "sha256": "975f911a5e8ab6b49a36081b733c60e2193affd0cd7090c90c1a2f32ed8ca978",
+      "status": "passed"
+    },
+    {
+      "path": "project_resources/assets/world_hunyuan_20261018/archives/world_oct18.zip.part0028",
+      "bytes": 4194304,
+      "sha256": "7a7364761b9da987c42641ca05d5d49e42544d4857eabdd4d0c598c0eb4d11a1",
+      "status": "passed"
+    },
+    {
+      "path": "project_resources/assets/world_hunyuan_20261018/archives/world_oct18.zip.part0029",
+      "bytes": 4194304,
+      "sha256": "aa3d40b268f54dd8b682f1dfc3e8aac42dc88069bc0661ebefd8ceb80fc27344",
+      "status": "passed"
+    },
+    {
+      "path": "project_resources/assets/world_hunyuan_20261018/archives/world_oct18.zip.part0030",
+      "bytes": 4194304,
+      "sha256": "60be50021580025cb7a7cfad8f7774a465dc8bb478e76c4d4f78f0f977090e7f",
+      "status": "passed"
+    },
+    {
+      "path": "project_resources/assets/world_hunyuan_20261018/archives/world_oct18.zip.part0031",
+      "bytes": 4194304,
+      "sha256": "bc544e09e93343aef8b09926cb4c94b0008faff2add2d1f111dd7d2f66db94ae",
+      "status": "passed"
+    },
+    {
+      "path": "project_resources/assets/world_hunyuan_20261018/archives/world_oct18.zip.part0032",
+      "bytes": 4194304,
+      "sha256": "c47280932f95ffc61599d481757d304f829108d058d61195f2178a6e1fee1645",
+      "status": "passed"
+    },
+    {
+      "path": "project_resources/assets/world_hunyuan_20261018/archives/world_oct18.zip.part0033",
+      "bytes": 4194304,
+      "sha256": "a1f9deaaaca627e90623d94933b33ce48846ed91da592861eb447420683fd92f",
+      "status": "passed"
+    },
+    {
+      "path": "project_resources/assets/world_hunyuan_20261018/archives/world_oct18.zip.part0034",
+      "bytes": 4194304,
+      "sha256": "5cf4e918b47ecba0fb7858181dac56e1e45c1513a68cc0b4daaeaa1f95aa2ee3",
+      "status": "passed"
+    },
+    {
+      "path": "project_resources/assets/world_hunyuan_20261018/archives/world_oct18.zip.part0035",
+      "bytes": 4194304,
+      "sha256": "52440995012e784ad062f7d41c33de8eabd9a911e0983d9fdf9734df505994d8",
+      "status": "passed"
+    },
+    {
+      "path": "project_resources/assets/world_hunyuan_20261018/archives/world_oct18.zip.part0036",
+      "bytes": 4194304,
+      "sha256": "3ff1486a26988d7eb470c7ccecba285279273bf6dca600f1f708145a06c5ecbf",
+      "status": "passed"
+    },
+    {
+      "path": "project_resources/assets/world_hunyuan_20261018/archives/world_oct18.zip.part0037",
+      "bytes": 4194304,
+      "sha256": "ca2d0cb3e73d7f3365c4d1d65b4e49acb9cd35c75ad876467ee2b1925d88eb8c",
+      "status": "passed"
+    },
+    {
+      "path": "project_resources/assets/world_hunyuan_20261018/archives/world_oct18.zip.part0038",
+      "bytes": 4194304,
+      "sha256": "3b3496110ea45146fae78518f36b1e37596383edefe075239a543590e22caf07",
+      "status": "passed"
+    },
+    {
+      "path": "project_resources/assets/world_hunyuan_20261018/archives/world_oct18.zip.part0039",
+      "bytes": 4194304,
+      "sha256": "b8f55ed13736d32ae7fd20f78918a52dc130977a96ffcfd5443e6c24ddb7526a",
+      "status": "passed"
+    },
+    {
+      "path": "project_resources/assets/world_hunyuan_20261018/archives/world_oct18.zip.part0040",
+      "bytes": 4194304,
+      "sha256": "1238cb3c2465ebf48bd1067bb858cccebbb1ddb4e27c55abe7b9217d29d6ca12",
+      "status": "passed"
+    },
+    {
+      "path": "project_resources/assets/world_hunyuan_20261018/archives/world_oct18.zip.part0041",
+      "bytes": 4194304,
+      "sha256": "ba4bdad84ac9b721aae860dc938e80301a6f9645725a6238b20f457a4f614e91",
+      "status": "passed"
+    },
+    {
+      "path": "project_resources/assets/world_hunyuan_20261018/archives/world_oct18.zip.part0042",
+      "bytes": 4194304,
+      "sha256": "ee3fc1731c1089499dd639d0e156483a25b6088974e406ae32d61f9701064587",
+      "status": "passed"
+    },
+    {
+      "path": "project_resources/assets/world_hunyuan_20261018/archives/world_oct18.zip.part0043",
+      "bytes": 4194304,
+      "sha256": "e821a9f2fca7110cedb7a2c9d63c7b58c69e55c8b6c95a9dbd8550db431fbf02",
+      "status": "passed"
+    },
+    {
+      "path": "project_resources/assets/world_hunyuan_20261018/archives/world_oct18.zip.part0044",
+      "bytes": 4194304,
+      "sha256": "69a18ac1a2d599be9a1e53d5028fa96e598b6fb6a20873c2ba4be5f6916daaa4",
+      "status": "passed"
+    },
+    {
+      "path": "project_resources/assets/world_hunyuan_20261018/archives/world_oct18.zip.part0045",
+      "bytes": 4194304,
+      "sha256": "dd02d87f71ca649ed883eac5fc14886d08918e67b02c17c4e3f2f6dedd097a59",
+      "status": "passed"
+    },
+    {
+      "path": "project_resources/assets/world_hunyuan_20261018/archives/world_oct18.zip.part0046",
+      "bytes": 4194304,
+      "sha256": "85895ed2295040a1c6719b6d12f282e3fc8aad2fec4bbdce033659d986e0684f",
+      "status": "passed"
+    },
+    {
+      "path": "project_resources/assets/world_hunyuan_20261018/archives/world_oct18.zip.part0047",
+      "bytes": 4194304,
+      "sha256": "4d0b6531934e38cf1c57c0854c49154ead8a36706f0d4dda5cbfc06af7d997b9",
+      "status": "passed"
+    },
+    {
+      "path": "project_resources/assets/world_hunyuan_20261018/archives/world_oct18.zip.part0048",
+      "bytes": 4194304,
+      "sha256": "cfe108f1de87a97aa226ef690ff179ecb3435c81d3f67d4ef0aa1211f1aa2107",
+      "status": "passed"
+    },
+    {
+      "path": "project_resources/assets/world_hunyuan_20261018/archives/world_oct18.zip.part0049",
+      "bytes": 4194304,
+      "sha256": "6f122d2b9b18fc7fa51a31d58dc5c7268072acf33adcc5f893f09e45c8142ddb",
+      "status": "passed"
+    },
+    {
+      "path": "project_resources/assets/world_hunyuan_20261018/archives/world_oct18.zip.part0050",
+      "bytes": 4194304,
+      "sha256": "6e6a957799cdc14baf4423a4d3b0dcdcfeb0a649e0b561db4e117b59b4b3801d",
+      "status": "passed"
+    },
+    {
+      "path": "project_resources/assets/world_hunyuan_20261018/archives/world_oct18.zip.part0051",
+      "bytes": 4194304,
+      "sha256": "4249e31e88cb34678c0218c2934a4c1eeb3fc7f9cddfe924148498d964b8a7f4",
+      "status": "passed"
+    },
+    {
+      "path": "project_resources/assets/world_hunyuan_20261018/archives/world_oct18.zip.part0052",
+      "bytes": 4194304,
+      "sha256": "892640426cd508c1751395442bc1830840ba57772e8c956b61746ab93172741e",
+      "status": "passed"
+    },
+    {
+      "path": "project_resources/assets/world_hunyuan_20261018/archives/world_oct18.zip.part0053",
+      "bytes": 4194304,
+      "sha256": "e37565bb31f06138cb1f9c6718ea540f5f1d8776092ccf04314a3c0d2cef4501",
+      "status": "passed"
+    },
+    {
+      "path": "project_resources/assets/world_hunyuan_20261018/archives/world_oct18.zip.part0054",
+      "bytes": 4194304,
+      "sha256": "8856eb603b0ace1a26037331254c70ae03418a287529ed6de7089d7364a4d09a",
+      "status": "passed"
+    },
+    {
+      "path": "project_resources/assets/world_hunyuan_20261018/archives/world_oct18.zip.part0055",
+      "bytes": 4194304,
+      "sha256": "365bd6e2e7a383cfbb119cbfca214c6725b63ae93810d600bba60d82fa3af473",
+      "status": "passed"
+    },
+    {
+      "path": "project_resources/assets/world_hunyuan_20261018/archives/world_oct18.zip.part0056",
+      "bytes": 4194304,
+      "sha256": "82c758f7d6c0dbe4a344c83e1b3049bcf70423bfaf7fbbb035b56befc50f7c50",
+      "status": "passed"
+    },
+    {
+      "path": "project_resources/assets/world_hunyuan_20261018/archives/world_oct18.zip.part0057",
+      "bytes": 4194304,
+      "sha256": "38402e5d02c649056b4c99bd5e12d94dc804895a323b4e02683b5afc076571db",
+      "status": "passed"
+    },
+    {
+      "path": "project_resources/assets/world_hunyuan_20261018/archives/world_oct18.zip.part0058",
+      "bytes": 4194304,
+      "sha256": "f885eb8937cca30aebbc74c1564b845d33370ee80392c93ab3c1df23d6103e71",
+      "status": "passed"
+    },
+    {
+      "path": "project_resources/assets/world_hunyuan_20261018/archives/world_oct18.zip.part0059",
+      "bytes": 4194304,
+      "sha256": "9b3dc6f7a017ea2fc46cca70b48920267c0b4251d42a88f2a5dc70799bd3b5c4",
+      "status": "passed"
+    },
+    {
+      "path": "project_resources/assets/world_hunyuan_20261018/archives/world_oct18.zip.part0060",
+      "bytes": 4194304,
+      "sha256": "20a1ef2b605c23e447b63c1a1a954cc4b3f1c21afb3a71eadbf8a587f3712aa8",
+      "status": "passed"
+    },
+    {
+      "path": "project_resources/assets/world_hunyuan_20261018/archives/world_oct18.zip.part0061",
+      "bytes": 4194304,
+      "sha256": "6bfb45a013431d82f56e7dd54030e55460cfb61e78973092d553d26663e24d71",
+      "status": "passed"
+    },
+    {
+      "path": "project_resources/assets/world_hunyuan_20261018/archives/world_oct18.zip.part0062",
+      "bytes": 4194304,
+      "sha256": "2a3ea04f0a9ffd1680c1050e17a85e9c6af6a2cb578c02f9ccda36758bd70722",
+      "status": "passed"
+    },
+    {
+      "path": "project_resources/assets/world_hunyuan_20261018/archives/world_oct18.zip.part0063",
+      "bytes": 4194304,
+      "sha256": "e380abe9565e974dc9c40786bd668e6c52c9ba52fa5211a4b2cc5080bd6194ff",
+      "status": "passed"
+    },
+    {
+      "path": "project_resources/assets/world_hunyuan_20261018/archives/world_oct18.zip.part0064",
+      "bytes": 4194304,
+      "sha256": "d03db16982b85ec5c3c50ade26c739b72a1075638b3554d57c19c6a7d80f828a",
+      "status": "passed"
+    },
+    {
+      "path": "project_resources/assets/world_hunyuan_20261018/archives/world_oct18.zip.part0065",
+      "bytes": 4194304,
+      "sha256": "5892f0ea8a074c86b062acde3a949dff108b0738a374c0e2856c425521f5290a",
+      "status": "passed"
+    },
+    {
+      "path": "project_resources/assets/world_hunyuan_20261018/archives/world_oct18.zip.part0066",
+      "bytes": 4194304,
+      "sha256": "435121fc578488881ac4a7b27f8281625ae12798dd9caefdb11acc80a57c51ae",
+      "status": "passed"
+    },
+    {
+      "path": "project_resources/assets/world_hunyuan_20261018/archives/world_oct18.zip.part0067",
+      "bytes": 4194304,
+      "sha256": "3ba8d062907646d133c9f652d134de71f03ca9f77e45b3b70a7eb63363462cd9",
+      "status": "passed"
+    },
+    {
+      "path": "project_resources/assets/world_hunyuan_20261018/archives/world_oct18.zip.part0068",
+      "bytes": 4194304,
+      "sha256": "b9fd4aec2bf67e4f35e11f4ec267e1e0dce4f1d2ca4a196940b9fb2bcff8932f",
+      "status": "passed"
+    },
+    {
+      "path": "project_resources/assets/world_hunyuan_20261018/archives/world_oct18.zip.part0069",
+      "bytes": 4194304,
+      "sha256": "3a4adaa40f20bbdf22673946430e66a5f3f1007d4f251cb89a5caca5ab3e4ccf",
+      "status": "passed"
+    },
+    {
+      "path": "project_resources/assets/world_hunyuan_20261018/archives/world_oct18.zip.part0070",
+      "bytes": 4194304,
+      "sha256": "44c5c9393c0bd9ecf0cec05a1a55d0e4417331ed937672a1b91d0ffa2edf5975",
+      "status": "passed"
+    },
+    {
+      "path": "project_resources/assets/world_hunyuan_20261018/archives/world_oct18.zip.part0071",
+      "bytes": 4194304,
+      "sha256": "d8a0c3e0dcce9c03c81a0735f14edd423a247316015cd689c1f731c0309ff135",
+      "status": "passed"
+    },
+    {
+      "path": "project_resources/assets/world_hunyuan_20261018/archives/world_oct18.zip.part0072",
+      "bytes": 4194304,
+      "sha256": "61bf1e314e0c43db30ae1535fa006aca337491e6284704b15ea20732f5947e15",
+      "status": "passed"
+    },
+    {
+      "path": "project_resources/assets/world_hunyuan_20261018/archives/world_oct18.zip.part0073",
+      "bytes": 4194304,
+      "sha256": "2d43f396c2f516e947b1faabfdd5aa3e1c07cdc6bb82e7dc35c3b658f245cc4e",
+      "status": "passed"
+    },
+    {
+      "path": "project_resources/assets/world_hunyuan_20261018/archives/world_oct18.zip.part0074",
+      "bytes": 4194304,
+      "sha256": "f17c47ac522f8275e209d5d9dff240094a3d380cbd8cda1a93cad22097c0878d",
+      "status": "passed"
+    },
+    {
+      "path": "project_resources/assets/world_hunyuan_20261018/archives/world_oct18.zip.part0075",
+      "bytes": 1708109,
+      "sha256": "049a21e729726aeff273f62b179c3cb40f340efa048e3796cd0029eea8f4ae2a",
+      "status": "passed"
+    },
+    {
+      "path": "project_resources/assets/world_hunyuan_20261018/authoring_oct18_manifest.json",
+      "bytes": 12040,
+      "sha256": "0b374f448ae7491376e36690506d6908c150eddda407870a2e676c5e1116571d",
+      "status": "passed"
+    },
+    {
+      "path": "project_resources/assets/world_hunyuan_20261018/download_oct18.py",
+      "bytes": 980,
+      "sha256": "7911d04a622a5919df9edcc071a07670eb723c352222935841c62bd540035dee",
+      "status": "passed"
+    },
+    {
+      "path": "project_resources/assets/world_hunyuan_20261018/original_sources_manifest.json",
+      "bytes": 33754,
+      "sha256": "29a4e3d6940fd10a8181bf67ddce4ebb4c525e47d8774e31966ec542d16e2461",
+      "status": "passed"
+    },
+    {
+      "path": "project_resources/assets/world_hunyuan_20261018/prepare_authoring_workspace.py",
+      "bytes": 1228,
+      "sha256": "f2c6c71efd3f0d6af9a1c1a4fa9aad5423b113ae9a0256e6a8a5391ea0e57790",
+      "status": "passed"
+    },
+    {
+      "path": "project_resources/assets/world_hunyuan_20261018/previews/blossom_island_Blender_offline.png",
+      "bytes": 1111892,
+      "sha256": "4a53eed6a44eb526d4ab1a7fcb54b06e9ddfa68bf7e84c2ab3c0cc1c6d722409",
+      "status": "passed"
+    },
+    {
+      "path": "project_resources/assets/world_hunyuan_20261018/previews/east_city_Blender_offline.png",
+      "bytes": 1403770,
+      "sha256": "6265b42200caeabf7727f8daa32cc8c04e5527467ab991be29b1e6fe954d155d",
+      "status": "passed"
+    },
+    {
+      "path": "project_resources/assets/world_hunyuan_20261018/previews/east_wall_Blender_offline.png",
+      "bytes": 1379666,
+      "sha256": "7bdd2ae88c983ea1fb8af48e7a49b65f6fb468aca986ccf71611040038dd39df",
+      "status": "passed"
+    },
+    {
+      "path": "project_resources/assets/world_hunyuan_20261018/previews/harbor_Blender_offline.png",
+      "bytes": 1394548,
+      "sha256": "92d00ff1268d6d157c0eded7b71eb52304e58e94bc0dce0d6ced3a9d76b3d73f",
+      "status": "passed"
+    },
+    {
+      "path": "project_resources/assets/world_hunyuan_20261018/previews/overview_Blender_offline.png",
+      "bytes": 1771706,
+      "sha256": "5283d915523edec1381da1625ab5050932a193c8297823805dc4f1c79debeb12",
+      "status": "passed"
+    },
+    {
+      "path": "project_resources/assets/world_hunyuan_20261018/previews/skiff_Blender_offline.png",
+      "bytes": 1317843,
+      "sha256": "d550ab4c6b0199a7eb1808a7288c81081194183559c554f7b1bb949c05aef91f",
+      "status": "passed"
+    },
+    {
+      "path": "project_resources/assets/world_hunyuan_20261018/restore_verified_archive.py",
+      "bytes": 3237,
+      "sha256": "d01857bbadbb46153cfcc058e19e64574f973d1baa471dad140d43986174f159",
+      "status": "passed"
+    },
+    {
+      "path": "project_resources/assets/world_hunyuan_20261018/world_oct18_manifest.json",
+      "bytes": 25842,
+      "sha256": "99873f5f37571618a5bf8459239ad28ec306081d116be1369321ff55396094a7",
+      "status": "passed"
+    }
+  ],
+  "scope_limit": "File integrity only. Art, physics, traversal and runtime limits remain in README/RESULTS."
+}
