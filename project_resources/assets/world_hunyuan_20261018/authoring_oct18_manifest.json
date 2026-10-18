@@ -1,0 +1,322 @@
+{
+  "archive": "authoring_oct18.zip",
+  "archive_size": 51292636,
+  "archive_sha256": "91e5ff777250acfa1a479fea39bb423d4d762edbc9b9c8f702f40715b10e8351",
+  "parts": [
+    {
+      "name": "authoring_oct18.zip.part0001",
+      "size": 4194304,
+      "sha256": "ea16089d69b67034a30222ee76294acb0c5b1d5b1eb25884e3830d213ee6740b",
+      "git_blob_sha1": "dc2e9a94a2c7e53f863a538e40a8990dc6198be6"
+    },
+    {
+      "name": "authoring_oct18.zip.part0002",
+      "size": 4194304,
+      "sha256": "5e644b908b109bf2954d985e48a305e9a4f7a0b5410e58226592be492396c734",
+      "git_blob_sha1": "2421f77164fd4a56513626dcdb820370af2f0a46"
+    },
+    {
+      "name": "authoring_oct18.zip.part0003",
+      "size": 4194304,
+      "sha256": "1e33a10b3e53052f82835ec8b7359d2a3ca4e5b87ea53c7184a0cf22ebe20c6f",
+      "git_blob_sha1": "f5641c339e3318dde1c62cddb5df13c86a757cac"
+    },
+    {
+      "name": "authoring_oct18.zip.part0004",
+      "size": 4194304,
+      "sha256": "aeb9e3e947fd9f3d17bcd1b109b95d1d44ab1536138652a9c93ef77117dee9a6",
+      "git_blob_sha1": "32a932d9ff65350130a6e6c03cbb2405b6978db4"
+    },
+    {
+      "name": "authoring_oct18.zip.part0005",
+      "size": 4194304,
+      "sha256": "bf81eabcc18232aeab16babe7bce381be1f41b6ebaf1ec7c3144e802be18e6f8",
+      "git_blob_sha1": "4a5e73a4ec651d7e4a3b005258a57f879e6b2ded"
+    },
+    {
+      "name": "authoring_oct18.zip.part0006",
+      "size": 4194304,
+      "sha256": "cde5c7640c6798124a0410af6bd3be49a8e867f03d41280b5df92d519bfe6a2e",
+      "git_blob_sha1": "053bb5f65e1104dcfccb6649b86cea0de73f9e02"
+    },
+    {
+      "name": "authoring_oct18.zip.part0007",
+      "size": 4194304,
+      "sha256": "5663a7bc6b98621018795d1a05eedbf32f2ce9fecb236ec5cf7effdb5b98d2a0",
+      "git_blob_sha1": "c8c318202264b5750df930953528e9f9b273b03f"
+    },
+    {
+      "name": "authoring_oct18.zip.part0008",
+      "size": 4194304,
+      "sha256": "5be59c75fec4dc87a5aca7efcb95ffc4fb06bd35c40476e7329c954498a4b07d",
+      "git_blob_sha1": "f33284e2a07778c12885d2ac73d2fb4db19a962e"
+    },
+    {
+      "name": "authoring_oct18.zip.part0009",
+      "size": 4194304,
+      "sha256": "1e66d395ceace2809e6bcf2543a996f19285dae7b1e50531aba0044c83b3345e",
+      "git_blob_sha1": "9bde513687ea922ba321960e0c130073d7e4aff1"
+    },
+    {
+      "name": "authoring_oct18.zip.part0010",
+      "size": 4194304,
+      "sha256": "61b0846a1b513e8ec627c7e85e1f7ed67574a116b908a8c8f8905fab25003505",
+      "git_blob_sha1": "53cdeb8d60a7083a12ccb25151e9eeeb3664a985"
+    },
+    {
+      "name": "authoring_oct18.zip.part0011",
+      "size": 4194304,
+      "sha256": "6c9a177cd54d01c21ea8b0be543203985f6df44fbd623fffc51a9f51e8112cfb",
+      "git_blob_sha1": "3dc7cf7cc214bf80cdf846add449806c354213df"
+    },
+    {
+      "name": "authoring_oct18.zip.part0012",
+      "size": 4194304,
+      "sha256": "d3a83c3f343c0801b48d1151af9e9e381e1c4ff30aaa15e3333c4d77931cf243",
+      "git_blob_sha1": "e08fbc1aa87d9f5a3ff4f58c7af2e43f98a919ac"
+    },
+    {
+      "name": "authoring_oct18.zip.part0013",
+      "size": 960988,
+      "sha256": "5cd2d6d75405f0c416fbe0bfab5b006b614bd0be6ce7275ae071b76dfe4e478b",
+      "git_blob_sha1": "a7d264414585cb1bf4f1c49ead981d960ced203f"
+    }
+  ],
+  "files": [
+    {
+      "path": "authoring/tree_restore/tree_blossom_master.blend",
+      "size": 30342213,
+      "sha256": "26533da9eed4e0ce4eab07f941af99ddad7b4f042c9a2c32a9fa9138e89b2bea"
+    },
+    {
+      "path": "authoring/tree_restore/restore_tree.py",
+      "size": 5827,
+      "sha256": "68696637b6105c4750962aa58875fb5235a9fabd16ee512e08321798951abe52"
+    },
+    {
+      "path": "authoring/tree_restore/inspect.py",
+      "size": 1711,
+      "sha256": "d159bab7893cf7b3981d7adb6908219db91923a60541a741f43e7ff5c7af1da3"
+    },
+    {
+      "path": "authoring/tree_restore/optimize_textures.py",
+      "size": 959,
+      "sha256": "865060c44bd5224ba25fbd2fda94e8582940f4e482576536d31cbb17e7acc6ac"
+    },
+    {
+      "path": "authoring/tree_restore/render_final.py",
+      "size": 1941,
+      "sha256": "aa5ffa8e61d87eb9c30832226d57524d930560016e765a7cf5f9c33395cf6e2e"
+    },
+    {
+      "path": "authoring/tree_restore/check_roundtrip.py",
+      "size": 707,
+      "sha256": "ab483f6ff0d6856fd1b18a97dcdabe30b6da3894c26e17d4be7aed0f469e8251"
+    },
+    {
+      "path": "authoring/tree_restore/validation.json",
+      "size": 1728,
+      "sha256": "eab8bc29046d6345519eeb06af6a3a19c526d49e5504c6bfeb92593af6fd2110"
+    },
+    {
+      "path": "authoring/tree_restore/godot_validation.json",
+      "size": 1912,
+      "sha256": "1b6066375642ba937ec14390e2d560983c5985ca39048f894d5038b410464195"
+    },
+    {
+      "path": "authoring/tree_restore/README.txt",
+      "size": 2271,
+      "sha256": "87c758a00d98cf7f7a969d8dad95c8ee13fd638bb25a32f5c0792235636da094"
+    },
+    {
+      "path": "authoring/tree_restore/before.png",
+      "size": 866986,
+      "sha256": "14a48d3c086671c3d73f4ff03c8c10a2830c79ab52ed807699102778f12cfc5f"
+    },
+    {
+      "path": "authoring/tree_restore/after_front.png",
+      "size": 1530606,
+      "sha256": "6087a5b71fb66ddb8dae5c9ecc91ecb61e09c96d1443a511727b8d1a7108c785"
+    },
+    {
+      "path": "authoring/tree_restore/after_threequarter.png",
+      "size": 1504065,
+      "sha256": "0255217837c87923242844c8f201f4287586228545db8ddaf71663428f99af84"
+    },
+    {
+      "path": "authoring/assets_oct18/buildings_boats_qa/build_contact.py",
+      "size": 509,
+      "sha256": "a41cee6df0c9c733682b807f602ea0d3bde6c3115f37e05df7091d706fc0a8f3"
+    },
+    {
+      "path": "authoring/assets_oct18/buildings_boats_qa/derive.py",
+      "size": 3040,
+      "sha256": "9f581acaa66dab4e8521b79d065cb31f55ae869a32c8f3f4dfa636c8700a4582"
+    },
+    {
+      "path": "authoring/assets_oct18/buildings_boats_qa/entry_lod.py",
+      "size": 587,
+      "sha256": "054f07a0cb4efc5c612def6cbbc0221a2b5af9892444b11ac41af9ff40de4da3"
+    },
+    {
+      "path": "authoring/assets_oct18/buildings_boats_qa/inspect.py",
+      "size": 2228,
+      "sha256": "fd524df3831b3d5907d2ab3c6b5dea6d88702156a9ec4408da1e59b28a392583"
+    },
+    {
+      "path": "authoring/assets_oct18/buildings_boats_qa/probe.py",
+      "size": 1123,
+      "sha256": "0161e58de965d226e4304f67e710f59b4e53f2cd449bcdc1e161be3822efb600"
+    },
+    {
+      "path": "authoring/assets_oct18/buildings_boats_qa/render_derived.py",
+      "size": 2215,
+      "sha256": "9da3646cbbdf4a9b523ac92939051d74c365067fa597540b6becb46242ea55ff"
+    },
+    {
+      "path": "authoring/assets_oct18/buildings_boats_qa/repair_entry.py",
+      "size": 2794,
+      "sha256": "8f82f10b9ec939cd237feb98cf42b93d5de8373f24094b46424041c2ed4011ba"
+    },
+    {
+      "path": "authoring/assets_oct18/buildings_boats_qa/tower_deck_probe.py",
+      "size": 313,
+      "sha256": "6bfd30ed6a2d407f94a2ee6cd2658533129bb14f5ad0f9d9f0a64c009720a529"
+    },
+    {
+      "path": "authoring/assets_oct18/buildings_boats_qa/validate.py",
+      "size": 1968,
+      "sha256": "db266be03aeb7e84f113f48e2935b49a26812c16dfdeb6e4c66013bd8f58d8a9"
+    },
+    {
+      "path": "authoring/assets_oct18/buildings_boats_qa/wall_tower_probe.py",
+      "size": 312,
+      "sha256": "b7fa89a6bc6b210dc2e6da9bd5e5865be5e26a530aa0c59186851acb67956e41"
+    },
+    {
+      "path": "authoring/assets_oct18/buildings_boats_qa/source_vs_repaired.png",
+      "size": 1073813,
+      "sha256": "02aae86bba7896448dd7e9d082071e826c97bc167a07fd9436590f65bb432b48"
+    },
+    {
+      "path": "authoring/assets_oct18/repaired_buildings_boats/boat.json",
+      "size": 1195,
+      "sha256": "41b8fad17540f4315b8b361b4d8e908484bb1daef501d5982030e98601be08ad"
+    },
+    {
+      "path": "authoring/assets_oct18/repaired_buildings_boats/boat_mini.json",
+      "size": 1210,
+      "sha256": "9e1fc53d89a0bb28625dd3a5e0c00f12e6555043cdc363538a543f92a6be24f2"
+    },
+    {
+      "path": "authoring/assets_oct18/repaired_buildings_boats/hotel.json",
+      "size": 1196,
+      "sha256": "492df176bf85abecd4929c332f981cf3694361ef6517f758ca7f0039ac348d3d"
+    },
+    {
+      "path": "authoring/assets_oct18/repaired_buildings_boats/house_a.json",
+      "size": 1205,
+      "sha256": "88f8021b750f9ae4aa916cb9eaa39ddca2fe8b3cf19f84fb835c4cd49bc27af6"
+    },
+    {
+      "path": "authoring/assets_oct18/repaired_buildings_boats/house_a_entry_repair.json",
+      "size": 634,
+      "sha256": "ab8b1bfe7856c072cc24c18408e0a466f323f0e949fe96b893c4425294d3d50e"
+    },
+    {
+      "path": "authoring/assets_oct18/repaired_buildings_boats/loft.json",
+      "size": 1191,
+      "sha256": "1d3677c14a5053b42064db20d8dd6ac902c2dc6fc28ce98a6bdae26e8e8b5e55"
+    },
+    {
+      "path": "authoring/assets_oct18/repaired_buildings_boats/manifest.json",
+      "size": 25729,
+      "sha256": "80c3ac579b05c2cd1e49a6e46cc2249f0bc33d3dc3b7af0628da3f0e9dc6cae6"
+    },
+    {
+      "path": "authoring/assets_oct18/repaired_buildings_boats/tower.json",
+      "size": 1198,
+      "sha256": "372954b95ea122a5a7c6f620257d7a4d6568a89d4be95b0b43e8ba0c57507c11"
+    },
+    {
+      "path": "authoring/assets_oct18/repaired_buildings_boats/validation.json",
+      "size": 10353,
+      "sha256": "180f8ac856f4f6390309db4c570cb565c7156eb962f7582b08e0872085405e14"
+    },
+    {
+      "path": "authoring/assets_oct18/repaired_buildings_boats/wall.json",
+      "size": 1198,
+      "sha256": "142375329c775da2c33fd51da9909a753793073f6bfa660cfe73472cdb995cef"
+    },
+    {
+      "path": "authoring/assets_oct18/repaired_buildings_boats/README.md",
+      "size": 3314,
+      "sha256": "30618c71ddd1df1e35d078053bb55c933e68862d0091fd8242c1496e2229ccb2"
+    },
+    {
+      "path": "authoring/assets_oct18/references/01_东港双桅商船.png",
+      "size": 2285322,
+      "sha256": "38218e34ee90de3ff16c62abd28da3a051bb1986e22c5a9e343fde3fd87ccce6"
+    },
+    {
+      "path": "authoring/assets_oct18/references/02_乌篷小船.png",
+      "size": 2000433,
+      "sha256": "affe2efb9bd8898d66eff24af6a496c2c4aa55adea7fd685e665364d46e26760"
+    },
+    {
+      "path": "authoring/assets_oct18/references/03_桃花岛粉花主树.png",
+      "size": 2750949,
+      "sha256": "807d2b4b5c2d363b6ca379c8876d40ecfa0f86c61503d46fbd95045fde6a03fa"
+    },
+    {
+      "path": "authoring/assets_oct18/references/04_东城直城墙模块_通路修订.png",
+      "size": 2612365,
+      "sha256": "df839f14f3a96d918f355f4e5ec984abb7a53e8cc2d44379a256ac3a86bfeca2"
+    },
+    {
+      "path": "authoring/assets_oct18/references/05_东城转角望楼.png",
+      "size": 2623419,
+      "sha256": "9e172a953ac5a9a1827d8055df57a517e2d3d310c7729554841e5f1b3b2c6d96"
+    },
+    {
+      "path": "authoring/assets_oct18/references/06_街巷单层民居.png",
+      "size": 2464022,
+      "sha256": "f844431b9a84bfcad5b7a603b1c38d87a2c20d2314c3e9475e23928102c06a05"
+    },
+    {
+      "path": "authoring/assets_oct18/references/07_街巷双层民居.png",
+      "size": 2357464,
+      "sha256": "38189066f0c60b1f3c85539ca2d1d45a0df580c9bfc57efd064b82c726bdf05c"
+    },
+    {
+      "path": "authoring/assets_oct18/references/08_临街铺面.png",
+      "size": 2724576,
+      "sha256": "5d4888eed151dbb97a52ca95285c02e05814e3aba78998aa0f75d626a18e8fbc"
+    },
+    {
+      "path": "authoring/assets_oct18/references/09_粉花小树_可选变体.png",
+      "size": 2191922,
+      "sha256": "3b4085153d7c01df44739a9e70fb2bb1a82c5f41a8dc6d78f1b243064e70511d"
+    },
+    {
+      "path": "authoring/assets_oct18/references/contact.png",
+      "size": 1580540,
+      "sha256": "08ed4c709bfa5b8d82520a932a1dac954dc80e218c4a24e42e7dc9b9b4be38c1"
+    },
+    {
+      "path": "authoring/assets_oct18/references/manifest.json",
+      "size": 1393,
+      "sha256": "becf396b0dbfa398a100f60c01a3865ff112e8ddef770c200fbfbad655fefa02"
+    },
+    {
+      "path": "authoring/assets_oct18/references/使用说明.txt",
+      "size": 2539,
+      "sha256": "79017b4c5da97dc337d68eb1814a915f8c008ea24c7707e6a475a45776f833bc"
+    },
+    {
+      "path": "authoring/assets_oct18/reference/C_群峰盆地型.png",
+      "size": 3528695,
+      "sha256": "a9bf4434b0664ce35ab6b5725dc69752a2c2d1efeed96c26afc6f98bb97c3468"
+    }
+  ]
+}
