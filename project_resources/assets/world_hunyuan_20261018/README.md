@@ -17,9 +17,9 @@
 
 下载 [download_oct18.py](download_oct18.py) 和 [restore_verified_archive.py](restore_verified_archive.py)，放在同一文件夹。Python3运行：
 
-`python download_oct18.py --ref FULL_COMMIT_SHA --group world --output restored_oct18`
+`python download_oct18.py --ref f7e3fa4b3d8231b2b191c94d3acdee42d23c52d1 --group world --output restored_oct18`
 
-FULL_COMMIT_SHA使用本PR已验证的资产提交（见后续UPLOAD_VERIFIED.json）。恢复默认只下载世界运行交付；`--group sources`下载原模型，`--group authoring`下载制作文件/原参考图，`--group all`下载全部。每块与整ZIP的SHA256、ZIP CRC及每个内部文件SHA256均核验。分卷不可单独解压。
+f7e3fa4b3d8231b2b191c94d3acdee42d23c52d1是资产固定提交；全量公网回下载结果见[UPLOAD_VERIFIED.json](UPLOAD_VERIFIED.json)。恢复默认只下载世界运行交付；`--group sources`下载原模型，`--group authoring`下载制作文件/原参考图，`--group all`下载全部。每块与整ZIP的SHA256、ZIP CRC及每个内部文件SHA256均核验。分卷不可单独解压。
 
 恢复world之后运行：
 
